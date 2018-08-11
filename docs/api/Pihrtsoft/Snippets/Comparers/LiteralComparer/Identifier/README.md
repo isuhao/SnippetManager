@@ -1,0 +1,18 @@
+# LiteralComparer\.Identifier Property
+
+**Namespace**: [Pihrtsoft.Snippets.Comparers](../../README.md)
+
+**Assembly**: Pihrtsoft\.Snippets\.dll
+
+## Summary
+
+Gets a [LiteralComparer](../README.md) that performs a case\-sensitive ordinal [Literal.Identifier](../../../Literal/Identifier/README.md) comparison\.
+
+```csharp
+public static LiteralComparer Identifier { get; }
+```
+
+### Property Value
+
+[LiteralComparer](../README.md)
+
