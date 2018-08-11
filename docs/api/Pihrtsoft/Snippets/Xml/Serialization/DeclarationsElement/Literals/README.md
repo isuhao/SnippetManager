@@ -1,6 +1,6 @@
 # DeclarationsElement\.Literals Property
 
-**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[DeclarationsElement](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -9,7 +9,7 @@
 Gets or sets array of Literal elements\.
 
 ```csharp
-[System.Xml.Serialization.XmlElementAttribute]
+[System.Xml.Serialization.XmlElementAttribute("Literal")]
 public LiteralElement[] Literals { get; set; }
 ```
 

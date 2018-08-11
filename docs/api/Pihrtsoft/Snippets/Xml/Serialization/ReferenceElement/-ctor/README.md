@@ -1,6 +1,6 @@
 # ReferenceElement\(\) Constructor
 
-**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[ReferenceElement](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 

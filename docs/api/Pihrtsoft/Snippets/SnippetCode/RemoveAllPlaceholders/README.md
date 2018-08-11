@@ -1,6 +1,6 @@
 # SnippetCode\.RemoveAllPlaceholders\(\) Method
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetCode](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,6 +14,6 @@ public string RemoveAllPlaceholders()
 
 ### Returns
 
-[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 A new [String](https://docs.microsoft.com/en-us/dotnet/api/system.string) where all placeholders are removed\.

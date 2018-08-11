@@ -1,6 +1,6 @@
 # SnippetComparer\.Compare Method
 
-**Namespace**: [Pihrtsoft.Snippets.Comparers](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[SnippetComparer\<T>](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -30,7 +30,7 @@ public override int Compare(object x, object y)
 
 #### Returns
 
-[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
+System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
 A signed integer that indicates the relative values of **x** and **y**\.
 
@@ -53,6 +53,6 @@ public override int Compare(Snippet x, Snippet y)
 
 #### Returns
 
-[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
+System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
 A signed integer that indicates the relative values of **x** and **y**\.

@@ -1,6 +1,6 @@
 # LiteralCollection\.Sort Method
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[LiteralCollection](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 

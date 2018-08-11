@@ -1,6 +1,6 @@
 # Snippet\.AlternativeShortcuts Property
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[Snippet](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,5 +14,5 @@ public ShortcutCollection AlternativeShortcuts { get; }
 
 ### Property Value
 
-[ShortcutCollection](../../ShortcutCollection/README.md)
+Pihrtsoft\.Snippets\.[ShortcutCollection](../../ShortcutCollection/README.md)
 

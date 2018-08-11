@@ -1,6 +1,6 @@
 # KeywordCollection\.Sort Method
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[KeywordCollection](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 

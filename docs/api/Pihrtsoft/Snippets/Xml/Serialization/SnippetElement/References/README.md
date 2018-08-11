@@ -1,6 +1,6 @@
 # SnippetElement\.References Property
 
-**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[SnippetElement](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -9,7 +9,7 @@
 Gets or sets References element\.
 
 ```csharp
-[System.Xml.Serialization.XmlArrayItemAttribute]
+[System.Xml.Serialization.XmlArrayItemAttribute("Reference")]
 public ReferenceElement[] References { get; set; }
 ```
 

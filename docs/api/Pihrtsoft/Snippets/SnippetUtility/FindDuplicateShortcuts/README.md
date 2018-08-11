@@ -1,6 +1,6 @@
 # SnippetUtility\.FindDuplicateShortcuts\(IEnumerable\<Snippet>\) Method
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetUtility](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -20,7 +20,7 @@ public static IEnumerable<DuplicateShortcutInfo> FindDuplicateShortcuts(IEnumera
 
 ### Returns
 
-[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[DuplicateShortcutInfo](../../DuplicateShortcutInfo/README.md)>
+System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<Pihrtsoft\.Snippets\.[DuplicateShortcutInfo](../../DuplicateShortcutInfo/README.md)>
 
 Enumerable collection of [DuplicateShortcutInfo](../../DuplicateShortcutInfo/README.md) where each element contains shortcut and snippets with that shortcut\.
 

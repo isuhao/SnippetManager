@@ -1,6 +1,6 @@
 # Literal\.CreateClassNameLiteral\(String, String, String\) Method
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[Literal](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -22,7 +22,7 @@ public static Literal CreateClassNameLiteral(string identifier, string toolTip =
 
 ### Returns
 
-[Literal](../README.md)
+Pihrtsoft\.Snippets\.[Literal](../README.md)
 
 [Literal](../README.md) with function that returns containing type name\.
 

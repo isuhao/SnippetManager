@@ -1,6 +1,6 @@
 # SnippetValidator\.Validate Method
 
-**Namespace**: [Pihrtsoft.Snippets.Validations](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md)\.[SnippetValidator](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -29,7 +29,7 @@ public IEnumerable<SnippetValidationResult> Validate(Snippet snippet)
 
 #### Returns
 
-[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[SnippetValidationResult](../../SnippetValidationResult/README.md)>
+System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<Pihrtsoft\.Snippets\.Validations\.[SnippetValidationResult](../../SnippetValidationResult/README.md)>
 
 A [SnippetValidationContext](../../SnippetValidationContext/README.md) that stores data about the validation\.
 
@@ -57,7 +57,7 @@ protected virtual IEnumerable<SnippetValidationResult> Validate(SnippetValidatio
 
 #### Returns
 
-[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[SnippetValidationResult](../../SnippetValidationResult/README.md)>
+System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<Pihrtsoft\.Snippets\.Validations\.[SnippetValidationResult](../../SnippetValidationResult/README.md)>
 
 #### Exceptions
 

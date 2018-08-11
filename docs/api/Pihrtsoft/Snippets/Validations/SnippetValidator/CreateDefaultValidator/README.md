@@ -1,6 +1,6 @@
 # SnippetValidator\.CreateDefaultValidator\(\) Method
 
-**Namespace**: [Pihrtsoft.Snippets.Validations](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md)\.[SnippetValidator](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,6 +14,6 @@ public static SnippetValidator CreateDefaultValidator()
 
 ### Returns
 
-[SnippetValidator](../README.md)
+Pihrtsoft\.Snippets\.Validations\.[SnippetValidator](../README.md)
 
 [SnippetValidator](../README.md) with predefined validation rules\.

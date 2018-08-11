@@ -1,6 +1,6 @@
 # Snippet\.Keywords Property
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[Snippet](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,5 +14,5 @@ public KeywordCollection Keywords { get; }
 
 ### Property Value
 
-[KeywordCollection](../../KeywordCollection/README.md)
+Pihrtsoft\.Snippets\.[KeywordCollection](../../KeywordCollection/README.md)
 

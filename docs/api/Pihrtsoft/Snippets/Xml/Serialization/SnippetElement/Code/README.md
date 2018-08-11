@@ -1,6 +1,6 @@
 # SnippetElement\.Code Property
 
-**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[SnippetElement](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,5 +14,5 @@ public CodeElement Code { get; set; }
 
 ### Property Value
 
-[CodeElement](../../CodeElement/README.md)
+Pihrtsoft\.Snippets\.Xml\.Serialization\.[CodeElement](../../CodeElement/README.md)
 

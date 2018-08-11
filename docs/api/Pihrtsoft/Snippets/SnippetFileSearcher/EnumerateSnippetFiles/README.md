@@ -1,6 +1,6 @@
 # SnippetFileSearcher\.EnumerateSnippetFiles Method
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetFileSearcher](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -31,7 +31,7 @@ public static IEnumerable<string> EnumerateSnippetFiles(IEnumerable<string> dire
 
 #### Returns
 
-[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)>
+System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)>
 
 An enumerable collection of snippet file names\.
 
@@ -60,7 +60,7 @@ public static IEnumerable<string> EnumerateSnippetFiles(IEnumerable<string> dire
 
 #### Returns
 
-[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)>
+System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)>
 
 An enumerable collection of snippet file names\.
 
@@ -88,7 +88,7 @@ public static IEnumerable<string> EnumerateSnippetFiles(string directoryPath)
 
 #### Returns
 
-[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)>
+System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)>
 
 An enumerable collection of snippet file names\.
 
@@ -117,7 +117,7 @@ public static IEnumerable<string> EnumerateSnippetFiles(string directoryPath, Se
 
 #### Returns
 
-[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)>
+System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)>
 
 An enumerable collection of snippet file names\.
 

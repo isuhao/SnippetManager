@@ -1,6 +1,6 @@
 # LiteralComparer\.Identifier Property
 
-**Namespace**: [Pihrtsoft.Snippets.Comparers](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[LiteralComparer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,5 +14,5 @@ public static LiteralComparer Identifier { get; }
 
 ### Property Value
 
-[LiteralComparer](../README.md)
+Pihrtsoft\.Snippets\.Comparers\.[LiteralComparer](../README.md)
 

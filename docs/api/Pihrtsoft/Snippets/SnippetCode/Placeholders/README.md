@@ -1,6 +1,6 @@
 # SnippetCode\.Placeholders Property
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetCode](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,5 +14,5 @@ public PlaceholderCollection Placeholders { get; }
 
 ### Property Value
 
-[PlaceholderCollection](../../PlaceholderCollection/README.md)
+Pihrtsoft\.Snippets\.[PlaceholderCollection](../../PlaceholderCollection/README.md)
 

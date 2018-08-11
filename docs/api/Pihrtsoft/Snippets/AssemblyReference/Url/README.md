@@ -1,6 +1,6 @@
 # AssemblyReference\.Url Property
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[AssemblyReference](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,5 +14,5 @@ public Uri Url { get; set; }
 
 ### Property Value
 
-[Uri](https://docs.microsoft.com/en-us/dotnet/api/system.uri)
+System\.[Uri](https://docs.microsoft.com/en-us/dotnet/api/system.uri)
 

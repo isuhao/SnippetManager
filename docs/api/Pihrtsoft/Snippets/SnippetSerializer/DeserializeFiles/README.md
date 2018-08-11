@@ -1,6 +1,6 @@
 # SnippetSerializer\.DeserializeFiles\(String, SearchOption\) Method
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetSerializer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -21,6 +21,6 @@ public static IEnumerable<SnippetFile> DeserializeFiles(string directoryPath, Se
 
 ### Returns
 
-[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[SnippetFile](../../SnippetFile/README.md)>
+System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<Pihrtsoft\.Snippets\.[SnippetFile](../../SnippetFile/README.md)>
 
 An enumerable collection [SnippetFile](../../SnippetFile/README.md) being deserialized\.

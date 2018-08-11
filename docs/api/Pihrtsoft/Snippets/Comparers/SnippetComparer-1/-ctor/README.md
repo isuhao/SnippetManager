@@ -1,6 +1,6 @@
 # SnippetComparer\(\) Constructor
 
-**Namespace**: [Pihrtsoft.Snippets.Comparers](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[SnippetComparer\<T>](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 

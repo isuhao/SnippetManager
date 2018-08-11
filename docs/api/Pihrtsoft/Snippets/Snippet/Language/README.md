@@ -1,6 +1,6 @@
 # Snippet\.Language Property
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[Snippet](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,5 +14,5 @@ public Language Language { get; set; }
 
 ### Property Value
 
-[Language](../../Language/README.md)
+Pihrtsoft\.Snippets\.[Language](../../Language/README.md)
 

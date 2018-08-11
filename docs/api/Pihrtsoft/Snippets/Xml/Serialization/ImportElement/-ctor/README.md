@@ -1,6 +1,6 @@
 # ImportElement\(\) Constructor
 
-**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[ImportElement](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 

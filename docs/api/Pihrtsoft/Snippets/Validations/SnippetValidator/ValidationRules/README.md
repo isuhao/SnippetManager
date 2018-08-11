@@ -1,6 +1,6 @@
 # SnippetValidator\.ValidationRules Property
 
-**Namespace**: [Pihrtsoft.Snippets.Validations](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md)\.[SnippetValidator](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,5 +14,5 @@ public Collection<ValidationRule> ValidationRules { get; }
 
 ### Property Value
 
-[Collection](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\<[ValidationRule](../../ValidationRule/README.md)>
+System\.Collections\.ObjectModel\.[Collection](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\<Pihrtsoft\.Snippets\.Validations\.[ValidationRule](../../ValidationRule/README.md)>
 

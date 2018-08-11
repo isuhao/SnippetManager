@@ -1,6 +1,6 @@
 # CodeSnippetElement\.Header Property
 
-**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[CodeSnippetElement](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,5 +14,5 @@ public HeaderElement Header { get; set; }
 
 ### Property Value
 
-[HeaderElement](../../HeaderElement/README.md)
+Pihrtsoft\.Snippets\.Xml\.Serialization\.[HeaderElement](../../HeaderElement/README.md)
 

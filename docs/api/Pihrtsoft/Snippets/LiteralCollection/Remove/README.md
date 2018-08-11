@@ -1,6 +1,6 @@
 # LiteralCollection\.Remove\(String\) Method
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[LiteralCollection](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -20,6 +20,6 @@ public bool Remove(string identifier)
 
 ### Returns
 
-[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
 `true` if item was successfully removed from [LiteralCollection](../README.md); otherwise, `false`\.

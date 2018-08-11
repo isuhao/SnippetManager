@@ -1,6 +1,6 @@
 # SnippetValidationResult\.Content Property
 
-**Namespace**: [Pihrtsoft.Snippets.Validations](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md)\.[SnippetValidationResult](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,5 +14,5 @@ public object Content { get; }
 
 ### Property Value
 
-[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 

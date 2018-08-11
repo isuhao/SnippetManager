@@ -1,6 +1,6 @@
 # CodeSnippetsElement\.Snippets Property
 
-**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[CodeSnippetsElement](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -9,7 +9,7 @@
 Gets or sets array of CodeSnippet elements\.
 
 ```csharp
-[System.Xml.Serialization.XmlElementAttribute]
+[System.Xml.Serialization.XmlElementAttribute("CodeSnippet")]
 public CodeSnippetElement[] Snippets { get; set; }
 ```
 

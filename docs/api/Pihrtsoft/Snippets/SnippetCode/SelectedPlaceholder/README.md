@@ -1,6 +1,6 @@
 # SnippetCode\.SelectedPlaceholder Property
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetCode](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,5 +14,5 @@ public Placeholder SelectedPlaceholder { get; }
 
 ### Property Value
 
-[Placeholder](../../Placeholder/README.md)
+Pihrtsoft\.Snippets\.[Placeholder](../../Placeholder/README.md)
 

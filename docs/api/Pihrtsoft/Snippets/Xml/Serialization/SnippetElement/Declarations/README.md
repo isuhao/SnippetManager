@@ -1,6 +1,6 @@
 # SnippetElement\.Declarations Property
 
-**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[SnippetElement](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,5 +14,5 @@ public DeclarationsElement Declarations { get; set; }
 
 ### Property Value
 
-[DeclarationsElement](../../DeclarationsElement/README.md)
+Pihrtsoft\.Snippets\.Xml\.Serialization\.[DeclarationsElement](../../DeclarationsElement/README.md)
 

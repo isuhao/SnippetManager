@@ -1,6 +1,6 @@
 # LiteralCollection\.Contains\(String\) Method
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[LiteralCollection](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -20,6 +20,6 @@ public bool Contains(string identifier)
 
 ### Returns
 
-[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
 `true` if item is found in the [LiteralCollection](../README.md); otherwise, `false`\.

@@ -1,6 +1,6 @@
 # CodeElement\.GetSchema\(\) Method
 
-**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[CodeElement](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,7 +14,7 @@ public XmlSchema GetSchema()
 
 ### Returns
 
-[XmlSchema](https://docs.microsoft.com/en-us/dotnet/api/system.xml.schema.xmlschema)
+System\.Xml\.Schema\.[XmlSchema](https://docs.microsoft.com/en-us/dotnet/api/system.xml.schema.xmlschema)
 
 ### Implements
 

@@ -1,6 +1,6 @@
 # SnippetComparer\.GetHashCode Method
 
-**Namespace**: [Pihrtsoft.Snippets.Comparers](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[SnippetComparer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -29,7 +29,7 @@ public abstract int GetHashCode(object obj)
 
 #### Returns
 
-[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
+System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
 A 32\-bit signed hash code calculated from the value of the **obj**\.
 
@@ -55,7 +55,7 @@ public abstract int GetHashCode(Snippet obj)
 
 #### Returns
 
-[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
+System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
 A 32\-bit signed hash code calculated from the value of the **obj**\.
 

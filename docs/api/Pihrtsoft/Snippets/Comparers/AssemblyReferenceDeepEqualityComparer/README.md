@@ -20,7 +20,7 @@ public class AssemblyReferenceDeepEqualityComparer : System.Collections.Generic.
 
 ### Implements
 
-[IEqualityComparer](https://docs.microsoft.com/en-us/dotnet/api/system.collections.iequalitycomparer), [IEqualityComparer](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.iequalitycomparer-1)\<[AssemblyReference](../../AssemblyReference/README.md)>
+[IEqualityComparer](https://docs.microsoft.com/en-us/dotnet/api/system.collections.iequalitycomparer) &#x2022; [IEqualityComparer](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.iequalitycomparer-1)\<[AssemblyReference](../../AssemblyReference/README.md)>
 
 ## Constructors
 
@@ -33,10 +33,10 @@ public class AssemblyReferenceDeepEqualityComparer : System.Collections.Generic.
 | Method | Summary |
 | ------ | ------- |
 | [Equals(AssemblyReference, AssemblyReference)](Equals/README.md) | Indicates whether two assembly references are equal\. \(Overrides [EqualityComparer\<AssemblyReference>.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.equalitycomparer-1.equals)\) |
-| [Equals(Object)](https://docs.microsoft.com/en-us/dotnet/api/system.object.equals) | |
-| [GetHashCode()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gethashcode) | |
+| [Equals(Object)](https://docs.microsoft.com/en-us/dotnet/api/system.object.equals) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
+| [GetHashCode()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gethashcode) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 | [GetHashCode(AssemblyReference)](GetHashCode/README.md) | Gets the hash code for the specified [AssemblyReference](../../AssemblyReference/README.md)\. \(Overrides [EqualityComparer\<AssemblyReference>.GetHashCode](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.equalitycomparer-1.gethashcode)\) |
-| [GetType()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gettype) | |
-| [MemberwiseClone()](https://docs.microsoft.com/en-us/dotnet/api/system.object.memberwiseclone) | |
-| [ToString()](https://docs.microsoft.com/en-us/dotnet/api/system.object.tostring) | |
+| [GetType()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gettype) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
+| [MemberwiseClone()](https://docs.microsoft.com/en-us/dotnet/api/system.object.memberwiseclone) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
+| [ToString()](https://docs.microsoft.com/en-us/dotnet/api/system.object.tostring) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 

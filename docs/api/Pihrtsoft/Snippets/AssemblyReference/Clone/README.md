@@ -1,6 +1,6 @@
 # AssemblyReference\.Clone\(\) Method
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[AssemblyReference](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,7 +14,7 @@ public object Clone()
 
 ### Returns
 
-[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 A new [AssemblyReference](../README.md) that is a deep copy of the current instance\.
 

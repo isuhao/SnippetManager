@@ -1,6 +1,6 @@
 # Snippet\.Index Property
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[Snippet](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,5 +14,5 @@ public int Index { get; set; }
 
 ### Property Value
 
-[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
+System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 

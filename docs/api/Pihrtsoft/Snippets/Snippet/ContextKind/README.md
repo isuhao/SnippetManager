@@ -1,6 +1,6 @@
 # Snippet\.ContextKind Property
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[Snippet](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,5 +14,5 @@ public ContextKind ContextKind { get; set; }
 
 ### Property Value
 
-[ContextKind](../../ContextKind/README.md)
+Pihrtsoft\.Snippets\.[ContextKind](../../ContextKind/README.md)
 

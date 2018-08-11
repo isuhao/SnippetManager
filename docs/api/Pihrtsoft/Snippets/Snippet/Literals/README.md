@@ -1,6 +1,6 @@
 # Snippet\.Literals Property
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[Snippet](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,5 +14,5 @@ public LiteralCollection Literals { get; }
 
 ### Property Value
 
-[LiteralCollection](../../LiteralCollection/README.md)
+Pihrtsoft\.Snippets\.[LiteralCollection](../../LiteralCollection/README.md)
 

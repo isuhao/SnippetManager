@@ -1,6 +1,6 @@
 # AssemblyReferenceDeepEqualityComparer\.GetHashCode\(AssemblyReference\) Method
 
-**Namespace**: [Pihrtsoft.Snippets.Comparers](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[AssemblyReferenceDeepEqualityComparer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -20,6 +20,6 @@ public override int GetHashCode(AssemblyReference obj)
 
 ### Returns
 
-[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
+System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
 A 32\-bit signed hash code calculated from the value of the **obj**\.

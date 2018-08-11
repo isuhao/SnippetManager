@@ -1,6 +1,6 @@
 # AssemblyReference\(\) Constructor
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[AssemblyReference](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 

@@ -142,4 +142,10 @@
       <Output TaskParameter="ConsoleOutput" PropertyName="OutputOfExec" />
     </Exec>
   </Target>
+  <Target Name="GenerateDocumentation" AfterTargets="Build" Condition=" '$(Configuration)' == 'Release'">
+    <WriteLinesToFile File="$(OutDir)$(TargetName).assemblyreferences.txt" Lines="@(_ResolveAssemblyReferenceResolvedFiles)" Overwrite="true" Encoding="Unicode" />  
+    <Exec Command="dotnet &quot;$(SolutionDir)..\..\Roslynator\src\Documentation.CommandLine\bin\Release\netcoreapp2.0\Roslynator.Documentation.CommandLine.dll&quot; --assemblyReferences &quot;$(OutDir)$(TargetName).assemblyreferences.txt&quot; --assemblies &quot;$(OutDir)Pihrtsoft.Snippets.dll&quot; --outputDirectory &quot;$(OutDir)..\..\..\..\docs\api&quot; --heading &quot;SnippetManager API&quot; --environment github --formatDefinitionBaseList true --formatDefinitionConstraints true --indicateOverriddenMember true --indicateInterfaceImplementation true" LogStandardErrorAsError="true" ConsoleToMSBuild="true">
+      <Output TaskParameter="ConsoleOutput" PropertyName="OutputOfExec" />
+    </Exec>
+  </Target>
 </Project>

@@ -1,6 +1,6 @@
 # SnippetSerializer\.DeserializeFile\(String\) Method
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetSerializer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -20,6 +20,6 @@ public static SnippetFile DeserializeFile(string filePath)
 
 ### Returns
 
-[SnippetFile](../../SnippetFile/README.md)
+Pihrtsoft\.Snippets\.[SnippetFile](../../SnippetFile/README.md)
 
 An enumerable collection [Snippet](../../Snippet/README.md) being deserialized\.

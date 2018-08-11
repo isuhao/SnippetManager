@@ -1,6 +1,6 @@
 # SnippetComparer\.Title Property
 
-**Namespace**: [Pihrtsoft.Snippets.Comparers](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[SnippetComparer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,5 +14,5 @@ public static SnippetComparer<string> Title { get; }
 
 ### Property Value
 
-[SnippetComparer](../../SnippetComparer-1/README.md)\<[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)>
+Pihrtsoft\.Snippets\.Comparers\.[SnippetComparer](../../SnippetComparer-1/README.md)\<System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)>
 

@@ -41,12 +41,12 @@ public class SnippetCode
 
 | Method | Summary |
 | ------ | ------- |
-| [Equals(Object)](https://docs.microsoft.com/en-us/dotnet/api/system.object.equals) | |
-| [GetHashCode()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gethashcode) | |
-| [GetType()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gettype) | |
-| [MemberwiseClone()](https://docs.microsoft.com/en-us/dotnet/api/system.object.memberwiseclone) | |
+| [Equals(Object)](https://docs.microsoft.com/en-us/dotnet/api/system.object.equals) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
+| [GetHashCode()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gethashcode) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
+| [GetType()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gettype) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
+| [MemberwiseClone()](https://docs.microsoft.com/en-us/dotnet/api/system.object.memberwiseclone) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 | [RemoveAllPlaceholders()](RemoveAllPlaceholders/README.md) | Returns a new [String](https://docs.microsoft.com/en-us/dotnet/api/system.string) where all placeholders are removed\. Escaped $ characters are left intact\. |
 | [RenamePlaceholder(String, String)](RenamePlaceholder/README.md) | Returns a new string in which all occurrences of a specified identifier in the current instance are replaced with another specified identifier\. |
 | [ReplacePlaceholders(String, String)](ReplacePlaceholders/README.md) | Returns a new [String](https://docs.microsoft.com/en-us/dotnet/api/system.string) where all placeholders with the specified identifier are replaced\. Escaped $ characters are left intact\. |
-| [ToString()](https://docs.microsoft.com/en-us/dotnet/api/system.object.tostring) | |
+| [ToString()](https://docs.microsoft.com/en-us/dotnet/api/system.object.tostring) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 

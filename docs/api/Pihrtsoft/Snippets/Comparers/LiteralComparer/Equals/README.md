@@ -1,6 +1,6 @@
 # LiteralComparer\.Equals Method
 
-**Namespace**: [Pihrtsoft.Snippets.Comparers](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[LiteralComparer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -30,7 +30,7 @@ public bool Equals(Literal x, Literal y)
 
 #### Returns
 
-[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
 `true` if **x** and **y** refer to the same object, or **x** and **y** are `null`, or **x** and **y** are equal; otherwise, `false`\.
 
@@ -57,7 +57,7 @@ public bool Equals(object x, object y)
 
 #### Returns
 
-[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
 `true` if **x** and **y** refer to the same object, or **x** and **y** are both the same type of object and those objects are equal; otherwise, `false`\.
 

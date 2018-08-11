@@ -1,6 +1,6 @@
 # HeaderElement\.AlternativeShortcuts Property
 
-**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[HeaderElement](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -9,7 +9,7 @@
 Gets or sets AlternativeShortcuts element\.
 
 ```csharp
-[System.Xml.Serialization.XmlArrayItemAttribute]
+[System.Xml.Serialization.XmlArrayItemAttribute("Shortcut")]
 public string[] AlternativeShortcuts { get; set; }
 ```
 

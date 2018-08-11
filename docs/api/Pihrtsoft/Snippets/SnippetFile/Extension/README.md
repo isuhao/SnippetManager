@@ -1,6 +1,6 @@
 # SnippetFile\.Extension Field
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetFile](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,4 +14,4 @@ public const string Extension = "snippet"
 
 ### Field Value
 
-[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)

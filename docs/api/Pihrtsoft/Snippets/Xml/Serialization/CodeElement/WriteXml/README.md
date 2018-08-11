@@ -1,6 +1,6 @@
 # CodeElement\.WriteXml\(XmlWriter\) Method
 
-**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[CodeElement](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 

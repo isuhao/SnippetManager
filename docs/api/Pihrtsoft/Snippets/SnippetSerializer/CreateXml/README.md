@@ -1,6 +1,6 @@
 # SnippetSerializer\.CreateXml Method
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetSerializer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -31,7 +31,7 @@ public static string CreateXml(IEnumerable<Snippet> snippets)
 
 #### Returns
 
-[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 XML text that represents a specified collection of [Snippet](../../Snippet/README.md)\.
 
@@ -54,7 +54,7 @@ public static string CreateXml(IEnumerable<Snippet> snippets, SaveSettings setti
 
 #### Returns
 
-[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 XML text that represents a specified collection of [Snippet](../../Snippet/README.md)\.
 
@@ -82,7 +82,7 @@ public static string CreateXml(Snippet snippet)
 
 #### Returns
 
-[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 XML text that represents a specified [Snippet](../../Snippet/README.md)\.
 
@@ -105,7 +105,7 @@ public static string CreateXml(Snippet snippet, SaveSettings settings)
 
 #### Returns
 
-[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 XML text that represents a specified [Snippet](../../Snippet/README.md)\.
 

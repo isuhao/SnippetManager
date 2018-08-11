@@ -1,6 +1,6 @@
 # SnippetCode\.Snippet Property
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetCode](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,5 +14,5 @@ public Snippet Snippet { get; }
 
 ### Property Value
 
-[Snippet](../../Snippet/README.md)
+Pihrtsoft\.Snippets\.[Snippet](../../Snippet/README.md)
 

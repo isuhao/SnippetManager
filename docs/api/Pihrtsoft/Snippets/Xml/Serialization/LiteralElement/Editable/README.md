@@ -1,6 +1,6 @@
 # LiteralElement\.Editable Property
 
-**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[LiteralElement](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -9,15 +9,15 @@
 Gets or sets Editable attribute value\. Default value is `true`\.
 
 ```csharp
-[System.ComponentModel.DefaultValueAttribute]
+[System.ComponentModel.DefaultValueAttribute(true)]
 [System.Xml.Serialization.XmlAttributeAttribute]
 public bool Editable { get; set; }
 ```
 
 ### Property Value
 
-[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
 ### Attributes
 
-[DefaultValueAttribute](https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.defaultvalueattribute), [XmlAttributeAttribute](https://docs.microsoft.com/en-us/dotnet/api/system.xml.serialization.xmlattributeattribute)
+[DefaultValueAttribute](https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.defaultvalueattribute) &#x2022; [XmlAttributeAttribute](https://docs.microsoft.com/en-us/dotnet/api/system.xml.serialization.xmlattributeattribute)

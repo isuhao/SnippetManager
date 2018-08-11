@@ -1,6 +1,6 @@
 # PlaceholderCollection\.FindAll\(String\) Method
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[PlaceholderCollection](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -20,6 +20,6 @@ public IEnumerable<Placeholder> FindAll(string identifier)
 
 ### Returns
 
-[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[Placeholder](../../Placeholder/README.md)>
+System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<Pihrtsoft\.Snippets\.[Placeholder](../../Placeholder/README.md)>
 
 Enumerable collection of placeholders with the specified identifier\.

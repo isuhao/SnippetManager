@@ -1,6 +1,6 @@
 # SnippetCollection Constructors
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetCollection](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 

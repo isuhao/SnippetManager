@@ -1,6 +1,6 @@
 # SnippetValidationContext\.Snippet Property
 
-**Namespace**: [Pihrtsoft.Snippets.Validations](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md)\.[SnippetValidationContext](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,5 +14,5 @@ public Snippet Snippet { get; }
 
 ### Property Value
 
-[Snippet](../../../Snippet/README.md)
+Pihrtsoft\.Snippets\.[Snippet](../../../Snippet/README.md)
 

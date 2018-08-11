@@ -1,6 +1,6 @@
 # CodeElement\.Language Property
 
-**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[CodeElement](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,5 +14,5 @@ public string Language { get; set; }
 
 ### Property Value
 
-[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
+System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 

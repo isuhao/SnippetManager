@@ -1,6 +1,6 @@
 # Snippet\.HasAlternativeShortcuts Property
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[Snippet](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,5 +14,5 @@ public bool HasAlternativeShortcuts { get; }
 
 ### Property Value
 
-[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 

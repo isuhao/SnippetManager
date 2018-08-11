@@ -1,6 +1,6 @@
 # LiteralRenamer\.Rename\(Snippet, String, String\) Method
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[LiteralRenamer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 

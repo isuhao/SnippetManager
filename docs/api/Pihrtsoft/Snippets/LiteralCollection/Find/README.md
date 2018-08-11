@@ -1,6 +1,6 @@
 # LiteralCollection\.Find\(String\) Method
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[LiteralCollection](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -20,6 +20,6 @@ public Literal Find(string identifier)
 
 ### Returns
 
-[Literal](../../Literal/README.md)
+Pihrtsoft\.Snippets\.[Literal](../../Literal/README.md)
 
 First found literal with the specified identifier\.

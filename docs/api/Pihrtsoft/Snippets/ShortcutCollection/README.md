@@ -20,7 +20,7 @@ public class ShortcutCollection : System.Collections.ObjectModel.Collection<Syst
 
 ### Implements
 
-[ICollection](https://docs.microsoft.com/en-us/dotnet/api/system.collections.icollection), [ICollection](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icollection-1)\<[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)>, [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.ienumerable), [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)>, [IList](https://docs.microsoft.com/en-us/dotnet/api/system.collections.ilist), [IList](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ilist-1)\<[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)>
+[ICollection](https://docs.microsoft.com/en-us/dotnet/api/system.collections.icollection) &#x2022; [ICollection](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icollection-1)\<[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)> &#x2022; [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)> &#x2022; [IList](https://docs.microsoft.com/en-us/dotnet/api/system.collections.ilist) &#x2022; [IList](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ilist-1)\<[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)>
 
 ## Constructors
 
@@ -32,32 +32,32 @@ public class ShortcutCollection : System.Collections.ObjectModel.Collection<Syst
 
 | Property | Summary |
 | -------- | ------- |
-| [Count](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.count) | |
-| [Item\[Int32\]](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.item) | |
-| [Items](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.items) | |
+| [Count](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.count) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
+| [Item\[Int32\]](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.item) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
+| [Items](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.items) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
 
 ## Methods
 
 | Method | Summary |
 | ------ | ------- |
-| [Add(String)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.add) | |
-| [Clear()](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.clear) | |
-| [ClearItems()](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.clearitems) | |
-| [Contains(String)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.contains) | |
-| [CopyTo(String\[\], Int32)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.copyto) | |
-| [Equals(Object)](https://docs.microsoft.com/en-us/dotnet/api/system.object.equals) | |
-| [GetEnumerator()](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.getenumerator) | |
-| [GetHashCode()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gethashcode) | |
-| [GetType()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gettype) | |
-| [IndexOf(String)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.indexof) | |
-| [Insert(Int32, String)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.insert) | |
-| [InsertItem(Int32, String)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.insertitem) | |
-| [MemberwiseClone()](https://docs.microsoft.com/en-us/dotnet/api/system.object.memberwiseclone) | |
-| [Remove(String)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.remove) | |
-| [RemoveAt(Int32)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.removeat) | |
-| [RemoveItem(Int32)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.removeitem) | |
-| [SetItem(Int32, String)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.setitem) | |
+| [Add(String)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.add) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
+| [Clear()](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.clear) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
+| [ClearItems()](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.clearitems) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
+| [Contains(String)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.contains) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
+| [CopyTo(String\[\], Int32)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.copyto) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
+| [Equals(Object)](https://docs.microsoft.com/en-us/dotnet/api/system.object.equals) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
+| [GetEnumerator()](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.getenumerator) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
+| [GetHashCode()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gethashcode) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
+| [GetType()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gettype) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
+| [IndexOf(String)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.indexof) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
+| [Insert(Int32, String)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.insert) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
+| [InsertItem(Int32, String)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.insertitem) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
+| [MemberwiseClone()](https://docs.microsoft.com/en-us/dotnet/api/system.object.memberwiseclone) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
+| [Remove(String)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.remove) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
+| [RemoveAt(Int32)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.removeat) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
+| [RemoveItem(Int32)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.removeitem) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
+| [SetItem(Int32, String)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.setitem) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
 | [Sort()](Sort/README.md#Pihrtsoft_Snippets_ShortcutCollection_Sort) | Sorts the elements in the entire [ShortcutCollection](./README.md)\. |
 | [Sort(IComparer\<String>)](Sort/README.md#Pihrtsoft_Snippets_ShortcutCollection_Sort_System_Collections_Generic_IComparer_System_String__) | Sorts the elements in the entire [ShortcutCollection](./README.md) using the specified comparer\. |
-| [ToString()](https://docs.microsoft.com/en-us/dotnet/api/system.object.tostring) | |
+| [ToString()](https://docs.microsoft.com/en-us/dotnet/api/system.object.tostring) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 

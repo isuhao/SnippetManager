@@ -1,6 +1,6 @@
 # PlaceholderCollection\.ContainsEnd\(\) Method
 
-**Namespace**: [Pihrtsoft.Snippets](../../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[PlaceholderCollection](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -14,6 +14,6 @@ public bool ContainsEnd()
 
 ### Returns
 
-[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
+System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
 `true` if item is found in the [PlaceholderCollection](../README.md); otherwise, `false`\.
