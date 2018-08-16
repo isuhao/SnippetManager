@@ -1,5 +1,7 @@
 # HeaderElement\.Title Property
 
+[Home](../../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[HeaderElement](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll

@@ -1,5 +1,7 @@
 # SnippetValidator\.Validate Method
 
+[Home](../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md)\.[SnippetValidator](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -21,19 +23,19 @@ Validates the specified [Snippet](../../../Snippet/README.md) according the the 
 public IEnumerable<SnippetValidationResult> Validate(Snippet snippet)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| snippet | A [Snippet](../../../Snippet/README.md) that is being validated\. |
+#### snippet
 
-#### Returns
+A [Snippet](../../../Snippet/README.md) that is being validated\.
+
+### Returns
 
 System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<Pihrtsoft\.Snippets\.Validations\.[SnippetValidationResult](../../SnippetValidationResult/README.md)>
 
 A [SnippetValidationContext](../../SnippetValidationContext/README.md) that stores data about the validation\.
 
-#### Exceptions
+### Exceptions
 
 [ArgumentNullException](https://docs.microsoft.com/en-us/dotnet/api/system.argumentnullexception)
 
@@ -49,17 +51,17 @@ Validates the specified [Snippet](../../../Snippet/README.md) according the the 
 protected virtual IEnumerable<SnippetValidationResult> Validate(SnippetValidationContext context)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| context | A [SnippetValidationContext](../../SnippetValidationContext/README.md) that stores data about the validation\. |
+#### context
 
-#### Returns
+A [SnippetValidationContext](../../SnippetValidationContext/README.md) that stores data about the validation\.
+
+### Returns
 
 System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<Pihrtsoft\.Snippets\.Validations\.[SnippetValidationResult](../../SnippetValidationResult/README.md)>
 
-#### Exceptions
+### Exceptions
 
 [ArgumentNullException](https://docs.microsoft.com/en-us/dotnet/api/system.argumentnullexception)
 

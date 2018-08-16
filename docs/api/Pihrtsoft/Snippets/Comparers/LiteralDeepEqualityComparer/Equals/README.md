@@ -1,5 +1,7 @@
 # LiteralDeepEqualityComparer\.Equals\(Literal, Literal\) Method
 
+[Home](../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[LiteralDeepEqualityComparer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,10 +16,13 @@ public override bool Equals(Literal x, Literal y)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| x | A [Literal](../../../Literal/README.md) to compare to **y**\. |
-| y | A [Literal](../../../Literal/README.md) to compare to **x**\. |
+#### x
+
+A [Literal](../../../Literal/README.md) to compare to **y**\.
+
+#### y
+
+A [Literal](../../../Literal/README.md) to compare to **x**\.
 
 ### Returns
 

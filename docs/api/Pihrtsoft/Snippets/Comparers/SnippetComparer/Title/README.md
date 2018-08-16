@@ -1,5 +1,7 @@
 # SnippetComparer\.Title Property
 
+[Home](../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[SnippetComparer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll

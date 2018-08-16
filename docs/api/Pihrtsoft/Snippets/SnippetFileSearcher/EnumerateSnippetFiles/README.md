@@ -1,5 +1,7 @@
 # SnippetFileSearcher\.EnumerateSnippetFiles Method
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetFileSearcher](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -23,19 +25,19 @@ Returns enumerable collection of snippet file names from a specified directories
 public static IEnumerable<string> EnumerateSnippetFiles(IEnumerable<string> directoryPaths)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| directoryPaths | Enumerable collection of absolute or relative paths to the directories to search\. |
+#### directoryPaths
 
-#### Returns
+Enumerable collection of absolute or relative paths to the directories to search\.
+
+### Returns
 
 System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)>
 
 An enumerable collection of snippet file names\.
 
-#### Exceptions
+### Exceptions
 
 [ArgumentNullException](https://docs.microsoft.com/en-us/dotnet/api/system.argumentnullexception)
 
@@ -51,20 +53,23 @@ Returns enumerable collection of snippet file names from a specified directories
 public static IEnumerable<string> EnumerateSnippetFiles(IEnumerable<string> directoryPaths, SearchOption searchOption)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| directoryPaths | Enumerable collection of absolute or relative paths to the directories to search\. |
-| searchOption | A [SearchOption](https://docs.microsoft.com/en-us/dotnet/api/system.io.searchoption) value that specifies whether the search should include all subdirectories or only current directory\. The default value is [SearchOption.TopDirectoryOnly](https://docs.microsoft.com/en-us/dotnet/api/system.io.searchoption.topdirectoryonly)\. |
+#### directoryPaths
 
-#### Returns
+Enumerable collection of absolute or relative paths to the directories to search\.
+
+#### searchOption
+
+A [SearchOption](https://docs.microsoft.com/en-us/dotnet/api/system.io.searchoption) value that specifies whether the search should include all subdirectories or only current directory\. The default value is [SearchOption.TopDirectoryOnly](https://docs.microsoft.com/en-us/dotnet/api/system.io.searchoption.topdirectoryonly)\.
+
+### Returns
 
 System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)>
 
 An enumerable collection of snippet file names\.
 
-#### Exceptions
+### Exceptions
 
 [ArgumentNullException](https://docs.microsoft.com/en-us/dotnet/api/system.argumentnullexception)
 
@@ -80,19 +85,19 @@ Returns enumerable collection of snippet file names from a specified directory\.
 public static IEnumerable<string> EnumerateSnippetFiles(string directoryPath)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| directoryPath | The absolute or relative path to the directory to search\. |
+#### directoryPath
 
-#### Returns
+The absolute or relative path to the directory to search\.
+
+### Returns
 
 System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)>
 
 An enumerable collection of snippet file names\.
 
-#### Exceptions
+### Exceptions
 
 [ArgumentNullException](https://docs.microsoft.com/en-us/dotnet/api/system.argumentnullexception)
 
@@ -108,20 +113,23 @@ Returns enumerable collection of snippet file names from a specified directory, 
 public static IEnumerable<string> EnumerateSnippetFiles(string directoryPath, SearchOption searchOption)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| directoryPath | The absolute or relative path to the directory to search\. |
-| searchOption | A [SearchOption](https://docs.microsoft.com/en-us/dotnet/api/system.io.searchoption) value that specifies whether the search should include all subdirectories or only current directory\. The default value is [SearchOption.TopDirectoryOnly](https://docs.microsoft.com/en-us/dotnet/api/system.io.searchoption.topdirectoryonly)\. |
+#### directoryPath
 
-#### Returns
+The absolute or relative path to the directory to search\.
+
+#### searchOption
+
+A [SearchOption](https://docs.microsoft.com/en-us/dotnet/api/system.io.searchoption) value that specifies whether the search should include all subdirectories or only current directory\. The default value is [SearchOption.TopDirectoryOnly](https://docs.microsoft.com/en-us/dotnet/api/system.io.searchoption.topdirectoryonly)\.
+
+### Returns
 
 System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)>
 
 An enumerable collection of snippet file names\.
 
-#### Exceptions
+### Exceptions
 
 [ArgumentNullException](https://docs.microsoft.com/en-us/dotnet/api/system.argumentnullexception)
 

@@ -1,5 +1,7 @@
 # ContextKind Enum
 
+[Home](../../../README.md) &#x2022; [Fields](#fields)
+
 **Namespace**: [Pihrtsoft.Snippets](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll

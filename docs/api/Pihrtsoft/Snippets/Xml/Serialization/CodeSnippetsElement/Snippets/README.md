@@ -1,5 +1,7 @@
 # CodeSnippetsElement\.Snippets Property
 
+[Home](../../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[CodeSnippetsElement](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -19,4 +21,5 @@ CodeSnippetElement\[\]
 
 ### Attributes
 
-[XmlElementAttribute](https://docs.microsoft.com/en-us/dotnet/api/system.xml.serialization.xmlelementattribute)
+* System\.Xml\.Serialization\.[XmlElementAttribute](https://docs.microsoft.com/en-us/dotnet/api/system.xml.serialization.xmlelementattribute)
+

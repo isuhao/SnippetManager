@@ -1,5 +1,7 @@
 # LiteralRenamer\.Rename\(Snippet, String, String\) Method
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[LiteralRenamer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,11 +16,17 @@ public static void Rename(Snippet snippet, string oldIdentifier, string newIdent
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| snippet | [Snippet](../../Snippet/README.md) that contains the literal to rename\. |
-| oldIdentifier | Old identifier\. |
-| newIdentifier | New identifier\. |
+#### snippet
+
+[Snippet](../../Snippet/README.md) that contains the literal to rename\.
+
+#### oldIdentifier
+
+Old identifier\.
+
+#### newIdentifier
+
+New identifier\.
 
 ### Exceptions
 

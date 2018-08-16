@@ -1,5 +1,7 @@
 # SnippetValidator\.ValidationRules Property
 
+[Home](../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md)\.[SnippetValidator](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll

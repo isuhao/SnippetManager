@@ -1,5 +1,7 @@
 # PlaceholderCollection\.Item\[String\] Property
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[PlaceholderCollection](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,9 +16,9 @@ public Placeholder this[string identifier] { get; }
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| identifier | A placeholder identifier\. |
+#### identifier
+
+A placeholder identifier\.
 
 ### Property Value
 

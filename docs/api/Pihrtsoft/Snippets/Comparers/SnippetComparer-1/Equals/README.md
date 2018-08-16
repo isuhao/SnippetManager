@@ -1,5 +1,7 @@
 # SnippetComparer\.Equals Method
 
+[Home](../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[SnippetComparer\<T>](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -21,14 +23,17 @@ Indicates whether two objects are equal\.
 public override bool Equals(object x, object y)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| x | An object to compare to **y**\. |
-| y | An object to compare to **x**\. |
+#### x
 
-#### Returns
+An object to compare to **y**\.
+
+#### y
+
+An object to compare to **x**\.
+
+### Returns
 
 System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
@@ -44,14 +49,17 @@ Indicates whether two snippets are equal\.
 public override bool Equals(Snippet x, Snippet y)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| x | A [Snippet](../../../Snippet/README.md) to compare to **y**\. |
-| y | A [Snippet](../../../Snippet/README.md) to compare to **x**\. |
+#### x
 
-#### Returns
+A [Snippet](../../../Snippet/README.md) to compare to **y**\.
+
+#### y
+
+A [Snippet](../../../Snippet/README.md) to compare to **x**\.
+
+### Returns
 
 System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 

@@ -1,5 +1,7 @@
 # SnippetSerializer\.Deserialize Method
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetSerializer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -21,19 +23,19 @@ Returns enumerable collection of [Snippet](../../Snippet/README.md) contained by
 public static IEnumerable<Snippet> Deserialize(Stream stream)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| stream | The [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) that contains snippets to deserialize\. |
+#### stream
 
-#### Returns
+The [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) that contains snippets to deserialize\.
+
+### Returns
 
 System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<Pihrtsoft\.Snippets\.[Snippet](../../Snippet/README.md)>
 
 Enumerable collection of snippets being deserialized\.
 
-#### Exceptions
+### Exceptions
 
 [ArgumentNullException](https://docs.microsoft.com/en-us/dotnet/api/system.argumentnullexception)
 
@@ -49,14 +51,17 @@ Returns enumerable collection of [Snippet](../../Snippet/README.md) deserialized
 public static IEnumerable<Snippet> Deserialize(string directoryPath, SearchOption searchOption = TopDirectoryOnly)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| directoryPath | The absolute or relative path to the directory to search\. |
-| searchOption | A [SearchOption](https://docs.microsoft.com/en-us/dotnet/api/system.io.searchoption) value that specifies whether the search should include all subdirectories or only current directory\. |
+#### directoryPath
 
-#### Returns
+The absolute or relative path to the directory to search\.
+
+#### searchOption
+
+A [SearchOption](https://docs.microsoft.com/en-us/dotnet/api/system.io.searchoption) value that specifies whether the search should include all subdirectories or only current directory\.
+
+### Returns
 
 System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<Pihrtsoft\.Snippets\.[Snippet](../../Snippet/README.md)>
 

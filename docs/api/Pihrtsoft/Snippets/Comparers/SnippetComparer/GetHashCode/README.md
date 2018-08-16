@@ -1,5 +1,7 @@
 # SnippetComparer\.GetHashCode Method
 
+[Home](../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[SnippetComparer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -21,19 +23,19 @@ Gets the hash code for the specified object\.
 public abstract int GetHashCode(object obj)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| obj | An object\. |
+#### obj
 
-#### Returns
+An object\.
+
+### Returns
 
 System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
 A 32\-bit signed hash code calculated from the value of the **obj**\.
 
-#### Implements
+### Implements
 
 * [IEqualityComparer.GetHashCode](https://docs.microsoft.com/en-us/dotnet/api/system.collections.iequalitycomparer.gethashcode)
 
@@ -47,18 +49,18 @@ Gets the hash code for the specified [Snippet](../../../Snippet/README.md)\.
 public abstract int GetHashCode(Snippet obj)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| obj | A snippet\. |
+#### obj
 
-#### Returns
+A snippet\.
+
+### Returns
 
 System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
 A 32\-bit signed hash code calculated from the value of the **obj**\.
 
-#### Implements
+### Implements
 
 * [IEqualityComparer\<Snippet>.GetHashCode](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.iequalitycomparer-1.gethashcode)

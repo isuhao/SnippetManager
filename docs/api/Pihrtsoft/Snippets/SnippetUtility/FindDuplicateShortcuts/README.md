@@ -1,5 +1,7 @@
 # SnippetUtility\.FindDuplicateShortcuts\(IEnumerable\<Snippet>\) Method
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetUtility](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,9 +16,9 @@ public static IEnumerable<DuplicateShortcutInfo> FindDuplicateShortcuts(IEnumera
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| snippets | Collection of [Snippet](../../Snippet/README.md)s\. |
+#### snippets
+
+Collection of [Snippet](../../Snippet/README.md)s\.
 
 ### Returns
 

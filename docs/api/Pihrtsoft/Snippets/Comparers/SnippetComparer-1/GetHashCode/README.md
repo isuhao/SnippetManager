@@ -1,5 +1,7 @@
 # SnippetComparer\.GetHashCode Method
 
+[Home](../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[SnippetComparer\<T>](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -21,13 +23,13 @@ Gets the hash code for the specified object\.
 public override int GetHashCode(object obj)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| obj | An object\. |
+#### obj
 
-#### Returns
+An object\.
+
+### Returns
 
 System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
@@ -43,13 +45,13 @@ Gets the hash code for the specified [Snippet](../../../Snippet/README.md)\.
 public override int GetHashCode(Snippet obj)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| obj | A snippet\. |
+#### obj
 
-#### Returns
+A snippet\.
+
+### Returns
 
 System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 

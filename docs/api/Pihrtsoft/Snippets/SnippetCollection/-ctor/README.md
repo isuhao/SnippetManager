@@ -1,5 +1,7 @@
 # SnippetCollection Constructors
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetCollection](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -31,9 +33,8 @@ Initializes a new instance of the [SnippetCollection](../README.md) class as a w
 public SnippetCollection(IList<Snippet> list)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| list | The list to wrap\. |
+#### list
 
+The list to wrap\.

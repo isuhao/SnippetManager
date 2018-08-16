@@ -1,5 +1,7 @@
 # Literal\.CreateClassNameLiteral\(String, String, String\) Method
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[Literal](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,11 +16,17 @@ public static Literal CreateClassNameLiteral(string identifier, string toolTip =
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| identifier | The [Literal](../README.md) identifier\. |
-| toolTip | The [Literal](../README.md) description\. |
-| defaultValue | The [Literal](../README.md)default value\. |
+#### identifier
+
+The [Literal](../README.md) identifier\.
+
+#### toolTip
+
+The [Literal](../README.md) description\.
+
+#### defaultValue
+
+The [Literal](../README.md)default value\.
 
 ### Returns
 

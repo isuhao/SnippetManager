@@ -1,5 +1,7 @@
 # LiteralComparer\.GetHashCode Method
 
+[Home](../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[LiteralComparer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -21,19 +23,19 @@ Gets the hash code for the specified [Literal](../../../Literal/README.md)\.
 public int GetHashCode(Literal obj)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| obj | A literal\. |
+#### obj
 
-#### Returns
+A literal\.
+
+### Returns
 
 System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
 A 32\-bit signed hash code calculated from the value of the **obj**\.
 
-#### Implements
+### Implements
 
 * [IEqualityComparer\<Literal>.GetHashCode](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.iequalitycomparer-1.gethashcode)
 
@@ -47,18 +49,18 @@ Gets the hash code for the specified literal\.
 public int GetHashCode(object obj)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| obj | An object\. |
+#### obj
 
-#### Returns
+An object\.
+
+### Returns
 
 System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
 A 32\-bit signed hash code calculated from the value of the **obj**\.
 
-#### Implements
+### Implements
 
 * [IEqualityComparer.GetHashCode](https://docs.microsoft.com/en-us/dotnet/api/system.collections.iequalitycomparer.gethashcode)

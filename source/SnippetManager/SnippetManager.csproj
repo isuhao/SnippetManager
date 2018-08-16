@@ -12,6 +12,8 @@
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -134,7 +136,7 @@
   <Target Name="AfterBuild">
   </Target>
   -->
-  <Target Name="AfterBuild" Condition=" '$(Configuration)' == 'Release'">
+  <Target Name="PackNuGet" AfterTargets="Build" Condition=" '$(Configuration)' == 'Release'">
     <GetAssemblyIdentity AssemblyFiles="$(OutDir)\$(AssemblyName).dll">
       <Output TaskParameter="Assemblies" ItemName="AssemblyInfo" />
     </GetAssemblyIdentity>
@@ -142,10 +144,16 @@
       <Output TaskParameter="ConsoleOutput" PropertyName="OutputOfExec" />
     </Exec>
   </Target>
-  <Target Name="GenerateDocumentation" AfterTargets="Build" Condition=" '$(Configuration)' == 'Release'">
-    <WriteLinesToFile File="$(OutDir)$(TargetName).assemblyreferences.txt" Lines="@(_ResolveAssemblyReferenceResolvedFiles)" Overwrite="true" Encoding="Unicode" />  
-    <Exec Command="dotnet &quot;$(SolutionDir)..\..\Roslynator\src\Documentation.CommandLine\bin\Release\netcoreapp2.0\Roslynator.Documentation.CommandLine.dll&quot; --assemblyReferences &quot;$(OutDir)$(TargetName).assemblyreferences.txt&quot; --assemblies &quot;$(OutDir)Pihrtsoft.Snippets.dll&quot; --outputDirectory &quot;$(OutDir)..\..\..\..\docs\api&quot; --heading &quot;SnippetManager API&quot; --environment github --formatDefinitionBaseList true --formatDefinitionConstraints true --indicateOverriddenMember true --indicateInterfaceImplementation true" LogStandardErrorAsError="true" ConsoleToMSBuild="true">
-      <Output TaskParameter="ConsoleOutput" PropertyName="OutputOfExec" />
-    </Exec>
+  <Target Name="PreRoslynatorDocumention" BeforeTargets="RoslynatorDocumentation" Condition=" '$(Configuration)' == 'Release'">
+    <PropertyGroup>
+      <RoslynatorDocumentationParameters> -a "$(TargetPath)" -o "$(SolutionDir)..\docs\api" -h "Snippet Manager API Reference" -m github</RoslynatorDocumentationParameters>
+    </PropertyGroup>
+  </Target>
+  <Import Project="..\packages\Roslynator.Documentation.CommandLine.1.0.0-test\build\net40\Roslynator.Documentation.CommandLine.targets" Condition="Exists('..\packages\Roslynator.Documentation.CommandLine.1.0.0-test\build\net40\Roslynator.Documentation.CommandLine.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Roslynator.Documentation.CommandLine.1.0.0-test\build\net40\Roslynator.Documentation.CommandLine.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Roslynator.Documentation.CommandLine.1.0.0-test\build\net40\Roslynator.Documentation.CommandLine.targets'))" />
   </Target>
 </Project>

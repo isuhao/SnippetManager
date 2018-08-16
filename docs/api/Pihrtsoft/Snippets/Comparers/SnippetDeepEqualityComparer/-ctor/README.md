@@ -1,5 +1,7 @@
 # SnippetDeepEqualityComparer\(\) Constructor
 
+[Home](../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[SnippetDeepEqualityComparer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll

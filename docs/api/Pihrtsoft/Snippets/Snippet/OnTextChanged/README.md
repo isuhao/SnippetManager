@@ -1,5 +1,7 @@
 # Snippet\.OnTextChanged\(EventArgs\) Method
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[Snippet](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,7 +16,6 @@ protected virtual void OnTextChanged(EventArgs e)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| e | An [EventArgs](https://docs.microsoft.com/en-us/dotnet/api/system.eventargs) that contains the event data\. |
+#### e
 
+An [EventArgs](https://docs.microsoft.com/en-us/dotnet/api/system.eventargs) that contains the event data\.

@@ -1,6 +1,6 @@
 # PlaceholderCollection Class
 
-[Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
+[Home](../../../README.md) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
 
 **Namespace**: [Pihrtsoft.Snippets](../README.md)
 
@@ -20,7 +20,11 @@ public class PlaceholderCollection : System.Collections.ObjectModel.ReadOnlyColl
 
 ### Implements
 
-[ICollection](https://docs.microsoft.com/en-us/dotnet/api/system.collections.icollection) &#x2022; [ICollection](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icollection-1)\<[Placeholder](../Placeholder/README.md)> &#x2022; [IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[Placeholder](../Placeholder/README.md)> &#x2022; [IList](https://docs.microsoft.com/en-us/dotnet/api/system.collections.ilist) &#x2022; [IList](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ilist-1)\<[Placeholder](../Placeholder/README.md)>
+* System\.Collections\.[ICollection](https://docs.microsoft.com/en-us/dotnet/api/system.collections.icollection)
+* System\.Collections\.[IList](https://docs.microsoft.com/en-us/dotnet/api/system.collections.ilist)
+* System\.Collections\.Generic\.[ICollection](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icollection-1)\<[Placeholder](../Placeholder/README.md)>
+* System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[Placeholder](../Placeholder/README.md)>
+* System\.Collections\.Generic\.[IList](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ilist-1)\<[Placeholder](../Placeholder/README.md)>
 
 ## Constructors
 

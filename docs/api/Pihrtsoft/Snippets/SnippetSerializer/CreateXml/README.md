@@ -1,5 +1,7 @@
 # SnippetSerializer\.CreateXml Method
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetSerializer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -23,13 +25,13 @@ Serializes enumerable collection of [Snippet](../../Snippet/README.md) to text\.
 public static string CreateXml(IEnumerable<Snippet> snippets)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| snippets | Enumerable collection of [Snippet](../../Snippet/README.md) to be serialized\. |
+#### snippets
 
-#### Returns
+Enumerable collection of [Snippet](../../Snippet/README.md) to be serialized\.
+
+### Returns
 
 System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
@@ -45,20 +47,23 @@ Serializes enumerable collection of [Snippet](../../Snippet/README.md) to text, 
 public static string CreateXml(IEnumerable<Snippet> snippets, SaveSettings settings)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| snippets | Enumerable collection of [Snippet](../../Snippet/README.md) to be serialized\. |
-| settings | A [SaveSettings](../../SaveSettings/README.md) that modify serialization process\. |
+#### snippets
 
-#### Returns
+Enumerable collection of [Snippet](../../Snippet/README.md) to be serialized\.
+
+#### settings
+
+A [SaveSettings](../../SaveSettings/README.md) that modify serialization process\.
+
+### Returns
 
 System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 XML text that represents a specified collection of [Snippet](../../Snippet/README.md)\.
 
-#### Exceptions
+### Exceptions
 
 [ArgumentNullException](https://docs.microsoft.com/en-us/dotnet/api/system.argumentnullexception)
 
@@ -74,13 +79,13 @@ Serializes a specified [Snippet](../../Snippet/README.md) to xml text\.
 public static string CreateXml(Snippet snippet)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| snippet | A [Snippet](../../Snippet/README.md) to be serialized\. |
+#### snippet
 
-#### Returns
+A [Snippet](../../Snippet/README.md) to be serialized\.
+
+### Returns
 
 System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
@@ -96,20 +101,23 @@ Serializes a specified [Snippet](../../Snippet/README.md) to xml text, optionall
 public static string CreateXml(Snippet snippet, SaveSettings settings)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| snippet | A [Snippet](../../Snippet/README.md) to be serialized\. |
-| settings | A [SaveSettings](../../SaveSettings/README.md) that modify serialization process\. |
+#### snippet
 
-#### Returns
+A [Snippet](../../Snippet/README.md) to be serialized\.
+
+#### settings
+
+A [SaveSettings](../../SaveSettings/README.md) that modify serialization process\.
+
+### Returns
 
 System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
 XML text that represents a specified [Snippet](../../Snippet/README.md)\.
 
-#### Exceptions
+### Exceptions
 
 [ArgumentNullException](https://docs.microsoft.com/en-us/dotnet/api/system.argumentnullexception)
 

@@ -1,5 +1,7 @@
 # SnippetValidationResult Constructors
 
+[Home](../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md)\.[SnippetValidationResult](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -21,16 +23,25 @@ Initializes a new instance of the [SnippetValidationResult](../README.md) class 
 public SnippetValidationResult(Snippet snippet, string code, string description, ResultImportance importance)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| snippet | A snippet\. |
-| code | Alphanumeric code the identifies the result\. |
-| description | Result description\. |
-| importance | Result importance\. |
+#### snippet
 
-#### Exceptions
+A snippet\.
+
+#### code
+
+Alphanumeric code the identifies the result\.
+
+#### description
+
+Result description\.
+
+#### importance
+
+Result importance\.
+
+### Exceptions
 
 [ArgumentNullException](https://docs.microsoft.com/en-us/dotnet/api/system.argumentnullexception)
 
@@ -46,17 +57,29 @@ Initializes a new instance of the [SnippetValidationResult](../README.md) class 
 public SnippetValidationResult(Snippet snippet, string code, string description, ResultImportance importance, object content)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| snippet | A snippet\. |
-| code | Alphanumeric code the identifies the result\. |
-| description | Result description\. |
-| importance | Result importance\. |
-| content | Additional result content\. The value can be `null`\. |
+#### snippet
 
-#### Exceptions
+A snippet\.
+
+#### code
+
+Alphanumeric code the identifies the result\.
+
+#### description
+
+Result description\.
+
+#### importance
+
+Result importance\.
+
+#### content
+
+Additional result content\. The value can be `null`\.
+
+### Exceptions
 
 [ArgumentNullException](https://docs.microsoft.com/en-us/dotnet/api/system.argumentnullexception)
 

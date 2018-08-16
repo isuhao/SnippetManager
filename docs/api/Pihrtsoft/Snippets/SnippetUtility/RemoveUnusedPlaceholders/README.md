@@ -1,5 +1,7 @@
 # SnippetUtility\.RemoveUnusedPlaceholders\(Snippet\) Method
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetUtility](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,7 +16,6 @@ public static void RemoveUnusedPlaceholders(Snippet snippet)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| snippet | [Snippet](../../Snippet/README.md) to remove placeholders from\. |
+#### snippet
 
+[Snippet](../../Snippet/README.md) to remove placeholders from\.

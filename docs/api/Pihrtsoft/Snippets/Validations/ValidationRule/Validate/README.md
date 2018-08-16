@@ -1,5 +1,7 @@
 # ValidationRule\.Validate\(Snippet\) Method
 
+[Home](../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md)\.[ValidationRule](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,9 +16,9 @@ public abstract IEnumerable<SnippetValidationResult> Validate(Snippet snippet)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| snippet | A snippet to be validated\. |
+#### snippet
+
+A snippet to be validated\.
 
 ### Returns
 

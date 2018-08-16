@@ -1,5 +1,7 @@
 # LiteralDeepEqualityComparer\.GetHashCode\(Literal\) Method
 
+[Home](../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[LiteralDeepEqualityComparer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,9 +16,9 @@ public override int GetHashCode(Literal obj)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| obj | A literal\. |
+#### obj
+
+A literal\.
 
 ### Returns
 

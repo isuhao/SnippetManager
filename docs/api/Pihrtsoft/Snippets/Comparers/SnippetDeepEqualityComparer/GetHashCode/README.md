@@ -1,5 +1,7 @@
 # SnippetDeepEqualityComparer\.GetHashCode\(Snippet\) Method
 
+[Home](../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[SnippetDeepEqualityComparer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,9 +16,9 @@ public override int GetHashCode(Snippet obj)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| obj | A snipppet\. |
+#### obj
+
+A snipppet\.
 
 ### Returns
 

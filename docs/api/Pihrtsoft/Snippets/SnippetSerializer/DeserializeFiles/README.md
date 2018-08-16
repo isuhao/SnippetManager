@@ -1,5 +1,7 @@
 # SnippetSerializer\.DeserializeFiles\(String, SearchOption\) Method
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetSerializer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,10 +16,13 @@ public static IEnumerable<SnippetFile> DeserializeFiles(string directoryPath, Se
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| directoryPath | The absolute or relative path to the directory to search\. |
-| searchOption | A [SearchOption](https://docs.microsoft.com/en-us/dotnet/api/system.io.searchoption) value that specifies whether the search should include all subdirectories or only current directory\. |
+#### directoryPath
+
+The absolute or relative path to the directory to search\.
+
+#### searchOption
+
+A [SearchOption](https://docs.microsoft.com/en-us/dotnet/api/system.io.searchoption) value that specifies whether the search should include all subdirectories or only current directory\.
 
 ### Returns
 

@@ -1,5 +1,7 @@
 # LiteralRenamer Class
 
+[Home](../../../README.md) &#x2022; [Methods](#methods)
+
 **Namespace**: [Pihrtsoft.Snippets](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll

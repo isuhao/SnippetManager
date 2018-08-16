@@ -1,6 +1,6 @@
 # Placeholder Class
 
-[Fields](#fields) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
+[Home](../../../README.md) &#x2022; [Fields](#fields) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
 
 **Namespace**: [Pihrtsoft.Snippets](../README.md)
 

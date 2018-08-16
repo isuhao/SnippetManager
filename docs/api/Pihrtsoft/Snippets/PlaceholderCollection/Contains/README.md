@@ -1,5 +1,7 @@
 # PlaceholderCollection\.Contains\(String\) Method
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[PlaceholderCollection](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,9 +16,9 @@ public bool Contains(string identifier)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| identifier | A [Placeholder.Identifier](../../Placeholder/Identifier/README.md) to search for\. |
+#### identifier
+
+A [Placeholder.Identifier](../../Placeholder/Identifier/README.md) to search for\.
 
 ### Returns
 

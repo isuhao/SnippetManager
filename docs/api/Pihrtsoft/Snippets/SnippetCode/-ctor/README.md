@@ -1,5 +1,7 @@
 # SnippetCode\(Snippet\) Constructor
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetCode](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,9 +16,9 @@ public SnippetCode(Snippet snippet)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| snippet | A snippet |
+#### snippet
+
+A snippet
 
 ### Exceptions
 

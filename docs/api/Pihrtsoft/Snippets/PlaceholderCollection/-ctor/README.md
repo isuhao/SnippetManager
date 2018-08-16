@@ -1,5 +1,7 @@
 # PlaceholderCollection\(IList\<Placeholder>\) Constructor
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[PlaceholderCollection](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,7 +16,6 @@ public PlaceholderCollection(IList<Placeholder> list)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| list | The list to wrap\. |
+#### list
 
+The list to wrap\.

@@ -1,5 +1,7 @@
 # CodeElement\.ReadXml\(XmlReader\) Method
 
+[Home](../../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[CodeElement](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,9 +16,7 @@ public void ReadXml(XmlReader reader)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| reader | |
+#### reader
 
 ### Implements
 

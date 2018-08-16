@@ -1,5 +1,7 @@
 # SnippetCode\.ReplacePlaceholders\(String, String\) Method
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetCode](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,10 +16,13 @@ public string ReplacePlaceholders(string identifier, string replacement)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| identifier | A placeholder identifier\. |
-| replacement | The string to replace all occurrences of placeholder with the specified identifier\. |
+#### identifier
+
+A placeholder identifier\.
+
+#### replacement
+
+The string to replace all occurrences of placeholder with the specified identifier\.
 
 ### Returns
 

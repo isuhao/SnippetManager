@@ -1,5 +1,7 @@
 # LiteralComparer\.GetValue\(Literal\) Method
 
+[Home](../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[LiteralComparer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,9 +16,9 @@ protected abstract string GetValue(Literal literal)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| literal | A literal\. |
+#### literal
+
+A literal\.
 
 ### Returns
 

@@ -1,5 +1,7 @@
 # SnippetCode\.RenamePlaceholder\(String, String\) Method
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetCode](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,10 +16,13 @@ public string RenamePlaceholder(string oldIdentifier, string newIdentifier)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| oldIdentifier | The identifier to be replaced\. |
-| newIdentifier | The idenfier to replace all occurrences of **oldIdentifier**\. |
+#### oldIdentifier
+
+The identifier to be replaced\.
+
+#### newIdentifier
+
+The idenfier to replace all occurrences of **oldIdentifier**\.
 
 ### Returns
 

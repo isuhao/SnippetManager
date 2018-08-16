@@ -1,5 +1,7 @@
 # LiteralElement\.Editable Property
 
+[Home](../../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[LiteralElement](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -20,4 +22,6 @@ System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
 ### Attributes
 
-[DefaultValueAttribute](https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.defaultvalueattribute) &#x2022; [XmlAttributeAttribute](https://docs.microsoft.com/en-us/dotnet/api/system.xml.serialization.xmlattributeattribute)
+* System\.ComponentModel\.[DefaultValueAttribute](https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.defaultvalueattribute)
+* System\.Xml\.Serialization\.[XmlAttributeAttribute](https://docs.microsoft.com/en-us/dotnet/api/system.xml.serialization.xmlattributeattribute)
+

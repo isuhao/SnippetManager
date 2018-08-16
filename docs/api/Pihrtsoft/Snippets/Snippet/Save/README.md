@@ -1,5 +1,7 @@
 # Snippet\.Save Method
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[Snippet](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -23,11 +25,11 @@ Serializes the current instance to the specified [Stream](https://docs.microsoft
 public void Save(Stream stream)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| stream | The stream to output this [Snippet](../README.md) to\. |
+#### stream
+
+The stream to output this [Snippet](../README.md) to\.
 
 ## Save\(Stream, SaveSettings\)<a name="Pihrtsoft_Snippets_Snippet_Save_System_IO_Stream_Pihrtsoft_Snippets_SaveSettings_"></a>
 
@@ -39,12 +41,15 @@ Serializes the current instance to the specified [Stream](https://docs.microsoft
 public void Save(Stream stream, SaveSettings settings)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| stream | The stream to output this [Snippet](../README.md) to\. |
-| settings | A [SaveSettings](../../SaveSettings/README.md) that modify serialization process\. |
+#### stream
+
+The stream to output this [Snippet](../README.md) to\.
+
+#### settings
+
+A [SaveSettings](../../SaveSettings/README.md) that modify serialization process\.
 
 ## Save\(String\)<a name="Pihrtsoft_Snippets_Snippet_Save_System_String_"></a>
 
@@ -56,11 +61,11 @@ Serializes the current instance to the specified file\.
 public void Save(string filePath)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| filePath | The absolute or relative path to the file\. |
+#### filePath
+
+The absolute or relative path to the file\.
 
 ## Save\(String, SaveSettings\)<a name="Pihrtsoft_Snippets_Snippet_Save_System_String_Pihrtsoft_Snippets_SaveSettings_"></a>
 
@@ -72,10 +77,12 @@ Serializes the current instance to the specified file\.
 public void Save(string filePath, SaveSettings settings)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| filePath | The absolute or relative path to the file\. |
-| settings | A [SaveSettings](../../SaveSettings/README.md) that modify serialization process\. |
+#### filePath
 
+The absolute or relative path to the file\.
+
+#### settings
+
+A [SaveSettings](../../SaveSettings/README.md) that modify serialization process\.

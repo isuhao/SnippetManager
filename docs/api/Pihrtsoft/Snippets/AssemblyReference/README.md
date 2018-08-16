@@ -1,6 +1,6 @@
 # AssemblyReference Class
 
-[Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
+[Home](../../../README.md) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
 
 **Namespace**: [Pihrtsoft.Snippets](../README.md)
 
@@ -20,7 +20,7 @@ public class AssemblyReference : System.ICloneable
 
 ### Implements
 
-[ICloneable](https://docs.microsoft.com/en-us/dotnet/api/system.icloneable)
+* System\.[ICloneable](https://docs.microsoft.com/en-us/dotnet/api/system.icloneable)
 
 ## Constructors
 

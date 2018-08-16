@@ -1,5 +1,7 @@
 # AssemblyReferenceDeepEqualityComparer\.GetHashCode\(AssemblyReference\) Method
 
+[Home](../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[AssemblyReferenceDeepEqualityComparer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,9 +16,9 @@ public override int GetHashCode(AssemblyReference obj)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| obj | An assembly reference\. |
+#### obj
+
+An assembly reference\.
 
 ### Returns
 

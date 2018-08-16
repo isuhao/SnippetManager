@@ -1,5 +1,7 @@
 # LiteralElement\.Function Property
 
+[Home](../../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[LiteralElement](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll

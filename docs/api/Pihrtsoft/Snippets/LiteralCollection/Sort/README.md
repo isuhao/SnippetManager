@@ -1,5 +1,7 @@
 # LiteralCollection\.Sort Method
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[LiteralCollection](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -31,9 +33,8 @@ Sorts the elements in the entire [LiteralCollection](../README.md) using the spe
 public void Sort(IComparer<Literal> comparer)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| comparer | The [IComparer\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icomparer-1) implementation to use when comparing elements\. |
+#### comparer
 
+The [IComparer\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icomparer-1) implementation to use when comparing elements\.

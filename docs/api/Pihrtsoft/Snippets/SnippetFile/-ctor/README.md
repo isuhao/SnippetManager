@@ -1,5 +1,7 @@
 # SnippetFile Constructors
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetFile](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -31,9 +33,8 @@ Initializes a new instance of the [SnippetFile](../README.md) class with a speci
 public SnippetFile(string fullName)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| fullName | Full name of the snippet file\. |
+#### fullName
 
+Full name of the snippet file\.

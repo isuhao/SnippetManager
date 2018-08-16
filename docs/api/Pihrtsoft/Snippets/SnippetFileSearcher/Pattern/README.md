@@ -1,5 +1,7 @@
 # SnippetFileSearcher\.Pattern Field
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetFileSearcher](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll

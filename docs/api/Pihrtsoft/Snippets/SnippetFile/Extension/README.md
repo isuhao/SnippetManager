@@ -1,5 +1,7 @@
 # SnippetFile\.Extension Field
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetFile](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll

@@ -1,5 +1,7 @@
 # SnippetTypes Enum
 
+[Home](../../../README.md) &#x2022; [Fields](#fields)
+
 **Namespace**: [Pihrtsoft.Snippets](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -19,7 +21,7 @@ public enum SnippetTypes
 
 ### Attributes
 
-[FlagsAttribute](https://docs.microsoft.com/en-us/dotnet/api/system.flagsattribute)
+* System\.[FlagsAttribute](https://docs.microsoft.com/en-us/dotnet/api/system.flagsattribute)
 
 ## Fields
 

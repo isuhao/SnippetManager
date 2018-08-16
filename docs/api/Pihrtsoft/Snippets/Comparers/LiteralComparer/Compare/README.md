@@ -1,5 +1,7 @@
 # LiteralComparer\.Compare Method
 
+[Home](../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[LiteralComparer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -21,20 +23,23 @@ Compares two literals and returns an indication of their relative sort order\.
 public int Compare(Literal x, Literal y)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| x | A [Literal](../../../Literal/README.md) to compare to **y**\. |
-| y | A [Literal](../../../Literal/README.md) to compare to **x**\. |
+#### x
 
-#### Returns
+A [Literal](../../../Literal/README.md) to compare to **y**\.
+
+#### y
+
+A [Literal](../../../Literal/README.md) to compare to **x**\.
+
+### Returns
 
 System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
 A signed integer that indicates the relative values of **x** and **y**\.
 
-#### Implements
+### Implements
 
 * [IComparer\<Literal>.Compare](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icomparer-1.compare)
 
@@ -48,19 +53,22 @@ Compares two objects and returns an indication of their relative sort order\.
 public int Compare(object x, object y)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| x | An object to compare to **y**\. |
-| y | An object to compare to **x**\. |
+#### x
 
-#### Returns
+An object to compare to **y**\.
+
+#### y
+
+An object to compare to **x**\.
+
+### Returns
 
 System\.[Int32](https://docs.microsoft.com/en-us/dotnet/api/system.int32)
 
 A signed integer that indicates the relative values of **x** and **y**\.
 
-#### Implements
+### Implements
 
 * [IComparer.Compare](https://docs.microsoft.com/en-us/dotnet/api/system.collections.icomparer.compare)

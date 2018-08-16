@@ -1,5 +1,7 @@
 # LiteralCollection\.Item\[String\] Property
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[LiteralCollection](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,9 +16,9 @@ public Literal this[string identifier] { get; }
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| identifier | A literal identifier\. |
+#### identifier
+
+A literal identifier\.
 
 ### Property Value
 

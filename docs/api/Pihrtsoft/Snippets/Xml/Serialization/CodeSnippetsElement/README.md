@@ -1,6 +1,6 @@
 # CodeSnippetsElement Class
 
-[Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
+[Home](../../../../../README.md) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
 
 **Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../README.md)
 
@@ -21,7 +21,7 @@ public sealed class CodeSnippetsElement
 
 ### Attributes
 
-[XmlRootAttribute](https://docs.microsoft.com/en-us/dotnet/api/system.xml.serialization.xmlrootattribute)
+* System\.Xml\.Serialization\.[XmlRootAttribute](https://docs.microsoft.com/en-us/dotnet/api/system.xml.serialization.xmlrootattribute)
 
 ## Constructors
 

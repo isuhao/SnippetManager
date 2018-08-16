@@ -1,6 +1,6 @@
 # SnippetComparer\<T> Class
 
-[Constructors](#constructors) &#x2022; [Methods](#methods)
+[Home](../../../../README.md) &#x2022; [Constructors](#constructors) &#x2022; [Methods](#methods)
 
 **Namespace**: [Pihrtsoft.Snippets.Comparers](../README.md)
 
@@ -16,9 +16,7 @@ public abstract class SnippetComparer<T> : SnippetComparer
 
 ### Type Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| T | |
+#### T
 
 ### Inheritance
 
@@ -26,7 +24,10 @@ public abstract class SnippetComparer<T> : SnippetComparer
 
 ### Implements
 
-[IComparer](https://docs.microsoft.com/en-us/dotnet/api/system.collections.icomparer) &#x2022; [IComparer](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icomparer-1)\<[Snippet](../../Snippet/README.md)> &#x2022; [IEqualityComparer](https://docs.microsoft.com/en-us/dotnet/api/system.collections.iequalitycomparer) &#x2022; [IEqualityComparer](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.iequalitycomparer-1)\<[Snippet](../../Snippet/README.md)>
+* System\.Collections\.[IComparer](https://docs.microsoft.com/en-us/dotnet/api/system.collections.icomparer)
+* System\.Collections\.[IEqualityComparer](https://docs.microsoft.com/en-us/dotnet/api/system.collections.iequalitycomparer)
+* System\.Collections\.Generic\.[IComparer](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icomparer-1)\<[Snippet](../../Snippet/README.md)>
+* System\.Collections\.Generic\.[IEqualityComparer](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.iequalitycomparer-1)\<[Snippet](../../Snippet/README.md)>
 
 ## Constructors
 

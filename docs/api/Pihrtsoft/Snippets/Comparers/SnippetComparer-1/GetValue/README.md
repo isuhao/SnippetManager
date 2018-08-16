@@ -1,5 +1,7 @@
 # SnippetComparer\<T>\.GetValue\(Snippet\) Method
 
+[Home](../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[SnippetComparer\<T>](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,9 +16,9 @@ protected abstract T GetValue(Snippet snippet)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| snippet | A snippet\. |
+#### snippet
+
+A snippet\.
 
 ### Returns
 

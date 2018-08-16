@@ -1,5 +1,7 @@
 # Literal\.CreateSwitchCasesLiteral\(String, String, String, String\) Method
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[Literal](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,12 +16,21 @@ public static Literal CreateSwitchCasesLiteral(string identifier, string express
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| identifier | The [Literal](../README.md) identifier\. |
-| expressionIdentifier | Identifier of the literal that represent switch expression\. |
-| toolTip | The [Literal](../README.md) description\. |
-| defaultValue | The [Literal](../README.md)default value\. |
+#### identifier
+
+The [Literal](../README.md) identifier\.
+
+#### expressionIdentifier
+
+Identifier of the literal that represent switch expression\.
+
+#### toolTip
+
+The [Literal](../README.md) description\.
+
+#### defaultValue
+
+The [Literal](../README.md)default value\.
 
 ### Returns
 

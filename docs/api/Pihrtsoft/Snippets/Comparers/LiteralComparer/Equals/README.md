@@ -1,5 +1,7 @@
 # LiteralComparer\.Equals Method
 
+[Home](../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[LiteralComparer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -21,20 +23,23 @@ Indicates whether two literals are equal\.
 public bool Equals(Literal x, Literal y)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| x | A [Literal](../../../Literal/README.md) to compare to **y**\. |
-| y | A [Literal](../../../Literal/README.md) to compare to **x**\. |
+#### x
 
-#### Returns
+A [Literal](../../../Literal/README.md) to compare to **y**\.
+
+#### y
+
+A [Literal](../../../Literal/README.md) to compare to **x**\.
+
+### Returns
 
 System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
 `true` if **x** and **y** refer to the same object, or **x** and **y** are `null`, or **x** and **y** are equal; otherwise, `false`\.
 
-#### Implements
+### Implements
 
 * [IEqualityComparer\<Literal>.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.iequalitycomparer-1.equals)
 
@@ -48,19 +53,22 @@ Indicates whether two objects are equal\.
 public bool Equals(object x, object y)
 ```
 
-#### Parameters
+### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| x | An object to compare to **y**\. |
-| y | An object to compare to **x**\. |
+#### x
 
-#### Returns
+An object to compare to **y**\.
+
+#### y
+
+An object to compare to **x**\.
+
+### Returns
 
 System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
 `true` if **x** and **y** refer to the same object, or **x** and **y** are both the same type of object and those objects are equal; otherwise, `false`\.
 
-#### Implements
+### Implements
 
 * [IEqualityComparer.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.collections.iequalitycomparer.equals)

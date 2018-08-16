@@ -1,5 +1,7 @@
 # SnippetCode\.Placeholders Property
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetCode](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll

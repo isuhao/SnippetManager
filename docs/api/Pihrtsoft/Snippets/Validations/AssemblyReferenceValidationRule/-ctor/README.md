@@ -1,5 +1,7 @@
 # AssemblyReferenceValidationRule\(\) Constructor
 
+[Home](../../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md)\.[AssemblyReferenceValidationRule](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll

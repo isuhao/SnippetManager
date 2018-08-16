@@ -1,5 +1,7 @@
 # LiteralCollection\.Contains\(String\) Method
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[LiteralCollection](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,9 +16,9 @@ public bool Contains(string identifier)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| identifier | A literal identifier to search for\. |
+#### identifier
+
+A literal identifier to search for\.
 
 ### Returns
 

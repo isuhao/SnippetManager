@@ -1,5 +1,7 @@
 # SnippetSerializer\.DeserializeFile\(String\) Method
 
+[Home](../../../../README.md)
+
 **Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetSerializer](../README.md)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
@@ -14,9 +16,9 @@ public static SnippetFile DeserializeFile(string filePath)
 
 ### Parameters
 
-| Name | Summary |
-| ---- | ------- |
-| filePath | The absolute or relative path to the file\. |
+#### filePath
+
+The absolute or relative path to the file\.
 
 ### Returns
 
