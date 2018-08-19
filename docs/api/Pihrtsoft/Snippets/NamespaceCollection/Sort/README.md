@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # NamespaceCollection\.Sort Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[NamespaceCollection](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[NamespaceCollection](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -10,24 +12,24 @@
 
 | Method | Summary |
 | ------ | ------- |
-| [Sort()](#Pihrtsoft_Snippets_NamespaceCollection_Sort) | Sorts the elements in the entire [NamespaceCollection](../README.md)\. |
-| [Sort(IComparer\<String>)](#Pihrtsoft_Snippets_NamespaceCollection_Sort_System_Collections_Generic_IComparer_System_String__) | Sorts the elements in the entire [NamespaceCollection](../README.md) using the specified comparer\. |
+| [Sort()](#Pihrtsoft_Snippets_NamespaceCollection_Sort) | Sorts the elements in the entire [NamespaceCollection](../README.md#_top)\. |
+| [Sort(IComparer\<String>)](#Pihrtsoft_Snippets_NamespaceCollection_Sort_System_Collections_Generic_IComparer_System_String__) | Sorts the elements in the entire [NamespaceCollection](../README.md#_top) using the specified comparer\. |
 
-## Sort\(\)<a name="Pihrtsoft_Snippets_NamespaceCollection_Sort"></a>
+## Sort\(\) <a name="Pihrtsoft_Snippets_NamespaceCollection_Sort"></a>
 
 ### Summary
 
-Sorts the elements in the entire [NamespaceCollection](../README.md)\.
+Sorts the elements in the entire [NamespaceCollection](../README.md#_top)\.
 
 ```csharp
 public void Sort()
 ```
 
-## Sort\(IComparer\<String>\)<a name="Pihrtsoft_Snippets_NamespaceCollection_Sort_System_Collections_Generic_IComparer_System_String__"></a>
+## Sort\(IComparer\<String>\) <a name="Pihrtsoft_Snippets_NamespaceCollection_Sort_System_Collections_Generic_IComparer_System_String__"></a>
 
 ### Summary
 
-Sorts the elements in the entire [NamespaceCollection](../README.md) using the specified comparer\.
+Sorts the elements in the entire [NamespaceCollection](../README.md#_top) using the specified comparer\.
 
 ```csharp
 public void Sort(IComparer<string> comparer)

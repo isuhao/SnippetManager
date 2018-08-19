@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # CodeElement\.Kind Property
 
-[Home](../../../../../../README.md)
+[Home](../../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[CodeElement](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md#_top)\.[CodeElement](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 

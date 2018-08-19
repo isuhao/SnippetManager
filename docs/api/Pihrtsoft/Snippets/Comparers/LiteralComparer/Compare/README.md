@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # LiteralComparer\.Compare Method
 
-[Home](../../../../../README.md)
+[Home](../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[LiteralComparer](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md#_top)\.[LiteralComparer](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -13,7 +15,7 @@
 | [Compare(Literal, Literal)](#Pihrtsoft_Snippets_Comparers_LiteralComparer_Compare_Pihrtsoft_Snippets_Literal_Pihrtsoft_Snippets_Literal_) | Compares two literals and returns an indication of their relative sort order\. \(Implements [IComparer\<Literal>.Compare](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icomparer-1.compare)\) |
 | [Compare(Object, Object)](#Pihrtsoft_Snippets_Comparers_LiteralComparer_Compare_System_Object_System_Object_) | Compares two objects and returns an indication of their relative sort order\. \(Implements [IComparer.Compare](https://docs.microsoft.com/en-us/dotnet/api/system.collections.icomparer.compare)\) |
 
-## Compare\(Literal, Literal\)<a name="Pihrtsoft_Snippets_Comparers_LiteralComparer_Compare_Pihrtsoft_Snippets_Literal_Pihrtsoft_Snippets_Literal_"></a>
+## Compare\(Literal, Literal\) <a name="Pihrtsoft_Snippets_Comparers_LiteralComparer_Compare_Pihrtsoft_Snippets_Literal_Pihrtsoft_Snippets_Literal_"></a>
 
 ### Summary
 
@@ -27,11 +29,11 @@ public int Compare(Literal x, Literal y)
 
 #### x
 
-A [Literal](../../../Literal/README.md) to compare to **y**\.
+A [Literal](../../../Literal/README.md#_top) to compare to **y**\.
 
 #### y
 
-A [Literal](../../../Literal/README.md) to compare to **x**\.
+A [Literal](../../../Literal/README.md#_top) to compare to **x**\.
 
 ### Returns
 
@@ -43,7 +45,7 @@ A signed integer that indicates the relative values of **x** and **y**\.
 
 * [IComparer\<Literal>.Compare](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icomparer-1.compare)
 
-## Compare\(Object, Object\)<a name="Pihrtsoft_Snippets_Comparers_LiteralComparer_Compare_System_Object_System_Object_"></a>
+## Compare\(Object, Object\) <a name="Pihrtsoft_Snippets_Comparers_LiteralComparer_Compare_System_Object_System_Object_"></a>
 
 ### Summary
 

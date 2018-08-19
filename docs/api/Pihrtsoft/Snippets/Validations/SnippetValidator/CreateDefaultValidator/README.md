@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # SnippetValidator\.CreateDefaultValidator\(\) Method
 
-[Home](../../../../../README.md)
+[Home](../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md)\.[SnippetValidator](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md#_top)\.[SnippetValidator](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Creates [SnippetValidator](../README.md) that contains validation rules defines in [Validations](../../README.md) namespace\.
+Creates [SnippetValidator](../README.md#_top) that contains validation rules defines in [Validations](../../README.md#_top) namespace\.
 
 ```csharp
 public static SnippetValidator CreateDefaultValidator()
@@ -16,6 +18,6 @@ public static SnippetValidator CreateDefaultValidator()
 
 ### Returns
 
-Pihrtsoft\.Snippets\.Validations\.[SnippetValidator](../README.md)
+Pihrtsoft\.Snippets\.Validations\.[SnippetValidator](../README.md#_top)
 
-[SnippetValidator](../README.md) with predefined validation rules\.
+[SnippetValidator](../README.md#_top) with predefined validation rules\.

@@ -147,6 +147,7 @@
   <Target Name="PreRoslynatorDocumention" BeforeTargets="RoslynatorDocumentation" Condition=" '$(Configuration)' == 'Release'">
     <PropertyGroup>
       <RoslynatorDocumentationParameters> -a "$(TargetPath)" -o "$(SolutionDir)..\docs\api" -h "Snippet Manager API Reference" -m github</RoslynatorDocumentationParameters>
+      <RoslynatorDocumentationDefinitionListParameters> -a &quot;$(TargetPath)&quot; -o &quot;$(SolutionDir)..\docs\api.cs&quot;</RoslynatorDocumentationDefinitionListParameters>
     </PropertyGroup>
   </Target>
   <Import Project="..\packages\Roslynator.Documentation.CommandLine.1.0.0-test\build\net40\Roslynator.Documentation.CommandLine.targets" Condition="Exists('..\packages\Roslynator.Documentation.CommandLine.1.0.0-test\build\net40\Roslynator.Documentation.CommandLine.targets')" />

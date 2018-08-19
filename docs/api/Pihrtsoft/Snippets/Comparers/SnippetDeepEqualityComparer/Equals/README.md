@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # SnippetDeepEqualityComparer\.Equals\(Snippet, Snippet\) Method
 
-[Home](../../../../../README.md)
+[Home](../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[SnippetDeepEqualityComparer](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md#_top)\.[SnippetDeepEqualityComparer](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -18,11 +20,11 @@ public override bool Equals(Snippet x, Snippet y)
 
 #### x
 
-A [Snippet](../../../Snippet/README.md) to compare to **y**\.
+A [Snippet](../../../Snippet/README.md#_top) to compare to **y**\.
 
 #### y
 
-A [Snippet](../../../Snippet/README.md) to compare to **x**\.
+A [Snippet](../../../Snippet/README.md#_top) to compare to **x**\.
 
 ### Returns
 

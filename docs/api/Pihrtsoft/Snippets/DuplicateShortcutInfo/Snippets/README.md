@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # DuplicateShortcutInfo\.Snippets Property
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[DuplicateShortcutInfo](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[DuplicateShortcutInfo](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -16,5 +18,5 @@ public IEnumerable<Snippet> Snippets { get; }
 
 ### Property Value
 
-System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<Pihrtsoft\.Snippets\.[Snippet](../../Snippet/README.md)>
+System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<Pihrtsoft\.Snippets\.[Snippet](../../Snippet/README.md#_top)>
 

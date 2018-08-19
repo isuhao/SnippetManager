@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # SnippetValidationResult\.Code Property
 
-[Home](../../../../../README.md)
+[Home](../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md)\.[SnippetValidationResult](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md#_top)\.[SnippetValidationResult](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 

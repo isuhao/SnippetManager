@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # SnippetFileSearcher\.EnumerateSnippetFiles Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetFileSearcher](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[SnippetFileSearcher](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -15,7 +17,7 @@
 | [EnumerateSnippetFiles(String)](#Pihrtsoft_Snippets_SnippetFileSearcher_EnumerateSnippetFiles_System_String_) | Returns enumerable collection of snippet file names from a specified directory\. |
 | [EnumerateSnippetFiles(String, SearchOption)](#Pihrtsoft_Snippets_SnippetFileSearcher_EnumerateSnippetFiles_System_String_System_IO_SearchOption_) | Returns enumerable collection of snippet file names from a specified directory, optionally searching subdirectories\. |
 
-## EnumerateSnippetFiles\(IEnumerable\<String>\)<a name="Pihrtsoft_Snippets_SnippetFileSearcher_EnumerateSnippetFiles_System_Collections_Generic_IEnumerable_System_String__"></a>
+## EnumerateSnippetFiles\(IEnumerable\<String>\) <a name="Pihrtsoft_Snippets_SnippetFileSearcher_EnumerateSnippetFiles_System_Collections_Generic_IEnumerable_System_String__"></a>
 
 ### Summary
 
@@ -43,7 +45,7 @@ An enumerable collection of snippet file names\.
 
 **directoryPaths** is `null`\.
 
-## EnumerateSnippetFiles\(IEnumerable\<String>, SearchOption\)<a name="Pihrtsoft_Snippets_SnippetFileSearcher_EnumerateSnippetFiles_System_Collections_Generic_IEnumerable_System_String__System_IO_SearchOption_"></a>
+## EnumerateSnippetFiles\(IEnumerable\<String>, SearchOption\) <a name="Pihrtsoft_Snippets_SnippetFileSearcher_EnumerateSnippetFiles_System_Collections_Generic_IEnumerable_System_String__System_IO_SearchOption_"></a>
 
 ### Summary
 
@@ -75,7 +77,7 @@ An enumerable collection of snippet file names\.
 
 **directoryPaths** is `null`\.
 
-## EnumerateSnippetFiles\(String\)<a name="Pihrtsoft_Snippets_SnippetFileSearcher_EnumerateSnippetFiles_System_String_"></a>
+## EnumerateSnippetFiles\(String\) <a name="Pihrtsoft_Snippets_SnippetFileSearcher_EnumerateSnippetFiles_System_String_"></a>
 
 ### Summary
 
@@ -103,7 +105,7 @@ An enumerable collection of snippet file names\.
 
 **directoryPath** is `null`\.
 
-## EnumerateSnippetFiles\(String, SearchOption\)<a name="Pihrtsoft_Snippets_SnippetFileSearcher_EnumerateSnippetFiles_System_String_System_IO_SearchOption_"></a>
+## EnumerateSnippetFiles\(String, SearchOption\) <a name="Pihrtsoft_Snippets_SnippetFileSearcher_EnumerateSnippetFiles_System_String_System_IO_SearchOption_"></a>
 
 ### Summary
 

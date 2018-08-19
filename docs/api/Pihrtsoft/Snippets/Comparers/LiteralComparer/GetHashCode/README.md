@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # LiteralComparer\.GetHashCode Method
 
-[Home](../../../../../README.md)
+[Home](../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[LiteralComparer](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md#_top)\.[LiteralComparer](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -10,14 +12,14 @@
 
 | Method | Summary |
 | ------ | ------- |
-| [GetHashCode(Literal)](#Pihrtsoft_Snippets_Comparers_LiteralComparer_GetHashCode_Pihrtsoft_Snippets_Literal_) | Gets the hash code for the specified [Literal](../../../Literal/README.md)\. \(Implements [IEqualityComparer\<Literal>.GetHashCode](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.iequalitycomparer-1.gethashcode)\) |
+| [GetHashCode(Literal)](#Pihrtsoft_Snippets_Comparers_LiteralComparer_GetHashCode_Pihrtsoft_Snippets_Literal_) | Gets the hash code for the specified [Literal](../../../Literal/README.md#_top)\. \(Implements [IEqualityComparer\<Literal>.GetHashCode](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.iequalitycomparer-1.gethashcode)\) |
 | [GetHashCode(Object)](#Pihrtsoft_Snippets_Comparers_LiteralComparer_GetHashCode_System_Object_) | Gets the hash code for the specified literal\. \(Implements [IEqualityComparer.GetHashCode](https://docs.microsoft.com/en-us/dotnet/api/system.collections.iequalitycomparer.gethashcode)\) |
 
-## GetHashCode\(Literal\)<a name="Pihrtsoft_Snippets_Comparers_LiteralComparer_GetHashCode_Pihrtsoft_Snippets_Literal_"></a>
+## GetHashCode\(Literal\) <a name="Pihrtsoft_Snippets_Comparers_LiteralComparer_GetHashCode_Pihrtsoft_Snippets_Literal_"></a>
 
 ### Summary
 
-Gets the hash code for the specified [Literal](../../../Literal/README.md)\.
+Gets the hash code for the specified [Literal](../../../Literal/README.md#_top)\.
 
 ```csharp
 public int GetHashCode(Literal obj)
@@ -39,7 +41,7 @@ A 32\-bit signed hash code calculated from the value of the **obj**\.
 
 * [IEqualityComparer\<Literal>.GetHashCode](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.iequalitycomparer-1.gethashcode)
 
-## GetHashCode\(Object\)<a name="Pihrtsoft_Snippets_Comparers_LiteralComparer_GetHashCode_System_Object_"></a>
+## GetHashCode\(Object\) <a name="Pihrtsoft_Snippets_Comparers_LiteralComparer_GetHashCode_System_Object_"></a>
 
 ### Summary
 

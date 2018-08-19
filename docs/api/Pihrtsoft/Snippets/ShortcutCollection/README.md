@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # ShortcutCollection Class
 
-[Home](../../../README.md) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
+[Home](../../../README.md#_top) &#x2022; [Constructors](#constructors) &#x2022; [Indexers](#indexers) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
 
-**Namespace**: [Pihrtsoft.Snippets](../README.md)
+**Namespace**: [Pihrtsoft.Snippets](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -30,14 +32,19 @@ public class ShortcutCollection : System.Collections.ObjectModel.Collection<Syst
 
 | Constructor | Summary |
 | ----------- | ------- |
-| [ShortcutCollection()](-ctor/README.md) | Initializes a new instance of the [ShortcutCollection](./README.md) class that is empty\. |
+| [ShortcutCollection()](-ctor/README.md#_top) | Initializes a new instance of the [ShortcutCollection](#_top) class that is empty\. |
+
+## Indexers
+
+| Indexer | Summary |
+| ------- | ------- |
+| [Item\[Int32\]](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.item) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
 
 ## Properties
 
 | Property | Summary |
 | -------- | ------- |
 | [Count](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.count) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
-| [Item\[Int32\]](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.item) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
 | [Items](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.items) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
 
 ## Methods
@@ -61,7 +68,7 @@ public class ShortcutCollection : System.Collections.ObjectModel.Collection<Syst
 | [RemoveAt(Int32)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.removeat) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
 | [RemoveItem(Int32)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.removeitem) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
 | [SetItem(Int32, String)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.setitem) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
-| [Sort()](Sort/README.md#Pihrtsoft_Snippets_ShortcutCollection_Sort) | Sorts the elements in the entire [ShortcutCollection](./README.md)\. |
-| [Sort(IComparer\<String>)](Sort/README.md#Pihrtsoft_Snippets_ShortcutCollection_Sort_System_Collections_Generic_IComparer_System_String__) | Sorts the elements in the entire [ShortcutCollection](./README.md) using the specified comparer\. |
+| [Sort()](Sort/README.md#Pihrtsoft_Snippets_ShortcutCollection_Sort) | Sorts the elements in the entire [ShortcutCollection](#_top)\. |
+| [Sort(IComparer\<String>)](Sort/README.md#Pihrtsoft_Snippets_ShortcutCollection_Sort_System_Collections_Generic_IComparer_System_String__) | Sorts the elements in the entire [ShortcutCollection](#_top) using the specified comparer\. |
 | [ToString()](https://docs.microsoft.com/en-us/dotnet/api/system.object.tostring) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 

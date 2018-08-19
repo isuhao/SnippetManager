@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # SnippetElement Class
 
-[Home](../../../../../README.md) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
+[Home](../../../../../README.md#_top) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
 
-**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../README.md)
+**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Represents Snippet element in a serialized [Snippet](../../../Snippet/README.md)\. This class cannot be inherited\.
+Represents Snippet element in a serialized [Snippet](../../../Snippet/README.md#_top)\. This class cannot be inherited\.
 
 ```csharp
 public sealed class SnippetElement
@@ -22,16 +24,16 @@ public sealed class SnippetElement
 
 | Constructor | Summary |
 | ----------- | ------- |
-| [SnippetElement()](-ctor/README.md) | |
+| [SnippetElement()](-ctor/README.md#_top) | |
 
 ## Properties
 
 | Property | Summary |
 | -------- | ------- |
-| [Code](Code/README.md) | Gets or sets Code element\. |
-| [Declarations](Declarations/README.md) | Gets or sets Declarations element\. |
-| [Imports](Imports/README.md) | Gets or sets Imports element\. |
-| [References](References/README.md) | Gets or sets References element\. |
+| [Code](Code/README.md#_top) | Gets or sets Code element\. |
+| [Declarations](Declarations/README.md#_top) | Gets or sets Declarations element\. |
+| [Imports](Imports/README.md#_top) | Gets or sets Imports element\. |
+| [References](References/README.md#_top) | Gets or sets References element\. |
 
 ## Methods
 

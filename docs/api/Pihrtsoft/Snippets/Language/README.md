@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # Language Enum
 
-[Home](../../../README.md) &#x2022; [Fields](#fields)
+[Home](../../../README.md#_top) &#x2022; [Fields](#fields)
 
-**Namespace**: [Pihrtsoft.Snippets](../README.md)
+**Namespace**: [Pihrtsoft.Snippets](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Specifies programming language of a [Snippet](../Snippet/README.md)\.
+Specifies programming language of a [Snippet](../Snippet/README.md#_top)\.
 
 ```csharp
 public enum Language

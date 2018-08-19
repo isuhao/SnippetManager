@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # SnippetDeepEqualityComparer Class
 
-[Home](../../../../README.md) &#x2022; [Constructors](#constructors) &#x2022; [Methods](#methods)
+[Home](../../../../README.md#_top) &#x2022; [Constructors](#constructors) &#x2022; [Methods](#methods)
 
-**Namespace**: [Pihrtsoft.Snippets.Comparers](../README.md)
+**Namespace**: [Pihrtsoft.Snippets.Comparers](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Represents a deep comparison for [Snippet](../../Snippet/README.md)\.
+Represents a deep comparison for [Snippet](../../Snippet/README.md#_top)\.
 
 ```csharp
 public class SnippetDeepEqualityComparer : System.Collections.Generic.EqualityComparer<Pihrtsoft.Snippets.Snippet>
@@ -21,22 +23,22 @@ public class SnippetDeepEqualityComparer : System.Collections.Generic.EqualityCo
 ### Implements
 
 * System\.Collections\.[IEqualityComparer](https://docs.microsoft.com/en-us/dotnet/api/system.collections.iequalitycomparer)
-* System\.Collections\.Generic\.[IEqualityComparer](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.iequalitycomparer-1)\<[Snippet](../../Snippet/README.md)>
+* System\.Collections\.Generic\.[IEqualityComparer](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.iequalitycomparer-1)\<[Snippet](../../Snippet/README.md#_top)>
 
 ## Constructors
 
 | Constructor | Summary |
 | ----------- | ------- |
-| [SnippetDeepEqualityComparer()](-ctor/README.md) | |
+| [SnippetDeepEqualityComparer()](-ctor/README.md#_top) | |
 
 ## Methods
 
 | Method | Summary |
 | ------ | ------- |
 | [Equals(Object)](https://docs.microsoft.com/en-us/dotnet/api/system.object.equals) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
-| [Equals(Snippet, Snippet)](Equals/README.md) | Indicates whether two snippets are equal\. \(Overrides [EqualityComparer\<Snippet>.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.equalitycomparer-1.equals)\) |
+| [Equals(Snippet, Snippet)](Equals/README.md#_top) | Indicates whether two snippets are equal\. \(Overrides [EqualityComparer\<Snippet>.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.equalitycomparer-1.equals)\) |
 | [GetHashCode()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gethashcode) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
-| [GetHashCode(Snippet)](GetHashCode/README.md) | Gets the hash code for the specified [Snippet](../../Snippet/README.md)\. \(Overrides [EqualityComparer\<Snippet>.GetHashCode](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.equalitycomparer-1.gethashcode)\) |
+| [GetHashCode(Snippet)](GetHashCode/README.md#_top) | Gets the hash code for the specified [Snippet](../../Snippet/README.md#_top)\. \(Overrides [EqualityComparer\<Snippet>.GetHashCode](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.equalitycomparer-1.gethashcode)\) |
 | [GetType()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gettype) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 | [MemberwiseClone()](https://docs.microsoft.com/en-us/dotnet/api/system.object.memberwiseclone) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 | [ToString()](https://docs.microsoft.com/en-us/dotnet/api/system.object.tostring) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |

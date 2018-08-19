@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # DuplicateShortcutInfo Class
 
-[Home](../../../README.md) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
+[Home](../../../README.md#_top) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
 
-**Namespace**: [Pihrtsoft.Snippets](../README.md)
+**Namespace**: [Pihrtsoft.Snippets](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -22,8 +24,8 @@ public class DuplicateShortcutInfo
 
 | Property | Summary |
 | -------- | ------- |
-| [Shortcut](Shortcut/README.md) | Gets snippet shortcut\. |
-| [Snippets](Snippets/README.md) | Gets an enumerable collection of snippets with same shortcut\. |
+| [Shortcut](Shortcut/README.md#_top) | Gets snippet shortcut\. |
+| [Snippets](Snippets/README.md#_top) | Gets an enumerable collection of snippets with same shortcut\. |
 
 ## Methods
 

@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # LiteralCollection\.Contains\(String\) Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[LiteralCollection](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[LiteralCollection](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Determines whether a [Literal](../../Literal/README.md) with a specified identifier is in the [LiteralCollection](../README.md)\.
+Determines whether a [Literal](../../Literal/README.md#_top) with a specified identifier is in the [LiteralCollection](../README.md#_top)\.
 
 ```csharp
 public bool Contains(string identifier)
@@ -24,4 +26,4 @@ A literal identifier to search for\.
 
 System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
-`true` if item is found in the [LiteralCollection](../README.md); otherwise, `false`\.
+`true` if item is found in the [LiteralCollection](../README.md#_top); otherwise, `false`\.

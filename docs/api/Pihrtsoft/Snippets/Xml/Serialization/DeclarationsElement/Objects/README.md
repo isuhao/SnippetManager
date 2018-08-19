@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # DeclarationsElement\.Objects Property
 
-[Home](../../../../../../README.md)
+[Home](../../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[DeclarationsElement](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md#_top)\.[DeclarationsElement](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 

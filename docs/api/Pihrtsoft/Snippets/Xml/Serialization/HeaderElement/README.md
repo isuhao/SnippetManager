@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # HeaderElement Class
 
-[Home](../../../../../README.md) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
+[Home](../../../../../README.md#_top) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
 
-**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../README.md)
+**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Represents Header element in a serialized [Snippet](../../../Snippet/README.md)\. This class cannot be inherited\.
+Represents Header element in a serialized [Snippet](../../../Snippet/README.md#_top)\. This class cannot be inherited\.
 
 ```csharp
 public sealed class HeaderElement
@@ -22,20 +24,20 @@ public sealed class HeaderElement
 
 | Constructor | Summary |
 | ----------- | ------- |
-| [HeaderElement()](-ctor/README.md) | |
+| [HeaderElement()](-ctor/README.md#_top) | |
 
 ## Properties
 
 | Property | Summary |
 | -------- | ------- |
-| [AlternativeShortcuts](AlternativeShortcuts/README.md) | Gets or sets AlternativeShortcuts element\. |
-| [Author](Author/README.md) | Gets or sets Author element values\. |
-| [Description](Description/README.md) | Gets or sets Description element value\. |
-| [HelpUrl](HelpUrl/README.md) | Gets or sets HelpUrl element value\. |
-| [Keywords](Keywords/README.md) | Gets or sets Keywords element\. |
-| [Shortcut](Shortcut/README.md) | Gets or sets Shortcut element value\. |
-| [SnippetTypes](SnippetTypes/README.md) | Gets or sets SnippetTypes element\. |
-| [Title](Title/README.md) | Gets or sets Title element value\. |
+| [AlternativeShortcuts](AlternativeShortcuts/README.md#_top) | Gets or sets AlternativeShortcuts element\. |
+| [Author](Author/README.md#_top) | Gets or sets Author element values\. |
+| [Description](Description/README.md#_top) | Gets or sets Description element value\. |
+| [HelpUrl](HelpUrl/README.md#_top) | Gets or sets HelpUrl element value\. |
+| [Keywords](Keywords/README.md#_top) | Gets or sets Keywords element\. |
+| [Shortcut](Shortcut/README.md#_top) | Gets or sets Shortcut element value\. |
+| [SnippetTypes](SnippetTypes/README.md#_top) | Gets or sets SnippetTypes element\. |
+| [Title](Title/README.md#_top) | Gets or sets Title element value\. |
 
 ## Methods
 

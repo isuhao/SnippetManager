@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # CodeSnippetsElement Class
 
-[Home](../../../../../README.md) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
+[Home](../../../../../README.md#_top) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
 
-**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../README.md)
+**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Represents CodeSnippets element in a serialized [Snippet](../../../Snippet/README.md)\. This class cannot be inherited\.
+Represents CodeSnippets element in a serialized [Snippet](../../../Snippet/README.md#_top)\. This class cannot be inherited\.
 
 ```csharp
 [System.Xml.Serialization.XmlRootAttribute("CodeSnippets")]
@@ -27,13 +29,13 @@ public sealed class CodeSnippetsElement
 
 | Constructor | Summary |
 | ----------- | ------- |
-| [CodeSnippetsElement()](-ctor/README.md) | |
+| [CodeSnippetsElement()](-ctor/README.md#_top) | |
 
 ## Properties
 
 | Property | Summary |
 | -------- | ------- |
-| [Snippets](Snippets/README.md) | Gets or sets array of CodeSnippet elements\. |
+| [Snippets](Snippets/README.md#_top) | Gets or sets array of CodeSnippet elements\. |
 
 ## Methods
 

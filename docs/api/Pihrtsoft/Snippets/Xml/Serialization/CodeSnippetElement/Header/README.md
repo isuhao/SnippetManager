@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # CodeSnippetElement\.Header Property
 
-[Home](../../../../../../README.md)
+[Home](../../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[CodeSnippetElement](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md#_top)\.[CodeSnippetElement](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -16,5 +18,5 @@ public HeaderElement Header { get; set; }
 
 ### Property Value
 
-Pihrtsoft\.Snippets\.Xml\.Serialization\.[HeaderElement](../../HeaderElement/README.md)
+Pihrtsoft\.Snippets\.Xml\.Serialization\.[HeaderElement](../../HeaderElement/README.md#_top)
 

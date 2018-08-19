@@ -1,8 +1,8 @@
 # DescriptionValidationRule\(\) Constructor
 
-[Home](../../../../../README.md)
+[Home](../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md)\.[DescriptionValidationRule](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md#_top)\.[DescriptionValidationRule](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 

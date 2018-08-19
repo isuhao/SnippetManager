@@ -1,8 +1,10 @@
-# PlaceholderCollection\.Item\[String\] Property
+<a name="_top"></a>
 
-[Home](../../../../README.md)
+# PlaceholderCollection\.Item\[String\] Indexer
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[PlaceholderCollection](../README.md)
+[Home](../../../../README.md#_top)
+
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[PlaceholderCollection](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -22,6 +24,6 @@ A placeholder identifier\.
 
 ### Property Value
 
-Pihrtsoft\.Snippets\.[Placeholder](../../Placeholder/README.md)
+Pihrtsoft\.Snippets\.[Placeholder](../../Placeholder/README.md#_top)
 
 First found placeholder with the specified identifier\.

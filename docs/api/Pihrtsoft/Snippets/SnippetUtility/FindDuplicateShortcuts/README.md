@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # SnippetUtility\.FindDuplicateShortcuts\(IEnumerable\<Snippet>\) Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetUtility](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[SnippetUtility](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Returns enumerable groups of [Snippet](../../Snippet/README.md)s that have same shortcut\. [SnippetComparer.Shortcut](../../Comparers/SnippetComparer/Shortcut/README.md) is used to compare shortcuts\.
+Returns enumerable groups of [Snippet](../../Snippet/README.md#_top)s that have same shortcut\. [SnippetComparer.Shortcut](../../Comparers/SnippetComparer/Shortcut/README.md#_top) is used to compare shortcuts\.
 
 ```csharp
 public static IEnumerable<DuplicateShortcutInfo> FindDuplicateShortcuts(IEnumerable<Snippet> snippets)
@@ -18,13 +20,13 @@ public static IEnumerable<DuplicateShortcutInfo> FindDuplicateShortcuts(IEnumera
 
 #### snippets
 
-Collection of [Snippet](../../Snippet/README.md)s\.
+Collection of [Snippet](../../Snippet/README.md#_top)s\.
 
 ### Returns
 
-System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<Pihrtsoft\.Snippets\.[DuplicateShortcutInfo](../../DuplicateShortcutInfo/README.md)>
+System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<Pihrtsoft\.Snippets\.[DuplicateShortcutInfo](../../DuplicateShortcutInfo/README.md#_top)>
 
-Enumerable collection of [DuplicateShortcutInfo](../../DuplicateShortcutInfo/README.md) where each element contains shortcut and snippets with that shortcut\.
+Enumerable collection of [DuplicateShortcutInfo](../../DuplicateShortcutInfo/README.md#_top) where each element contains shortcut and snippets with that shortcut\.
 
 ### Exceptions
 

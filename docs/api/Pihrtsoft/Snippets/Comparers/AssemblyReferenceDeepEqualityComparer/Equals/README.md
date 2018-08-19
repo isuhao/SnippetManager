@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # AssemblyReferenceDeepEqualityComparer\.Equals\(AssemblyReference, AssemblyReference\) Method
 
-[Home](../../../../../README.md)
+[Home](../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[AssemblyReferenceDeepEqualityComparer](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md#_top)\.[AssemblyReferenceDeepEqualityComparer](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -18,11 +20,11 @@ public override bool Equals(AssemblyReference x, AssemblyReference y)
 
 #### x
 
-A [AssemblyReference](../../../AssemblyReference/README.md) to compare to **y**\.
+A [AssemblyReference](../../../AssemblyReference/README.md#_top) to compare to **y**\.
 
 #### y
 
-A [AssemblyReference](../../../AssemblyReference/README.md) to compare to **x**\.
+A [AssemblyReference](../../../AssemblyReference/README.md#_top) to compare to **x**\.
 
 ### Returns
 

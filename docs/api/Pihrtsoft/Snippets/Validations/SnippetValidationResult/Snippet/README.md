@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # SnippetValidationResult\.Snippet Property
 
-[Home](../../../../../README.md)
+[Home](../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md)\.[SnippetValidationResult](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md#_top)\.[SnippetValidationResult](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Gets the [SnippetValidationResult.Snippet](./README.md) the is the source of the result\.
+Gets the [SnippetValidationResult.Snippet](#_top) the is the source of the result\.
 
 ```csharp
 public Snippet Snippet { get; }
@@ -16,5 +18,5 @@ public Snippet Snippet { get; }
 
 ### Property Value
 
-Pihrtsoft\.Snippets\.[Snippet](../../../Snippet/README.md)
+Pihrtsoft\.Snippets\.[Snippet](../../../Snippet/README.md#_top)
 

@@ -1,8 +1,10 @@
-# LiteralCollection\.Item\[String\] Property
+<a name="_top"></a>
 
-[Home](../../../../README.md)
+# LiteralCollection\.Item\[String\] Indexer
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[LiteralCollection](../README.md)
+[Home](../../../../README.md#_top)
+
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[LiteralCollection](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -22,6 +24,6 @@ A literal identifier\.
 
 ### Property Value
 
-Pihrtsoft\.Snippets\.[Literal](../../Literal/README.md)
+Pihrtsoft\.Snippets\.[Literal](../../Literal/README.md#_top)
 
 First found literal with the specified identifier\.

@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # Placeholder Class
 
-[Home](../../../README.md) &#x2022; [Fields](#fields) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
+[Home](../../../README.md#_top) &#x2022; [Fields](#fields) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
 
-**Namespace**: [Pihrtsoft.Snippets](../README.md)
+**Namespace**: [Pihrtsoft.Snippets](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -22,22 +24,22 @@ public class Placeholder
 
 | Field | Summary |
 | ----- | ------- |
-| [EndIdentifier](EndIdentifier/README.md) | Represents 'end' identifier\. This field is a constant\. |
-| [SelectedIdentifier](SelectedIdentifier/README.md) | Represents 'selected' identifier\. This field is a constant\. |
+| [EndIdentifier](EndIdentifier/README.md#_top) | Represents 'end' identifier\. This field is a constant\. \(Value = "end"\) |
+| [SelectedIdentifier](SelectedIdentifier/README.md#_top) | Represents 'selected' identifier\. This field is a constant\. \(Value = "selected"\) |
 
 ## Properties
 
 | Property | Summary |
 | -------- | ------- |
-| [Delimiter](Delimiter/README.md) | Gets literal placeholder delimiter\. |
-| [EndIndex](EndIndex/README.md) | Gets literal placeholder end index\. |
-| [FullLength](FullLength/README.md) | Gets literal placeholder length including delimiters\. |
-| [Identifier](Identifier/README.md) | Gets literal placeholder Identifier\. |
-| [Index](Index/README.md) | Gets literal placeholder index\. |
-| [IsEndPlaceholder](IsEndPlaceholder/README.md) | Gets a value indicating whether the current instance has identifier 'end'\. |
-| [IsSelectedPlaceholder](IsSelectedPlaceholder/README.md) | Gets a value indicating whether the current instance has identifier 'selected'\. |
-| [IsSystemPlaceholder](IsSystemPlaceholder/README.md) | Gets a value indicating whether the current instance is a system placeholder\. |
-| [Length](Length/README.md) | Gets literal placeholder length\. |
+| [Delimiter](Delimiter/README.md#_top) | Gets literal placeholder delimiter\. |
+| [EndIndex](EndIndex/README.md#_top) | Gets literal placeholder end index\. |
+| [FullLength](FullLength/README.md#_top) | Gets literal placeholder length including delimiters\. |
+| [Identifier](Identifier/README.md#_top) | Gets literal placeholder Identifier\. |
+| [Index](Index/README.md#_top) | Gets literal placeholder index\. |
+| [IsEndPlaceholder](IsEndPlaceholder/README.md#_top) | Gets a value indicating whether the current instance has identifier 'end'\. |
+| [IsSelectedPlaceholder](IsSelectedPlaceholder/README.md#_top) | Gets a value indicating whether the current instance has identifier 'selected'\. |
+| [IsSystemPlaceholder](IsSystemPlaceholder/README.md#_top) | Gets a value indicating whether the current instance is a system placeholder\. |
+| [Length](Length/README.md#_top) | Gets literal placeholder length\. |
 
 ## Methods
 

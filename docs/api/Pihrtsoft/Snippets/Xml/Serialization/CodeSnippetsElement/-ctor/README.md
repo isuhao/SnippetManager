@@ -1,8 +1,8 @@
 # CodeSnippetsElement\(\) Constructor
 
-[Home](../../../../../../README.md)
+[Home](../../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[CodeSnippetsElement](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md#_top)\.[CodeSnippetsElement](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 

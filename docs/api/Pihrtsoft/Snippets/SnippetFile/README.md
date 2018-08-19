@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # SnippetFile Class
 
-[Home](../../../README.md) &#x2022; [Constructors](#constructors) &#x2022; [Fields](#fields) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
+[Home](../../../README.md#_top) &#x2022; [Constructors](#constructors) &#x2022; [Fields](#fields) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
 
-**Namespace**: [Pihrtsoft.Snippets](../README.md)
+**Namespace**: [Pihrtsoft.Snippets](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -22,21 +24,21 @@ public class SnippetFile
 
 | Constructor | Summary |
 | ----------- | ------- |
-| [SnippetFile()](-ctor/README.md#Pihrtsoft_Snippets_SnippetFile__ctor) | Initializes a new instance of the [SnippetFile](./README.md) class\. |
-| [SnippetFile(String)](-ctor/README.md#Pihrtsoft_Snippets_SnippetFile__ctor_System_String_) | Initializes a new instance of the [SnippetFile](./README.md) class with a specified path\. |
+| [SnippetFile()](-ctor/README.md#Pihrtsoft_Snippets_SnippetFile__ctor) | Initializes a new instance of the [SnippetFile](#_top) class\. |
+| [SnippetFile(String)](-ctor/README.md#Pihrtsoft_Snippets_SnippetFile__ctor_System_String_) | Initializes a new instance of the [SnippetFile](#_top) class with a specified path\. |
 
 ## Fields
 
 | Field | Summary |
 | ----- | ------- |
-| [Extension](Extension/README.md) | Specifies snippet file extension\. This field is a constant\. |
+| [Extension](Extension/README.md#_top) | Specifies snippet file extension\. This field is a constant\. \(Value = "snippet"\) |
 
 ## Properties
 
 | Property | Summary |
 | -------- | ------- |
-| [FullName](FullName/README.md) | Gets or sets the full name\. |
-| [Snippets](Snippets/README.md) | Gets a collection of [Snippet](../Snippet/README.md)\. |
+| [FullName](FullName/README.md#_top) | Gets or sets the full name\. |
+| [Snippets](Snippets/README.md#_top) | Gets a collection of [Snippet](../Snippet/README.md#_top)\. |
 
 ## Methods
 

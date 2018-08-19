@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # ReferenceElement Class
 
-[Home](../../../../../README.md) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
+[Home](../../../../../README.md#_top) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
 
-**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../README.md)
+**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Represents Reference element in a serialized [Snippet](../../../Snippet/README.md)\. This class cannot be inherited\.
+Represents Reference element in a serialized [Snippet](../../../Snippet/README.md#_top)\. This class cannot be inherited\.
 
 ```csharp
 public sealed class ReferenceElement
@@ -22,14 +24,14 @@ public sealed class ReferenceElement
 
 | Constructor | Summary |
 | ----------- | ------- |
-| [ReferenceElement()](-ctor/README.md) | |
+| [ReferenceElement()](-ctor/README.md#_top) | |
 
 ## Properties
 
 | Property | Summary |
 | -------- | ------- |
-| [Assembly](Assembly/README.md) | Gets or sets Assembly element value\. |
-| [Url](Url/README.md) | Gets or sets Url element\. |
+| [Assembly](Assembly/README.md#_top) | Gets or sets Assembly element value\. |
+| [Url](Url/README.md#_top) | Gets or sets Url element\. |
 
 ## Methods
 

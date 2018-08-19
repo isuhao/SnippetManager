@@ -1,14 +1,14 @@
 # Literal\(String, String, String\) Constructor
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[Literal](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[Literal](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Initializes a new instance of the [Literal](../README.md) class with a specified identifier, tooltip and default value\.
+Initializes a new instance of the [Literal](../README.md#_top) class with a specified identifier, tooltip and default value\.
 
 ```csharp
 public Literal(string identifier, string toolTip = null, string defaultValue = "")
@@ -18,15 +18,15 @@ public Literal(string identifier, string toolTip = null, string defaultValue = "
 
 #### identifier
 
-The [Literal](../README.md) identifier\.
+The [Literal](../README.md#_top) identifier\.
 
 #### toolTip
 
-The [Literal](../README.md) description\.
+The [Literal](../README.md#_top) description\.
 
 #### defaultValue
 
-The [Literal](../README.md)default value\.
+The [Literal](../README.md#_top)default value\.
 
 ### Exceptions
 

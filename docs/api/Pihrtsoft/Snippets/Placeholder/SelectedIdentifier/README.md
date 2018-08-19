@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # Placeholder\.SelectedIdentifier Field
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[Placeholder](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[Placeholder](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 

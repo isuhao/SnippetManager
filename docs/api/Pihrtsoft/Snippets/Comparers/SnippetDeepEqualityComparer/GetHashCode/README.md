@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # SnippetDeepEqualityComparer\.GetHashCode\(Snippet\) Method
 
-[Home](../../../../../README.md)
+[Home](../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[SnippetDeepEqualityComparer](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md#_top)\.[SnippetDeepEqualityComparer](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Gets the hash code for the specified [Snippet](../../../Snippet/README.md)\.
+Gets the hash code for the specified [Snippet](../../../Snippet/README.md#_top)\.
 
 ```csharp
 public override int GetHashCode(Snippet obj)

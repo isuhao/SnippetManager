@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # SnippetSerializer\.CreateXml Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetSerializer](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[SnippetSerializer](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -10,16 +12,16 @@
 
 | Method | Summary |
 | ------ | ------- |
-| [CreateXml(IEnumerable\<Snippet>)](#Pihrtsoft_Snippets_SnippetSerializer_CreateXml_System_Collections_Generic_IEnumerable_Pihrtsoft_Snippets_Snippet__) | Serializes enumerable collection of [Snippet](../../Snippet/README.md) to text\. |
-| [CreateXml(IEnumerable\<Snippet>, SaveSettings)](#Pihrtsoft_Snippets_SnippetSerializer_CreateXml_System_Collections_Generic_IEnumerable_Pihrtsoft_Snippets_Snippet__Pihrtsoft_Snippets_SaveSettings_) | Serializes enumerable collection of [Snippet](../../Snippet/README.md) to text, optionally using [SaveSettings](../../SaveSettings/README.md) to modify serialization process\. |
-| [CreateXml(Snippet)](#Pihrtsoft_Snippets_SnippetSerializer_CreateXml_Pihrtsoft_Snippets_Snippet_) | Serializes a specified [Snippet](../../Snippet/README.md) to xml text\. |
-| [CreateXml(Snippet, SaveSettings)](#Pihrtsoft_Snippets_SnippetSerializer_CreateXml_Pihrtsoft_Snippets_Snippet_Pihrtsoft_Snippets_SaveSettings_) | Serializes a specified [Snippet](../../Snippet/README.md) to xml text, optionally using [SaveSettings](../../SaveSettings/README.md) to modify serialization process\. |
+| [CreateXml(IEnumerable\<Snippet>)](#Pihrtsoft_Snippets_SnippetSerializer_CreateXml_System_Collections_Generic_IEnumerable_Pihrtsoft_Snippets_Snippet__) | Serializes enumerable collection of [Snippet](../../Snippet/README.md#_top) to text\. |
+| [CreateXml(IEnumerable\<Snippet>, SaveSettings)](#Pihrtsoft_Snippets_SnippetSerializer_CreateXml_System_Collections_Generic_IEnumerable_Pihrtsoft_Snippets_Snippet__Pihrtsoft_Snippets_SaveSettings_) | Serializes enumerable collection of [Snippet](../../Snippet/README.md#_top) to text, optionally using [SaveSettings](../../SaveSettings/README.md#_top) to modify serialization process\. |
+| [CreateXml(Snippet)](#Pihrtsoft_Snippets_SnippetSerializer_CreateXml_Pihrtsoft_Snippets_Snippet_) | Serializes a specified [Snippet](../../Snippet/README.md#_top) to xml text\. |
+| [CreateXml(Snippet, SaveSettings)](#Pihrtsoft_Snippets_SnippetSerializer_CreateXml_Pihrtsoft_Snippets_Snippet_Pihrtsoft_Snippets_SaveSettings_) | Serializes a specified [Snippet](../../Snippet/README.md#_top) to xml text, optionally using [SaveSettings](../../SaveSettings/README.md#_top) to modify serialization process\. |
 
-## CreateXml\(IEnumerable\<Snippet>\)<a name="Pihrtsoft_Snippets_SnippetSerializer_CreateXml_System_Collections_Generic_IEnumerable_Pihrtsoft_Snippets_Snippet__"></a>
+## CreateXml\(IEnumerable\<Snippet>\) <a name="Pihrtsoft_Snippets_SnippetSerializer_CreateXml_System_Collections_Generic_IEnumerable_Pihrtsoft_Snippets_Snippet__"></a>
 
 ### Summary
 
-Serializes enumerable collection of [Snippet](../../Snippet/README.md) to text\.
+Serializes enumerable collection of [Snippet](../../Snippet/README.md#_top) to text\.
 
 ```csharp
 public static string CreateXml(IEnumerable<Snippet> snippets)
@@ -29,19 +31,19 @@ public static string CreateXml(IEnumerable<Snippet> snippets)
 
 #### snippets
 
-Enumerable collection of [Snippet](../../Snippet/README.md) to be serialized\.
+Enumerable collection of [Snippet](../../Snippet/README.md#_top) to be serialized\.
 
 ### Returns
 
 System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-XML text that represents a specified collection of [Snippet](../../Snippet/README.md)\.
+XML text that represents a specified collection of [Snippet](../../Snippet/README.md#_top)\.
 
-## CreateXml\(IEnumerable\<Snippet>, SaveSettings\)<a name="Pihrtsoft_Snippets_SnippetSerializer_CreateXml_System_Collections_Generic_IEnumerable_Pihrtsoft_Snippets_Snippet__Pihrtsoft_Snippets_SaveSettings_"></a>
+## CreateXml\(IEnumerable\<Snippet>, SaveSettings\) <a name="Pihrtsoft_Snippets_SnippetSerializer_CreateXml_System_Collections_Generic_IEnumerable_Pihrtsoft_Snippets_Snippet__Pihrtsoft_Snippets_SaveSettings_"></a>
 
 ### Summary
 
-Serializes enumerable collection of [Snippet](../../Snippet/README.md) to text, optionally using [SaveSettings](../../SaveSettings/README.md) to modify serialization process\.
+Serializes enumerable collection of [Snippet](../../Snippet/README.md#_top) to text, optionally using [SaveSettings](../../SaveSettings/README.md#_top) to modify serialization process\.
 
 ```csharp
 public static string CreateXml(IEnumerable<Snippet> snippets, SaveSettings settings)
@@ -51,17 +53,17 @@ public static string CreateXml(IEnumerable<Snippet> snippets, SaveSettings setti
 
 #### snippets
 
-Enumerable collection of [Snippet](../../Snippet/README.md) to be serialized\.
+Enumerable collection of [Snippet](../../Snippet/README.md#_top) to be serialized\.
 
 #### settings
 
-A [SaveSettings](../../SaveSettings/README.md) that modify serialization process\.
+A [SaveSettings](../../SaveSettings/README.md#_top) that modify serialization process\.
 
 ### Returns
 
 System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-XML text that represents a specified collection of [Snippet](../../Snippet/README.md)\.
+XML text that represents a specified collection of [Snippet](../../Snippet/README.md#_top)\.
 
 ### Exceptions
 
@@ -69,11 +71,11 @@ XML text that represents a specified collection of [Snippet](../../Snippet/READM
 
 **snippets** or **settings** is `null`\.
 
-## CreateXml\(Snippet\)<a name="Pihrtsoft_Snippets_SnippetSerializer_CreateXml_Pihrtsoft_Snippets_Snippet_"></a>
+## CreateXml\(Snippet\) <a name="Pihrtsoft_Snippets_SnippetSerializer_CreateXml_Pihrtsoft_Snippets_Snippet_"></a>
 
 ### Summary
 
-Serializes a specified [Snippet](../../Snippet/README.md) to xml text\.
+Serializes a specified [Snippet](../../Snippet/README.md#_top) to xml text\.
 
 ```csharp
 public static string CreateXml(Snippet snippet)
@@ -83,19 +85,19 @@ public static string CreateXml(Snippet snippet)
 
 #### snippet
 
-A [Snippet](../../Snippet/README.md) to be serialized\.
+A [Snippet](../../Snippet/README.md#_top) to be serialized\.
 
 ### Returns
 
 System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-XML text that represents a specified [Snippet](../../Snippet/README.md)\.
+XML text that represents a specified [Snippet](../../Snippet/README.md#_top)\.
 
-## CreateXml\(Snippet, SaveSettings\)<a name="Pihrtsoft_Snippets_SnippetSerializer_CreateXml_Pihrtsoft_Snippets_Snippet_Pihrtsoft_Snippets_SaveSettings_"></a>
+## CreateXml\(Snippet, SaveSettings\) <a name="Pihrtsoft_Snippets_SnippetSerializer_CreateXml_Pihrtsoft_Snippets_Snippet_Pihrtsoft_Snippets_SaveSettings_"></a>
 
 ### Summary
 
-Serializes a specified [Snippet](../../Snippet/README.md) to xml text, optionally using [SaveSettings](../../SaveSettings/README.md) to modify serialization process\.
+Serializes a specified [Snippet](../../Snippet/README.md#_top) to xml text, optionally using [SaveSettings](../../SaveSettings/README.md#_top) to modify serialization process\.
 
 ```csharp
 public static string CreateXml(Snippet snippet, SaveSettings settings)
@@ -105,17 +107,17 @@ public static string CreateXml(Snippet snippet, SaveSettings settings)
 
 #### snippet
 
-A [Snippet](../../Snippet/README.md) to be serialized\.
+A [Snippet](../../Snippet/README.md#_top) to be serialized\.
 
 #### settings
 
-A [SaveSettings](../../SaveSettings/README.md) that modify serialization process\.
+A [SaveSettings](../../SaveSettings/README.md#_top) that modify serialization process\.
 
 ### Returns
 
 System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)
 
-XML text that represents a specified [Snippet](../../Snippet/README.md)\.
+XML text that represents a specified [Snippet](../../Snippet/README.md#_top)\.
 
 ### Exceptions
 

@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # ValidationRule\.Validate\(Snippet\) Method
 
-[Home](../../../../../README.md)
+[Home](../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md)\.[ValidationRule](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md#_top)\.[ValidationRule](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Validates a specified snippet and returns enumerable collection of [SnippetValidationResult](../../SnippetValidationResult/README.md)\.
+Validates a specified snippet and returns enumerable collection of [SnippetValidationResult](../../SnippetValidationResult/README.md#_top)\.
 
 ```csharp
 public abstract IEnumerable<SnippetValidationResult> Validate(Snippet snippet)
@@ -22,6 +24,6 @@ A snippet to be validated\.
 
 ### Returns
 
-System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<Pihrtsoft\.Snippets\.Validations\.[SnippetValidationResult](../../SnippetValidationResult/README.md)>
+System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<Pihrtsoft\.Snippets\.Validations\.[SnippetValidationResult](../../SnippetValidationResult/README.md#_top)>
 
-Enumerable collection of [SnippetValidationResult](../../SnippetValidationResult/README.md)\.
+Enumerable collection of [SnippetValidationResult](../../SnippetValidationResult/README.md#_top)\.

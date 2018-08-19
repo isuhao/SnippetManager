@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # Snippet\.Clone\(\) Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[Snippet](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[Snippet](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Creates a new [Snippet](../README.md) that is a deep copy of the current instance\.
+Creates a new [Snippet](../README.md#_top) that is a deep copy of the current instance\.
 
 ```csharp
 public object Clone()
@@ -18,7 +20,7 @@ public object Clone()
 
 System\.[Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
-A new [Snippet](../README.md) that is a deep copy of the current instance
+A new [Snippet](../README.md#_top) that is a deep copy of the current instance
 
 ### Implements
 

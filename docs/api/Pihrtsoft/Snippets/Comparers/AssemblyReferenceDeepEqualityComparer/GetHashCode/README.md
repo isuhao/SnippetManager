@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # AssemblyReferenceDeepEqualityComparer\.GetHashCode\(AssemblyReference\) Method
 
-[Home](../../../../../README.md)
+[Home](../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[AssemblyReferenceDeepEqualityComparer](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md#_top)\.[AssemblyReferenceDeepEqualityComparer](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Gets the hash code for the specified [AssemblyReference](../../../AssemblyReference/README.md)\.
+Gets the hash code for the specified [AssemblyReference](../../../AssemblyReference/README.md#_top)\.
 
 ```csharp
 public override int GetHashCode(AssemblyReference obj)

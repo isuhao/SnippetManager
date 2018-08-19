@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # Snippet\.AssemblyReferences Property
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[Snippet](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[Snippet](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -16,5 +18,5 @@ public Collection<AssemblyReference> AssemblyReferences { get; }
 
 ### Property Value
 
-System\.Collections\.ObjectModel\.[Collection](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\<Pihrtsoft\.Snippets\.[AssemblyReference](../../AssemblyReference/README.md)>
+System\.Collections\.ObjectModel\.[Collection](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\<Pihrtsoft\.Snippets\.[AssemblyReference](../../AssemblyReference/README.md#_top)>
 

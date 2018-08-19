@@ -1,14 +1,14 @@
 # SnippetCode\(Snippet\) Constructor
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetCode](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[SnippetCode](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Initializes a new instance of the [SnippetCode](../README.md) class with the specified snippet\.
+Initializes a new instance of the [SnippetCode](../README.md#_top) class with the specified snippet\.
 
 ```csharp
 public SnippetCode(Snippet snippet)

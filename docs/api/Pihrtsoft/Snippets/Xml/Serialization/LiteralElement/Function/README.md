@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # LiteralElement\.Function Property
 
-[Home](../../../../../../README.md)
+[Home](../../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md)\.[LiteralElement](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md#_top)\.[LiteralElement](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 

@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # ResultImportance Enum
 
-[Home](../../../../README.md) &#x2022; [Fields](#fields)
+[Home](../../../../README.md#_top) &#x2022; [Fields](#fields)
 
-**Namespace**: [Pihrtsoft.Snippets.Validations](../README.md)
+**Namespace**: [Pihrtsoft.Snippets.Validations](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Defines an importance of [SnippetValidationResult](../SnippetValidationResult/README.md)\.
+Defines an importance of [SnippetValidationResult](../SnippetValidationResult/README.md#_top)\.
 
 ```csharp
 public enum ResultImportance

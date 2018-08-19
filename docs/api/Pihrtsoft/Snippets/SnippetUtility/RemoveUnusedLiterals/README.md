@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # SnippetUtility\.RemoveUnusedLiterals\(Snippet\) Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetUtility](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[SnippetUtility](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -18,4 +20,4 @@ public static void RemoveUnusedLiterals(Snippet snippet)
 
 #### snippet
 
-[Snippet](../../Snippet/README.md) to remove literals from\.
+[Snippet](../../Snippet/README.md#_top) to remove literals from\.

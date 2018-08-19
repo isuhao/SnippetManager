@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # SaveSettings\.OmitDefaultDelimiter Property
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SaveSettings](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[SaveSettings](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Gets or sets a value indicating whether Delimiter attribute with value equal to [Snippet.DefaultDelimiter](../../Snippet/DefaultDelimiter/README.md) will be omitted\. Default value is `true`\.
+Gets or sets a value indicating whether Delimiter attribute with value equal to [Snippet.DefaultDelimiter](../../Snippet/DefaultDelimiter/README.md#_top) will be omitted\. Default value is `true`\.
 
 ```csharp
 public bool OmitDefaultDelimiter { get; set; }

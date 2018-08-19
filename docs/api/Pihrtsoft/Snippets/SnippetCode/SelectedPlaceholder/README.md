@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # SnippetCode\.SelectedPlaceholder Property
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetCode](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[SnippetCode](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -16,5 +18,5 @@ public Placeholder SelectedPlaceholder { get; }
 
 ### Property Value
 
-Pihrtsoft\.Snippets\.[Placeholder](../../Placeholder/README.md)
+Pihrtsoft\.Snippets\.[Placeholder](../../Placeholder/README.md#_top)
 

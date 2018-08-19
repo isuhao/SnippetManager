@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # SnippetCollection Class
 
-[Home](../../../README.md) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
+[Home](../../../README.md#_top) &#x2022; [Constructors](#constructors) &#x2022; [Indexers](#indexers) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
 
-**Namespace**: [Pihrtsoft.Snippets](../README.md)
+**Namespace**: [Pihrtsoft.Snippets](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Represents the set of [Snippet](../Snippet/README.md)s\.
+Represents the set of [Snippet](../Snippet/README.md#_top)s\.
 
 ```csharp
 public class SnippetCollection : System.Collections.ObjectModel.Collection<Snippet>
@@ -22,23 +24,28 @@ public class SnippetCollection : System.Collections.ObjectModel.Collection<Snipp
 
 * System\.Collections\.[ICollection](https://docs.microsoft.com/en-us/dotnet/api/system.collections.icollection)
 * System\.Collections\.[IList](https://docs.microsoft.com/en-us/dotnet/api/system.collections.ilist)
-* System\.Collections\.Generic\.[ICollection](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icollection-1)\<[Snippet](../Snippet/README.md)>
-* System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[Snippet](../Snippet/README.md)>
-* System\.Collections\.Generic\.[IList](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ilist-1)\<[Snippet](../Snippet/README.md)>
+* System\.Collections\.Generic\.[ICollection](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icollection-1)\<[Snippet](../Snippet/README.md#_top)>
+* System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<[Snippet](../Snippet/README.md#_top)>
+* System\.Collections\.Generic\.[IList](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ilist-1)\<[Snippet](../Snippet/README.md#_top)>
 
 ## Constructors
 
 | Constructor | Summary |
 | ----------- | ------- |
-| [SnippetCollection()](-ctor/README.md#Pihrtsoft_Snippets_SnippetCollection__ctor) | Initializes a new instance of the [SnippetCollection](./README.md) class that is empty\. |
-| [SnippetCollection(IList\<Snippet>)](-ctor/README.md#Pihrtsoft_Snippets_SnippetCollection__ctor_System_Collections_Generic_IList_Pihrtsoft_Snippets_Snippet__) | Initializes a new instance of the [SnippetCollection](./README.md) class as a wrapper for the specified list\. |
+| [SnippetCollection()](-ctor/README.md#Pihrtsoft_Snippets_SnippetCollection__ctor) | Initializes a new instance of the [SnippetCollection](#_top) class that is empty\. |
+| [SnippetCollection(IList\<Snippet>)](-ctor/README.md#Pihrtsoft_Snippets_SnippetCollection__ctor_System_Collections_Generic_IList_Pihrtsoft_Snippets_Snippet__) | Initializes a new instance of the [SnippetCollection](#_top) class as a wrapper for the specified list\. |
+
+## Indexers
+
+| Indexer | Summary |
+| ------- | ------- |
+| [Item\[Int32\]](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.item) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
 
 ## Properties
 
 | Property | Summary |
 | -------- | ------- |
 | [Count](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.count) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
-| [Item\[Int32\]](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.item) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
 | [Items](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.items) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
 
 ## Methods

@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # LiteralRenamer\.Rename\(Snippet, String, String\) Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[LiteralRenamer](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[LiteralRenamer](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -18,7 +20,7 @@ public static void Rename(Snippet snippet, string oldIdentifier, string newIdent
 
 #### snippet
 
-[Snippet](../../Snippet/README.md) that contains the literal to rename\.
+[Snippet](../../Snippet/README.md#_top) that contains the literal to rename\.
 
 #### oldIdentifier
 

@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # Literal Class
 
-[Home](../../../README.md) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
+[Home](../../../README.md#_top) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
 
-**Namespace**: [Pihrtsoft.Snippets](../README.md)
+**Namespace**: [Pihrtsoft.Snippets](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -26,26 +28,26 @@ public class Literal : System.ICloneable
 
 | Constructor | Summary |
 | ----------- | ------- |
-| [Literal(String, String, String)](-ctor/README.md) | Initializes a new instance of the [Literal](./README.md) class with a specified identifier, tooltip and default value\. |
+| [Literal(String, String, String)](-ctor/README.md#_top) | Initializes a new instance of the [Literal](#_top) class with a specified identifier, tooltip and default value\. |
 
 ## Properties
 
 | Property | Summary |
 | -------- | ------- |
-| [DefaultValue](DefaultValue/README.md) | Gets or sets literal default value\. |
-| [Function](Function/README.md) | Gets or sets literal function name\. |
-| [Identifier](Identifier/README.md) | Gets or sets literal identifier\. |
-| [IsEditable](IsEditable/README.md) | Gets or sets a value indicating whether literal can be edited by a user when inserting a snippet into code\. |
-| [ToolTip](ToolTip/README.md) | Gets or sets literal tooltip\. |
-| [TypeName](TypeName/README.md) | Gets or sets the type name of the object\. |
+| [DefaultValue](DefaultValue/README.md#_top) | Gets or sets literal default value\. |
+| [Function](Function/README.md#_top) | Gets or sets literal function name\. |
+| [Identifier](Identifier/README.md#_top) | Gets or sets literal identifier\. |
+| [IsEditable](IsEditable/README.md#_top) | Gets or sets a value indicating whether literal can be edited by a user when inserting a snippet into code\. |
+| [ToolTip](ToolTip/README.md#_top) | Gets or sets literal tooltip\. |
+| [TypeName](TypeName/README.md#_top) | Gets or sets the type name of the object\. |
 
 ## Methods
 
 | Method | Summary |
 | ------ | ------- |
-| [Clone()](Clone/README.md) | Creates a new [Literal](./README.md) that is a deep copy of the current instance\. \(Implements [ICloneable.Clone](https://docs.microsoft.com/en-us/dotnet/api/system.icloneable.clone)\) |
-| [CreateClassNameLiteral(String, String, String)](CreateClassNameLiteral/README.md) | Create new [Literal](./README.md) with function that returns containing type name\. |
-| [CreateSwitchCasesLiteral(String, String, String, String)](CreateSwitchCasesLiteral/README.md) | Create new [Literal](./README.md) with function generates switch cases\. |
+| [Clone()](Clone/README.md#_top) | Creates a new [Literal](#_top) that is a deep copy of the current instance\. \(Implements [ICloneable.Clone](https://docs.microsoft.com/en-us/dotnet/api/system.icloneable.clone)\) |
+| [CreateClassNameLiteral(String, String, String)](CreateClassNameLiteral/README.md#_top) | Create new [Literal](#_top) with function that returns containing type name\. |
+| [CreateSwitchCasesLiteral(String, String, String, String)](CreateSwitchCasesLiteral/README.md#_top) | Create new [Literal](#_top) with function generates switch cases\. |
 | [Equals(Object)](https://docs.microsoft.com/en-us/dotnet/api/system.object.equals) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 | [GetHashCode()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gethashcode) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 | [GetType()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gettype) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |

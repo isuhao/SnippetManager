@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # CodeSnippetElement Class
 
-[Home](../../../../../README.md) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
+[Home](../../../../../README.md#_top) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
 
-**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../README.md)
+**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Represents CodeSnippet element in a serialized [CodeSnippetElement.Snippet](Snippet/README.md)\. This class cannot be inherited\.
+Represents CodeSnippet element in a serialized [CodeSnippetElement.Snippet](Snippet/README.md#_top)\. This class cannot be inherited\.
 
 ```csharp
 [System.Xml.Serialization.XmlRootAttribute("CodeSnippet")]
@@ -27,15 +29,15 @@ public sealed class CodeSnippetElement
 
 | Constructor | Summary |
 | ----------- | ------- |
-| [CodeSnippetElement()](-ctor/README.md) | |
+| [CodeSnippetElement()](-ctor/README.md#_top) | |
 
 ## Properties
 
 | Property | Summary |
 | -------- | ------- |
-| [Format](Format/README.md) | Gets or sets Format attribute value\. |
-| [Header](Header/README.md) | Gets or sets Header element\. |
-| [Snippet](Snippet/README.md) | Gets or sets Snippet element\. |
+| [Format](Format/README.md#_top) | Gets or sets Format attribute value\. |
+| [Header](Header/README.md#_top) | Gets or sets Header element\. |
+| [Snippet](Snippet/README.md#_top) | Gets or sets Snippet element\. |
 
 ## Methods
 

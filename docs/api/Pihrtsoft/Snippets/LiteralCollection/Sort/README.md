@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # LiteralCollection\.Sort Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[LiteralCollection](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[LiteralCollection](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -10,24 +12,24 @@
 
 | Method | Summary |
 | ------ | ------- |
-| [Sort()](#Pihrtsoft_Snippets_LiteralCollection_Sort) | Sorts the elements in the entire [LiteralCollection](../README.md) using the [LiteralComparer.Identifier](../../Comparers/LiteralComparer/Identifier/README.md) comparer\. |
-| [Sort(IComparer\<Literal>)](#Pihrtsoft_Snippets_LiteralCollection_Sort_System_Collections_Generic_IComparer_Pihrtsoft_Snippets_Literal__) | Sorts the elements in the entire [LiteralCollection](../README.md) using the specified comparer\. |
+| [Sort()](#Pihrtsoft_Snippets_LiteralCollection_Sort) | Sorts the elements in the entire [LiteralCollection](../README.md#_top) using the [LiteralComparer.Identifier](../../Comparers/LiteralComparer/Identifier/README.md#_top) comparer\. |
+| [Sort(IComparer\<Literal>)](#Pihrtsoft_Snippets_LiteralCollection_Sort_System_Collections_Generic_IComparer_Pihrtsoft_Snippets_Literal__) | Sorts the elements in the entire [LiteralCollection](../README.md#_top) using the specified comparer\. |
 
-## Sort\(\)<a name="Pihrtsoft_Snippets_LiteralCollection_Sort"></a>
+## Sort\(\) <a name="Pihrtsoft_Snippets_LiteralCollection_Sort"></a>
 
 ### Summary
 
-Sorts the elements in the entire [LiteralCollection](../README.md) using the [LiteralComparer.Identifier](../../Comparers/LiteralComparer/Identifier/README.md) comparer\.
+Sorts the elements in the entire [LiteralCollection](../README.md#_top) using the [LiteralComparer.Identifier](../../Comparers/LiteralComparer/Identifier/README.md#_top) comparer\.
 
 ```csharp
 public void Sort()
 ```
 
-## Sort\(IComparer\<Literal>\)<a name="Pihrtsoft_Snippets_LiteralCollection_Sort_System_Collections_Generic_IComparer_Pihrtsoft_Snippets_Literal__"></a>
+## Sort\(IComparer\<Literal>\) <a name="Pihrtsoft_Snippets_LiteralCollection_Sort_System_Collections_Generic_IComparer_Pihrtsoft_Snippets_Literal__"></a>
 
 ### Summary
 
-Sorts the elements in the entire [LiteralCollection](../README.md) using the specified comparer\.
+Sorts the elements in the entire [LiteralCollection](../README.md#_top) using the specified comparer\.
 
 ```csharp
 public void Sort(IComparer<Literal> comparer)

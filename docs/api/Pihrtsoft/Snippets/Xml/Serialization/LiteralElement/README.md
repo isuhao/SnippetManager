@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # LiteralElement Class
 
-[Home](../../../../../README.md) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
+[Home](../../../../../README.md#_top) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
 
-**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../README.md)
+**Namespace**: [Pihrtsoft.Snippets.Xml.Serialization](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Represents Literal element in a serialized [Snippet](../../../Snippet/README.md)\. This class cannot be inherited\.
+Represents Literal element in a serialized [Snippet](../../../Snippet/README.md#_top)\. This class cannot be inherited\.
 
 ```csharp
 public class LiteralElement
@@ -20,23 +22,23 @@ public class LiteralElement
 
 ### Derived
 
-* Pihrtsoft\.Snippets\.Xml\.Serialization\.[ObjectElement](../ObjectElement/README.md)
+* Pihrtsoft\.Snippets\.Xml\.Serialization\.[ObjectElement](../ObjectElement/README.md#_top)
 
 ## Constructors
 
 | Constructor | Summary |
 | ----------- | ------- |
-| [LiteralElement()](-ctor/README.md) | Initializes a new instance of the [LiteralElement](./README.md) class\. |
+| [LiteralElement()](-ctor/README.md#_top) | Initializes a new instance of the [LiteralElement](#_top) class\. |
 
 ## Properties
 
 | Property | Summary |
 | -------- | ------- |
-| [Default](Default/README.md) | Gets or sets Default element value\. |
-| [Editable](Editable/README.md) | Gets or sets Editable attribute value\. Default value is `true`\. |
-| [Function](Function/README.md) | Gets or sets Function element value\. |
-| [ID](ID/README.md) | Gets or sets ID element value\. |
-| [ToolTip](ToolTip/README.md) | Gets or sets ToolTip element value\. |
+| [Default](Default/README.md#_top) | Gets or sets Default element value\. |
+| [Editable](Editable/README.md#_top) | Gets or sets Editable attribute value\. Default value is `true`\. |
+| [Function](Function/README.md#_top) | Gets or sets Function element value\. |
+| [ID](ID/README.md#_top) | Gets or sets ID element value\. |
+| [ToolTip](ToolTip/README.md#_top) | Gets or sets ToolTip element value\. |
 
 ## Methods
 

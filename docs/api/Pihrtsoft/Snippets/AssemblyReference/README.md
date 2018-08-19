@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # AssemblyReference Class
 
-[Home](../../../README.md) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
+[Home](../../../README.md#_top) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
 
-**Namespace**: [Pihrtsoft.Snippets](../README.md)
+**Namespace**: [Pihrtsoft.Snippets](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -26,20 +28,20 @@ public class AssemblyReference : System.ICloneable
 
 | Constructor | Summary |
 | ----------- | ------- |
-| [AssemblyReference()](-ctor/README.md) | |
+| [AssemblyReference()](-ctor/README.md#_top) | |
 
 ## Properties
 
 | Property | Summary |
 | -------- | ------- |
-| [AssemblyName](AssemblyName/README.md) | Gets or sets assembly name\. |
-| [Url](Url/README.md) | Gets or sets url\. |
+| [AssemblyName](AssemblyName/README.md#_top) | Gets or sets assembly name\. |
+| [Url](Url/README.md#_top) | Gets or sets url\. |
 
 ## Methods
 
 | Method | Summary |
 | ------ | ------- |
-| [Clone()](Clone/README.md) | Creates a new [AssemblyReference](./README.md) that is a deep copy of the current instance\. \(Implements [ICloneable.Clone](https://docs.microsoft.com/en-us/dotnet/api/system.icloneable.clone)\) |
+| [Clone()](Clone/README.md#_top) | Creates a new [AssemblyReference](#_top) that is a deep copy of the current instance\. \(Implements [ICloneable.Clone](https://docs.microsoft.com/en-us/dotnet/api/system.icloneable.clone)\) |
 | [Equals(Object)](https://docs.microsoft.com/en-us/dotnet/api/system.object.equals) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 | [GetHashCode()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gethashcode) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 | [GetType()](https://docs.microsoft.com/en-us/dotnet/api/system.object.gettype) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |

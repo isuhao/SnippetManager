@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # SnippetComparer\.Shortcut Property
 
-[Home](../../../../../README.md)
+[Home](../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[SnippetComparer](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md#_top)\.[SnippetComparer](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Gets a [SnippetComparer\<T>](../../SnippetComparer-1/README.md) that performs a case\-sensitive ordinal [Snippet.Shortcut](../../../Snippet/Shortcut/README.md) comparison\.
+Gets a [SnippetComparer\<T>](../../SnippetComparer-1/README.md#_top) that performs a case\-sensitive ordinal [Snippet.Shortcut](../../../Snippet/Shortcut/README.md#_top) comparison\.
 
 ```csharp
 public static SnippetComparer<string> Shortcut { get; }
@@ -16,5 +18,5 @@ public static SnippetComparer<string> Shortcut { get; }
 
 ### Property Value
 
-Pihrtsoft\.Snippets\.Comparers\.[SnippetComparer](../../SnippetComparer-1/README.md)\<System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)>
+Pihrtsoft\.Snippets\.Comparers\.[SnippetComparer](../../SnippetComparer-1/README.md#_top)\<System\.[String](https://docs.microsoft.com/en-us/dotnet/api/system.string)>
 

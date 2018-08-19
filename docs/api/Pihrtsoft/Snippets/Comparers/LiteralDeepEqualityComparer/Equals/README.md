@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # LiteralDeepEqualityComparer\.Equals\(Literal, Literal\) Method
 
-[Home](../../../../../README.md)
+[Home](../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[LiteralDeepEqualityComparer](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md#_top)\.[LiteralDeepEqualityComparer](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -18,11 +20,11 @@ public override bool Equals(Literal x, Literal y)
 
 #### x
 
-A [Literal](../../../Literal/README.md) to compare to **y**\.
+A [Literal](../../../Literal/README.md#_top) to compare to **y**\.
 
 #### y
 
-A [Literal](../../../Literal/README.md) to compare to **x**\.
+A [Literal](../../../Literal/README.md#_top) to compare to **x**\.
 
 ### Returns
 

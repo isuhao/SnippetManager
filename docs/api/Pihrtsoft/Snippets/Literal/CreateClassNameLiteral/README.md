@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # Literal\.CreateClassNameLiteral\(String, String, String\) Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[Literal](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[Literal](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Create new [Literal](../README.md) with function that returns containing type name\.
+Create new [Literal](../README.md#_top) with function that returns containing type name\.
 
 ```csharp
 public static Literal CreateClassNameLiteral(string identifier, string toolTip = null, string defaultValue = "")
@@ -18,21 +20,21 @@ public static Literal CreateClassNameLiteral(string identifier, string toolTip =
 
 #### identifier
 
-The [Literal](../README.md) identifier\.
+The [Literal](../README.md#_top) identifier\.
 
 #### toolTip
 
-The [Literal](../README.md) description\.
+The [Literal](../README.md#_top) description\.
 
 #### defaultValue
 
-The [Literal](../README.md)default value\.
+The [Literal](../README.md#_top)default value\.
 
 ### Returns
 
-Pihrtsoft\.Snippets\.[Literal](../README.md)
+Pihrtsoft\.Snippets\.[Literal](../README.md#_top)
 
-[Literal](../README.md) with function that returns containing type name\.
+[Literal](../README.md#_top) with function that returns containing type name\.
 
 ### Exceptions
 

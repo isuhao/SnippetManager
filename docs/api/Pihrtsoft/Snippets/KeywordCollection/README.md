@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # KeywordCollection Class
 
-[Home](../../../README.md) &#x2022; [Constructors](#constructors) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
+[Home](../../../README.md#_top) &#x2022; [Constructors](#constructors) &#x2022; [Indexers](#indexers) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
 
-**Namespace**: [Pihrtsoft.Snippets](../README.md)
+**Namespace**: [Pihrtsoft.Snippets](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -30,14 +32,19 @@ public class KeywordCollection : System.Collections.ObjectModel.Collection<Syste
 
 | Constructor | Summary |
 | ----------- | ------- |
-| [KeywordCollection()](-ctor/README.md) | Initializes a new instance of the [KeywordCollection](./README.md) class that is empty\. |
+| [KeywordCollection()](-ctor/README.md#_top) | Initializes a new instance of the [KeywordCollection](#_top) class that is empty\. |
+
+## Indexers
+
+| Indexer | Summary |
+| ------- | ------- |
+| [Item\[Int32\]](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.item) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
 
 ## Properties
 
 | Property | Summary |
 | -------- | ------- |
 | [Count](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.count) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
-| [Item\[Int32\]](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.item) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
 | [Items](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.items) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
 
 ## Methods
@@ -61,7 +68,7 @@ public class KeywordCollection : System.Collections.ObjectModel.Collection<Syste
 | [RemoveAt(Int32)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.removeat) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
 | [RemoveItem(Int32)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.removeitem) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
 | [SetItem(Int32, String)](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1.setitem) |  \(Inherited from [Collection\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.collection-1)\) |
-| [Sort()](Sort/README.md#Pihrtsoft_Snippets_KeywordCollection_Sort) | Sorts the elements in the entire [KeywordCollection](./README.md)\. |
-| [Sort(IComparer\<String>)](Sort/README.md#Pihrtsoft_Snippets_KeywordCollection_Sort_System_Collections_Generic_IComparer_System_String__) | Sorts the elements in the entire [KeywordCollection](./README.md) using the specified comparer\. |
+| [Sort()](Sort/README.md#Pihrtsoft_Snippets_KeywordCollection_Sort) | Sorts the elements in the entire [KeywordCollection](#_top)\. |
+| [Sort(IComparer\<String>)](Sort/README.md#Pihrtsoft_Snippets_KeywordCollection_Sort_System_Collections_Generic_IComparer_System_String__) | Sorts the elements in the entire [KeywordCollection](#_top) using the specified comparer\. |
 | [ToString()](https://docs.microsoft.com/en-us/dotnet/api/system.object.tostring) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 

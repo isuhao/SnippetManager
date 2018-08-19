@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # SnippetSerializer\.DeserializeFiles\(String, SearchOption\) Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[SnippetSerializer](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[SnippetSerializer](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Returns enumerable collection of [SnippetFile](../../SnippetFile/README.md) deserialized from snippet files in a specified directory\.
+Returns enumerable collection of [SnippetFile](../../SnippetFile/README.md#_top) deserialized from snippet files in a specified directory\.
 
 ```csharp
 public static IEnumerable<SnippetFile> DeserializeFiles(string directoryPath, SearchOption searchOption = TopDirectoryOnly)
@@ -26,6 +28,6 @@ A [SearchOption](https://docs.microsoft.com/en-us/dotnet/api/system.io.searchopt
 
 ### Returns
 
-System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<Pihrtsoft\.Snippets\.[SnippetFile](../../SnippetFile/README.md)>
+System\.Collections\.Generic\.[IEnumerable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.ienumerable-1)\<Pihrtsoft\.Snippets\.[SnippetFile](../../SnippetFile/README.md#_top)>
 
-An enumerable collection [SnippetFile](../../SnippetFile/README.md) being deserialized\.
+An enumerable collection [SnippetFile](../../SnippetFile/README.md#_top) being deserialized\.

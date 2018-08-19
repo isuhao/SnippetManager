@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # Literal\.CreateSwitchCasesLiteral\(String, String, String, String\) Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[Literal](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[Literal](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Create new [Literal](../README.md) with function generates switch cases\.
+Create new [Literal](../README.md#_top) with function generates switch cases\.
 
 ```csharp
 public static Literal CreateSwitchCasesLiteral(string identifier, string expressionIdentifier, string toolTip = null, string defaultValue = "default:")
@@ -18,7 +20,7 @@ public static Literal CreateSwitchCasesLiteral(string identifier, string express
 
 #### identifier
 
-The [Literal](../README.md) identifier\.
+The [Literal](../README.md#_top) identifier\.
 
 #### expressionIdentifier
 
@@ -26,17 +28,17 @@ Identifier of the literal that represent switch expression\.
 
 #### toolTip
 
-The [Literal](../README.md) description\.
+The [Literal](../README.md#_top) description\.
 
 #### defaultValue
 
-The [Literal](../README.md)default value\.
+The [Literal](../README.md#_top)default value\.
 
 ### Returns
 
-Pihrtsoft\.Snippets\.[Literal](../README.md)
+Pihrtsoft\.Snippets\.[Literal](../README.md#_top)
 
-[Literal](../README.md) with function that generates switch cases\.
+[Literal](../README.md#_top) with function that generates switch cases\.
 
 ### Exceptions
 

@@ -1,14 +1,14 @@
 # KeywordCollection\(\) Constructor
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[KeywordCollection](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[KeywordCollection](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Initializes a new instance of the [KeywordCollection](../README.md) class that is empty\.
+Initializes a new instance of the [KeywordCollection](../README.md#_top) class that is empty\.
 
 ```csharp
 public KeywordCollection()

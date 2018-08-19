@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # SnippetValidationContext Class
 
-[Home](../../../../README.md) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
+[Home](../../../../README.md#_top) &#x2022; [Properties](#properties) &#x2022; [Methods](#methods)
 
-**Namespace**: [Pihrtsoft.Snippets.Validations](../README.md)
+**Namespace**: [Pihrtsoft.Snippets.Validations](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Represents a context that is used during [Snippet](../../Snippet/README.md) validation\.
+Represents a context that is used during [Snippet](../../Snippet/README.md#_top) validation\.
 
 ```csharp
 public class SnippetValidationContext
@@ -22,7 +24,7 @@ public class SnippetValidationContext
 
 | Property | Summary |
 | -------- | ------- |
-| [Snippet](Snippet/README.md) | Gets the code snippet that is being validated\. |
+| [Snippet](Snippet/README.md#_top) | Gets the code snippet that is being validated\. |
 
 ## Methods
 

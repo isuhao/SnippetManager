@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # LiteralDeepEqualityComparer\.GetHashCode\(Literal\) Method
 
-[Home](../../../../../README.md)
+[Home](../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[LiteralDeepEqualityComparer](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md#_top)\.[LiteralDeepEqualityComparer](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Gets the hash code for the specified [Literal](../../../Literal/README.md)\.
+Gets the hash code for the specified [Literal](../../../Literal/README.md#_top)\.
 
 ```csharp
 public override int GetHashCode(Literal obj)

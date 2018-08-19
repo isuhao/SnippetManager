@@ -1,14 +1,16 @@
+<a name="_top"></a>
+
 # PlaceholderCollection\.Contains\(String\) Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[PlaceholderCollection](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[PlaceholderCollection](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
 ## Summary
 
-Determines whether the [PlaceholderCollection](../README.md) contains an item with a specified **identifier**\.
+Determines whether the [PlaceholderCollection](../README.md#_top) contains an item with a specified **identifier**\.
 
 ```csharp
 public bool Contains(string identifier)
@@ -18,10 +20,10 @@ public bool Contains(string identifier)
 
 #### identifier
 
-A [Placeholder.Identifier](../../Placeholder/Identifier/README.md) to search for\.
+A [Placeholder.Identifier](../../Placeholder/Identifier/README.md#_top) to search for\.
 
 ### Returns
 
 System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
-`true` if item is found in the [PlaceholderCollection](../README.md); otherwise, `false`\.
+`true` if item is found in the [PlaceholderCollection](../README.md#_top); otherwise, `false`\.

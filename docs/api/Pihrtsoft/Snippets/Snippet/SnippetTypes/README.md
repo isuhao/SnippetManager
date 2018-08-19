@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # Snippet\.SnippetTypes Property
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[Snippet](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[Snippet](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -16,5 +18,5 @@ public SnippetTypes SnippetTypes { get; set; }
 
 ### Property Value
 
-Pihrtsoft\.Snippets\.[SnippetTypes](../../SnippetTypes/README.md)
+Pihrtsoft\.Snippets\.[SnippetTypes](../../SnippetTypes/README.md#_top)
 

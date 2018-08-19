@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # LiteralComparer\.Equals Method
 
-[Home](../../../../../README.md)
+[Home](../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[LiteralComparer](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md#_top)\.[LiteralComparer](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -13,7 +15,7 @@
 | [Equals(Literal, Literal)](#Pihrtsoft_Snippets_Comparers_LiteralComparer_Equals_Pihrtsoft_Snippets_Literal_Pihrtsoft_Snippets_Literal_) | Indicates whether two literals are equal\. \(Implements [IEqualityComparer\<Literal>.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.iequalitycomparer-1.equals)\) |
 | [Equals(Object, Object)](#Pihrtsoft_Snippets_Comparers_LiteralComparer_Equals_System_Object_System_Object_) | Indicates whether two objects are equal\. \(Implements [IEqualityComparer.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.collections.iequalitycomparer.equals)\) |
 
-## Equals\(Literal, Literal\)<a name="Pihrtsoft_Snippets_Comparers_LiteralComparer_Equals_Pihrtsoft_Snippets_Literal_Pihrtsoft_Snippets_Literal_"></a>
+## Equals\(Literal, Literal\) <a name="Pihrtsoft_Snippets_Comparers_LiteralComparer_Equals_Pihrtsoft_Snippets_Literal_Pihrtsoft_Snippets_Literal_"></a>
 
 ### Summary
 
@@ -27,11 +29,11 @@ public bool Equals(Literal x, Literal y)
 
 #### x
 
-A [Literal](../../../Literal/README.md) to compare to **y**\.
+A [Literal](../../../Literal/README.md#_top) to compare to **y**\.
 
 #### y
 
-A [Literal](../../../Literal/README.md) to compare to **x**\.
+A [Literal](../../../Literal/README.md#_top) to compare to **x**\.
 
 ### Returns
 
@@ -43,7 +45,7 @@ System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
 * [IEqualityComparer\<Literal>.Equals](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.iequalitycomparer-1.equals)
 
-## Equals\(Object, Object\)<a name="Pihrtsoft_Snippets_Comparers_LiteralComparer_Equals_System_Object_System_Object_"></a>
+## Equals\(Object, Object\) <a name="Pihrtsoft_Snippets_Comparers_LiteralComparer_Equals_System_Object_System_Object_"></a>
 
 ### Summary
 

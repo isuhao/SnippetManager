@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # PlaceholderCollection\.Find\(String\) Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[PlaceholderCollection](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[PlaceholderCollection](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -22,6 +24,6 @@ A placeholder identifier\.
 
 ### Returns
 
-Pihrtsoft\.Snippets\.[Placeholder](../../Placeholder/README.md)
+Pihrtsoft\.Snippets\.[Placeholder](../../Placeholder/README.md#_top)
 
 First found placeholder with the specified identifier\.

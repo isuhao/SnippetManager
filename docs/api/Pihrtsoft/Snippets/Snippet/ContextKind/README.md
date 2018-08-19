@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # Snippet\.ContextKind Property
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[Snippet](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[Snippet](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -16,5 +18,5 @@ public ContextKind ContextKind { get; set; }
 
 ### Property Value
 
-Pihrtsoft\.Snippets\.[ContextKind](../../ContextKind/README.md)
+Pihrtsoft\.Snippets\.[ContextKind](../../ContextKind/README.md#_top)
 

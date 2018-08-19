@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # LiteralCollection\.Remove\(String\) Method
 
-[Home](../../../../README.md)
+[Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md)\.[LiteralCollection](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[LiteralCollection](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -24,4 +26,4 @@ A literal identifier\.
 
 System\.[Boolean](https://docs.microsoft.com/en-us/dotnet/api/system.boolean)
 
-`true` if item was successfully removed from [LiteralCollection](../README.md); otherwise, `false`\.
+`true` if item was successfully removed from [LiteralCollection](../README.md#_top); otherwise, `false`\.

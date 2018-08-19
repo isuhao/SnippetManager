@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # SnippetComparer\.Compare Method
 
-[Home](../../../../../README.md)
+[Home](../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md)\.[SnippetComparer](../README.md)
+**Containing Type**: [Pihrtsoft.Snippets.Comparers](../../README.md#_top)\.[SnippetComparer](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -13,7 +15,7 @@
 | [Compare(Object, Object)](#Pihrtsoft_Snippets_Comparers_SnippetComparer_Compare_System_Object_System_Object_) | Compares two objects and returns an indication of their relative sort order\. \(Implements [IComparer.Compare](https://docs.microsoft.com/en-us/dotnet/api/system.collections.icomparer.compare)\) |
 | [Compare(Snippet, Snippet)](#Pihrtsoft_Snippets_Comparers_SnippetComparer_Compare_Pihrtsoft_Snippets_Snippet_Pihrtsoft_Snippets_Snippet_) | Compares two snippets and returns an indication of their relative sort order\. \(Implements [IComparer\<Snippet>.Compare](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icomparer-1.compare)\) |
 
-## Compare\(Object, Object\)<a name="Pihrtsoft_Snippets_Comparers_SnippetComparer_Compare_System_Object_System_Object_"></a>
+## Compare\(Object, Object\) <a name="Pihrtsoft_Snippets_Comparers_SnippetComparer_Compare_System_Object_System_Object_"></a>
 
 ### Summary
 
@@ -43,7 +45,7 @@ A signed integer that indicates the relative values of **x** and **y**\.
 
 * [IComparer.Compare](https://docs.microsoft.com/en-us/dotnet/api/system.collections.icomparer.compare)
 
-## Compare\(Snippet, Snippet\)<a name="Pihrtsoft_Snippets_Comparers_SnippetComparer_Compare_Pihrtsoft_Snippets_Snippet_Pihrtsoft_Snippets_Snippet_"></a>
+## Compare\(Snippet, Snippet\) <a name="Pihrtsoft_Snippets_Comparers_SnippetComparer_Compare_Pihrtsoft_Snippets_Snippet_Pihrtsoft_Snippets_Snippet_"></a>
 
 ### Summary
 
@@ -57,11 +59,11 @@ public abstract int Compare(Snippet x, Snippet y)
 
 #### x
 
-A [Snippet](../../../Snippet/README.md) to compare to **y**\.
+A [Snippet](../../../Snippet/README.md#_top) to compare to **y**\.
 
 #### y
 
-A [Snippet](../../../Snippet/README.md) to compare to **x**\.
+A [Snippet](../../../Snippet/README.md#_top) to compare to **x**\.
 
 ### Returns
 

@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # SnippetFileSearcher Class
 
-[Home](../../../README.md) &#x2022; [Fields](#fields) &#x2022; [Methods](#methods)
+[Home](../../../README.md#_top) &#x2022; [Fields](#fields) &#x2022; [Methods](#methods)
 
-**Namespace**: [Pihrtsoft.Snippets](../README.md)
+**Namespace**: [Pihrtsoft.Snippets](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -18,7 +20,7 @@ public static class SnippetFileSearcher
 
 | Field | Summary |
 | ----- | ------- |
-| [Pattern](Pattern/README.md) | Represents search pattern for a snippet file\. This field is a constant\. |
+| [Pattern](Pattern/README.md#_top) | Represents search pattern for a snippet file\. This field is a constant\. \(Value = "\*\.snippet"\) |
 
 ## Methods
 

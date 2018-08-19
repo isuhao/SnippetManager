@@ -1,8 +1,10 @@
+<a name="_top"></a>
+
 # LiteralRenamer Class
 
-[Home](../../../README.md) &#x2022; [Methods](#methods)
+[Home](../../../README.md#_top) &#x2022; [Methods](#methods)
 
-**Namespace**: [Pihrtsoft.Snippets](../README.md)
+**Namespace**: [Pihrtsoft.Snippets](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 
@@ -18,5 +20,5 @@ public static class LiteralRenamer
 
 | Method | Summary |
 | ------ | ------- |
-| [Rename(Snippet, String, String)](Rename/README.md) | Renames snippet literal including its occurrences in the code\. |
+| [Rename(Snippet, String, String)](Rename/README.md#_top) | Renames snippet literal including its occurrences in the code\. |
 
