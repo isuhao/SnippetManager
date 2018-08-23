@@ -2,7 +2,7 @@
 
 [Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[KeywordCollection](../README.md#_top)
+**Containing Type**: Pihrtsoft\.Snippets\.[KeywordCollection](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 

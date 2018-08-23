@@ -4,7 +4,7 @@
 
 [Home](../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets](../../README.md#_top)\.[SnippetFileSearcher](../README.md#_top)
+**Containing Type**: Pihrtsoft\.Snippets\.[SnippetFileSearcher](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 

@@ -4,7 +4,7 @@
 
 [Home](../../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Xml.Serialization](../../README.md#_top)\.[SnippetElement](../README.md#_top)
+**Containing Type**: Pihrtsoft\.Snippets\.Xml\.Serialization\.[SnippetElement](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 

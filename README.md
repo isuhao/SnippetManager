@@ -18,7 +18,7 @@
 
 ## Documentation
 
-* [Snippet Manager API Reference](docs/api/README.md)
+* [Snippet Manager API Reference](docs/api/README.md#_top)
 
 ## Usage 
 

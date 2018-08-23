@@ -4,7 +4,7 @@
 
 [Home](../../../../../README.md#_top)
 
-**Containing Type**: [Pihrtsoft.Snippets.Validations](../../README.md#_top)\.[SnippetValidationContext](../README.md#_top)
+**Containing Type**: Pihrtsoft\.Snippets\.Validations\.[SnippetValidationContext](../README.md#_top)
 
 **Assembly**: Pihrtsoft\.Snippets\.dll
 

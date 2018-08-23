@@ -27,10 +27,7 @@ public abstract class ValidationRule
 * Pihrtsoft\.Snippets\.Validations\.[DescriptionValidationRule](../DescriptionValidationRule/README.md#_top)
 * Pihrtsoft\.Snippets\.Validations\.[FormatVersionValidationRule](../FormatVersionValidationRule/README.md#_top)
 * Pihrtsoft\.Snippets\.Validations\.[LiteralValidationRule](../LiteralValidationRule/README.md#_top)
-* Pihrtsoft\.Snippets\.Validations\.[NamespaceValidationRule](../NamespaceValidationRule/README.md#_top)
-* Pihrtsoft\.Snippets\.Validations\.[ShortcutValidationRule](../ShortcutValidationRule/README.md#_top)
-* Pihrtsoft\.Snippets\.Validations\.[SnippetTypeValidationRule](../SnippetTypeValidationRule/README.md#_top)
-* Pihrtsoft\.Snippets\.Validations\.[TitleValidationRule](../TitleValidationRule/README.md#_top)
+* [...](#derived-all "See all derived types")
 
 ## Constructors
 
@@ -48,4 +45,17 @@ public abstract class ValidationRule
 | [MemberwiseClone()](https://docs.microsoft.com/en-us/dotnet/api/system.object.memberwiseclone) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 | [ToString()](https://docs.microsoft.com/en-us/dotnet/api/system.object.tostring) |  \(Inherited from [Object](https://docs.microsoft.com/en-us/dotnet/api/system.object)\) |
 | [Validate(Snippet)](Validate/README.md#_top) | Validates a specified snippet and returns enumerable collection of [SnippetValidationResult](../SnippetValidationResult/README.md#_top)\. |
+
+## Derived \(All\)
+
+* Pihrtsoft\.Snippets\.Validations\.[AssemblyReferenceValidationRule](../AssemblyReferenceValidationRule/README.md#_top)
+* Pihrtsoft\.Snippets\.Validations\.[CodeValidationRule](../CodeValidationRule/README.md#_top)
+* Pihrtsoft\.Snippets\.Validations\.[DescriptionValidationRule](../DescriptionValidationRule/README.md#_top)
+* Pihrtsoft\.Snippets\.Validations\.[FormatVersionValidationRule](../FormatVersionValidationRule/README.md#_top)
+* Pihrtsoft\.Snippets\.Validations\.[LiteralValidationRule](../LiteralValidationRule/README.md#_top)
+* &mdash;&mdash;&mdash;&mdash;&mdash;
+* Pihrtsoft\.Snippets\.Validations\.[NamespaceValidationRule](../NamespaceValidationRule/README.md#_top)
+* Pihrtsoft\.Snippets\.Validations\.[ShortcutValidationRule](../ShortcutValidationRule/README.md#_top)
+* Pihrtsoft\.Snippets\.Validations\.[SnippetTypeValidationRule](../SnippetTypeValidationRule/README.md#_top)
+* Pihrtsoft\.Snippets\.Validations\.[TitleValidationRule](../TitleValidationRule/README.md#_top)
 
