@@ -2,11 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using System.ComponentModel;
 using System.IO;
-using System.Xml;
-using System.Xml.Schema;
-using System.Xml.Serialization;
 
 namespace Pihrtsoft.Snippets
 {
@@ -480,117 +476,6 @@ namespace Pihrtsoft.Snippets.Validations
         Information = 0,
         Warning = 1,
         Error = 2,
-    }
-}
-
-namespace Pihrtsoft.Snippets.Xml.Serialization
-{
-    public sealed class CodeElement : IXmlSerializable
-    {
-        public CodeElement();
-
-        public string Code { get; set; }
-        public string Delimiter { get; set; }
-        public string Kind { get; set; }
-        public string Language { get; set; }
-
-        public XmlSchema GetSchema();
-        public void ReadXml(XmlReader reader);
-        public void WriteXml(XmlWriter writer);
-    }
-
-    [XmlRoot("CodeSnippet")]
-    public sealed class CodeSnippetElement
-    {
-        public CodeSnippetElement();
-
-        [XmlAttribute]
-        public string Format { get; set; }
-        public HeaderElement Header { get; set; }
-        public SnippetElement Snippet { get; set; }
-    }
-
-    [XmlRoot("CodeSnippets")]
-    public sealed class CodeSnippetsElement
-    {
-        public CodeSnippetsElement();
-
-        [XmlElement("CodeSnippet")]
-        public CodeSnippetElement[] Snippets { get; set; }
-    }
-
-    public sealed class DeclarationsElement
-    {
-        public DeclarationsElement();
-
-        [XmlElement("Literal")]
-        public LiteralElement[] Literals { get; set; }
-        [XmlElement("Object")]
-        public ObjectElement[] Objects { get; set; }
-    }
-
-    public sealed class HeaderElement
-    {
-        public HeaderElement();
-
-        [XmlArrayItem("Shortcut")]
-        public string[] AlternativeShortcuts { get; set; }
-        public string Author { get; set; }
-        public string Description { get; set; }
-        public string HelpUrl { get; set; }
-        [XmlArrayItem("Keyword")]
-        public string[] Keywords { get; set; }
-        public string Shortcut { get; set; }
-        [XmlArrayItem("SnippetType")]
-        public string[] SnippetTypes { get; set; }
-        public string Title { get; set; }
-    }
-
-    public sealed class ImportElement
-    {
-        public ImportElement();
-
-        public string Namespace { get; set; }
-    }
-
-    public class LiteralElement
-    {
-        public LiteralElement();
-
-        public string Default { get; set; }
-        [DefaultValue(true)]
-        [XmlAttribute]
-        public bool Editable { get; set; }
-        public string Function { get; set; }
-        public string ID { get; set; }
-        public string ToolTip { get; set; }
-    }
-
-    public sealed class ObjectElement : LiteralElement
-    {
-        public ObjectElement();
-
-        public string Type { get; set; }
-    }
-
-    public sealed class ReferenceElement
-    {
-        public ReferenceElement();
-
-        public string Assembly { get; set; }
-        public string Url { get; set; }
-    }
-
-    public sealed class SnippetElement
-    {
-        public SnippetElement();
-
-        public CodeElement Code { get; set; }
-        public DeclarationsElement Declarations { get; set; }
-        [XmlArrayItem("Import")]
-        public ImportElement[] Imports { get; set; }
-        [XmlArrayItem("Reference")]
-        public ReferenceElement[] References { get; set; }
     }
 }
 

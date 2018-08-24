@@ -9,7 +9,6 @@
 * [Pihrtsoft.Snippets](Pihrtsoft/Snippets/README.md#_top)
 * [Pihrtsoft.Snippets.Comparers](Pihrtsoft/Snippets/Comparers/README.md#_top)
 * [Pihrtsoft.Snippets.Validations](Pihrtsoft/Snippets/Validations/README.md#_top)
-* [Pihrtsoft.Snippets.Xml.Serialization](Pihrtsoft/Snippets/Xml/Serialization/README.md#_top)
 
 ## Classes
 
@@ -50,16 +49,6 @@
 * &emsp; \| &emsp; Pihrtsoft\.Snippets\.Validations\.[ShortcutValidationRule](Pihrtsoft/Snippets/Validations/ShortcutValidationRule/README.md#_top)
 * &emsp; \| &emsp; Pihrtsoft\.Snippets\.Validations\.[SnippetTypeValidationRule](Pihrtsoft/Snippets/Validations/SnippetTypeValidationRule/README.md#_top)
 * &emsp; \| &emsp; Pihrtsoft\.Snippets\.Validations\.[TitleValidationRule](Pihrtsoft/Snippets/Validations/TitleValidationRule/README.md#_top)
-* &emsp; Pihrtsoft\.Snippets\.Xml\.Serialization\.[CodeElement](Pihrtsoft/Snippets/Xml/Serialization/CodeElement/README.md#_top)
-* &emsp; Pihrtsoft\.Snippets\.Xml\.Serialization\.[CodeSnippetElement](Pihrtsoft/Snippets/Xml/Serialization/CodeSnippetElement/README.md#_top)
-* &emsp; Pihrtsoft\.Snippets\.Xml\.Serialization\.[CodeSnippetsElement](Pihrtsoft/Snippets/Xml/Serialization/CodeSnippetsElement/README.md#_top)
-* &emsp; Pihrtsoft\.Snippets\.Xml\.Serialization\.[DeclarationsElement](Pihrtsoft/Snippets/Xml/Serialization/DeclarationsElement/README.md#_top)
-* &emsp; Pihrtsoft\.Snippets\.Xml\.Serialization\.[HeaderElement](Pihrtsoft/Snippets/Xml/Serialization/HeaderElement/README.md#_top)
-* &emsp; Pihrtsoft\.Snippets\.Xml\.Serialization\.[ImportElement](Pihrtsoft/Snippets/Xml/Serialization/ImportElement/README.md#_top)
-* &emsp; Pihrtsoft\.Snippets\.Xml\.Serialization\.[LiteralElement](Pihrtsoft/Snippets/Xml/Serialization/LiteralElement/README.md#_top)
-* &emsp; \| &emsp; Pihrtsoft\.Snippets\.Xml\.Serialization\.[ObjectElement](Pihrtsoft/Snippets/Xml/Serialization/ObjectElement/README.md#_top)
-* &emsp; Pihrtsoft\.Snippets\.Xml\.Serialization\.[ReferenceElement](Pihrtsoft/Snippets/Xml/Serialization/ReferenceElement/README.md#_top)
-* &emsp; Pihrtsoft\.Snippets\.Xml\.Serialization\.[SnippetElement](Pihrtsoft/Snippets/Xml/Serialization/SnippetElement/README.md#_top)
 
 ## Static Classes
 

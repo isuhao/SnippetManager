@@ -19,3 +19,4 @@ public static readonly Version DefaultFormatVersion
 ### Field Value
 
 System\.[Version](https://docs.microsoft.com/en-us/dotnet/api/system.version)
+

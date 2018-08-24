@@ -19,3 +19,4 @@ public const char DefaultDelimiter = '$'
 ### Field Value
 
 System\.[Char](https://docs.microsoft.com/en-us/dotnet/api/system.char)
+
