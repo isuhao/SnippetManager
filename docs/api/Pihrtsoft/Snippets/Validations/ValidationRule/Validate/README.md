@@ -18,7 +18,7 @@ public abstract IEnumerable<SnippetValidationResult> Validate(Snippet snippet)
 
 ### Parameters
 
-#### snippet
+**snippet**
 
 A snippet to be validated\.
 

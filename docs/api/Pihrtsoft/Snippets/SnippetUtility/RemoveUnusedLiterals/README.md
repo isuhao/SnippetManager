@@ -18,6 +18,6 @@ public static void RemoveUnusedLiterals(Snippet snippet)
 
 ### Parameters
 
-#### snippet
+**snippet**
 
 [Snippet](../../Snippet/README.md#_top) to remove literals from\.

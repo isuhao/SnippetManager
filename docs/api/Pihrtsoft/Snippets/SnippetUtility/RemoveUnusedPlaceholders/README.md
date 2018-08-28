@@ -18,6 +18,6 @@ public static void RemoveUnusedPlaceholders(Snippet snippet)
 
 ### Parameters
 
-#### snippet
+**snippet**
 
 [Snippet](../../Snippet/README.md#_top) to remove placeholders from\.

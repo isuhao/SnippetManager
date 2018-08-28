@@ -18,7 +18,7 @@ public override int GetHashCode(AssemblyReference obj)
 
 ### Parameters
 
-#### obj
+**obj**
 
 An assembly reference\.
 

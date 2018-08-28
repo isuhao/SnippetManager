@@ -27,7 +27,7 @@ public override int GetHashCode(object obj)
 
 ### Parameters
 
-#### obj
+**obj**
 
 An object\.
 
@@ -49,7 +49,7 @@ public override int GetHashCode(Snippet obj)
 
 ### Parameters
 
-#### obj
+**obj**
 
 A snippet\.
 

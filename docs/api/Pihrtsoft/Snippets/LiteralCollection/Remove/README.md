@@ -18,7 +18,7 @@ public bool Remove(string identifier)
 
 ### Parameters
 
-#### identifier
+**identifier**
 
 A literal identifier\.
 

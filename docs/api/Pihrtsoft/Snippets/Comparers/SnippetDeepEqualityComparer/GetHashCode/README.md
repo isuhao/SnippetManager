@@ -18,7 +18,7 @@ public override int GetHashCode(Snippet obj)
 
 ### Parameters
 
-#### obj
+**obj**
 
 A snipppet\.
 

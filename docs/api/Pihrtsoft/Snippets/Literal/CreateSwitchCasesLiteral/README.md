@@ -18,19 +18,19 @@ public static Literal CreateSwitchCasesLiteral(string identifier, string express
 
 ### Parameters
 
-#### identifier
+**identifier**
 
 The [Literal](../README.md#_top) identifier\.
 
-#### expressionIdentifier
+**expressionIdentifier**
 
 Identifier of the literal that represent switch expression\.
 
-#### toolTip
+**toolTip**
 
 The [Literal](../README.md#_top) description\.
 
-#### defaultValue
+**defaultValue**
 
 The [Literal](../README.md#_top)default value\.
 

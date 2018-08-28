@@ -18,7 +18,7 @@ public Placeholder Find(string identifier)
 
 ### Parameters
 
-#### identifier
+**identifier**
 
 A placeholder identifier\.
 

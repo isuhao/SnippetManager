@@ -16,7 +16,7 @@ public SnippetCode(Snippet snippet)
 
 ### Parameters
 
-#### snippet
+**snippet**
 
 A snippet
 

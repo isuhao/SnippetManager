@@ -18,11 +18,11 @@ public override bool Equals(Literal x, Literal y)
 
 ### Parameters
 
-#### x
+**x**
 
 A [Literal](../../../Literal/README.md#_top) to compare to **y**\.
 
-#### y
+**y**
 
 A [Literal](../../../Literal/README.md#_top) to compare to **x**\.
 

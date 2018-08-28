@@ -27,7 +27,7 @@ public int GetHashCode(Literal obj)
 
 ### Parameters
 
-#### obj
+**obj**
 
 A literal\.
 
@@ -53,7 +53,7 @@ public int GetHashCode(object obj)
 
 ### Parameters
 
-#### obj
+**obj**
 
 An object\.
 

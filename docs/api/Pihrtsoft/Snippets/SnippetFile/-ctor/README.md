@@ -35,6 +35,6 @@ public SnippetFile(string fullName)
 
 ### Parameters
 
-#### fullName
+**fullName**
 
 Full name of the snippet file\.

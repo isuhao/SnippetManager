@@ -18,7 +18,7 @@ public Placeholder this[string identifier] { get; }
 
 ### Parameters
 
-#### identifier
+**identifier**
 
 A placeholder identifier\.
 

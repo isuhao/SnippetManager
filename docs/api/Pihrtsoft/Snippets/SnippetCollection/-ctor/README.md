@@ -35,6 +35,6 @@ public SnippetCollection(IList<Snippet> list)
 
 ### Parameters
 
-#### list
+**list**
 
 The list to wrap\.

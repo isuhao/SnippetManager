@@ -18,7 +18,7 @@ public Literal this[string identifier] { get; }
 
 ### Parameters
 
-#### identifier
+**identifier**
 
 A literal identifier\.
 

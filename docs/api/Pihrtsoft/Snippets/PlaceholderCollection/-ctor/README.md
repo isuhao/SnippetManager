@@ -16,6 +16,6 @@ public PlaceholderCollection(IList<Placeholder> list)
 
 ### Parameters
 
-#### list
+**list**
 
 The list to wrap\.

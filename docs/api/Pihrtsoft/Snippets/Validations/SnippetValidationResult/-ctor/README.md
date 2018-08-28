@@ -25,19 +25,19 @@ public SnippetValidationResult(Snippet snippet, string code, string description,
 
 ### Parameters
 
-#### snippet
+**snippet**
 
 A snippet\.
 
-#### code
+**code**
 
 Alphanumeric code the identifies the result\.
 
-#### description
+**description**
 
 Result description\.
 
-#### importance
+**importance**
 
 Result importance\.
 
@@ -59,23 +59,23 @@ public SnippetValidationResult(Snippet snippet, string code, string description,
 
 ### Parameters
 
-#### snippet
+**snippet**
 
 A snippet\.
 
-#### code
+**code**
 
 Alphanumeric code the identifies the result\.
 
-#### description
+**description**
 
 Result description\.
 
-#### importance
+**importance**
 
 Result importance\.
 
-#### content
+**content**
 
 Additional result content\. The value can be `null`\.
 

@@ -18,7 +18,7 @@ public override int GetHashCode(Literal obj)
 
 ### Parameters
 
-#### obj
+**obj**
 
 A literal\.
 

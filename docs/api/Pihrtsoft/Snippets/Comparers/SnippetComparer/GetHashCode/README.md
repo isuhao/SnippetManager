@@ -27,7 +27,7 @@ public abstract int GetHashCode(object obj)
 
 ### Parameters
 
-#### obj
+**obj**
 
 An object\.
 
@@ -53,7 +53,7 @@ public abstract int GetHashCode(Snippet obj)
 
 ### Parameters
 
-#### obj
+**obj**
 
 A snippet\.
 

@@ -18,11 +18,11 @@ public string ReplacePlaceholders(string identifier, string replacement)
 
 ### Parameters
 
-#### identifier
+**identifier**
 
 A placeholder identifier\.
 
-#### replacement
+**replacement**
 
 The string to replace all occurrences of placeholder with the specified identifier\.
 

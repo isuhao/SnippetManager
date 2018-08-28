@@ -29,7 +29,7 @@ public void Save(Stream stream)
 
 ### Parameters
 
-#### stream
+**stream**
 
 The stream to output this [Snippet](../README.md#_top) to\.
 
@@ -45,11 +45,11 @@ public void Save(Stream stream, SaveSettings settings)
 
 ### Parameters
 
-#### stream
+**stream**
 
 The stream to output this [Snippet](../README.md#_top) to\.
 
-#### settings
+**settings**
 
 A [SaveSettings](../../SaveSettings/README.md#_top) that modify serialization process\.
 
@@ -65,7 +65,7 @@ public void Save(string filePath)
 
 ### Parameters
 
-#### filePath
+**filePath**
 
 The absolute or relative path to the file\.
 
@@ -81,10 +81,10 @@ public void Save(string filePath, SaveSettings settings)
 
 ### Parameters
 
-#### filePath
+**filePath**
 
 The absolute or relative path to the file\.
 
-#### settings
+**settings**
 
 A [SaveSettings](../../SaveSettings/README.md#_top) that modify serialization process\.

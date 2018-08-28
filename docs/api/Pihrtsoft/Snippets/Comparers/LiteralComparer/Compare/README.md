@@ -27,11 +27,11 @@ public int Compare(Literal x, Literal y)
 
 ### Parameters
 
-#### x
+**x**
 
 A [Literal](../../../Literal/README.md#_top) to compare to **y**\.
 
-#### y
+**y**
 
 A [Literal](../../../Literal/README.md#_top) to compare to **x**\.
 
@@ -57,11 +57,11 @@ public int Compare(object x, object y)
 
 ### Parameters
 
-#### x
+**x**
 
 An object to compare to **y**\.
 
-#### y
+**y**
 
 An object to compare to **x**\.
 

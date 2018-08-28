@@ -37,6 +37,6 @@ public void Sort(IComparer<Literal> comparer)
 
 ### Parameters
 
-#### comparer
+**comparer**
 
 The [IComparer\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icomparer-1) implementation to use when comparing elements\.

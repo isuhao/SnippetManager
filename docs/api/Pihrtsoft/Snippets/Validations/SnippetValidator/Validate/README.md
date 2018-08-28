@@ -27,7 +27,7 @@ public IEnumerable<SnippetValidationResult> Validate(Snippet snippet)
 
 ### Parameters
 
-#### snippet
+**snippet**
 
 A [Snippet](../../../Snippet/README.md#_top) that is being validated\.
 
@@ -55,7 +55,7 @@ protected virtual IEnumerable<SnippetValidationResult> Validate(SnippetValidatio
 
 ### Parameters
 
-#### context
+**context**
 
 A [SnippetValidationContext](../../SnippetValidationContext/README.md#_top) that stores data about the validation\.
 

@@ -18,7 +18,7 @@ public static IEnumerable<DuplicateShortcutInfo> FindDuplicateShortcuts(IEnumera
 
 ### Parameters
 
-#### snippets
+**snippets**
 
 Collection of [Snippet](../../Snippet/README.md#_top)s\.
 

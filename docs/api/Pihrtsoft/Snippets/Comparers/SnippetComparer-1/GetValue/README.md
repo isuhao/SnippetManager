@@ -18,7 +18,7 @@ protected abstract T GetValue(Snippet snippet)
 
 ### Parameters
 
-#### snippet
+**snippet**
 
 A snippet\.
 

@@ -18,11 +18,11 @@ public static IEnumerable<SnippetFile> DeserializeFiles(string directoryPath, Se
 
 ### Parameters
 
-#### directoryPath
+**directoryPath**
 
 The absolute or relative path to the directory to search\.
 
-#### searchOption
+**searchOption**
 
 A [SearchOption](https://docs.microsoft.com/en-us/dotnet/api/system.io.searchoption) value that specifies whether the search should include all subdirectories or only current directory\.
 

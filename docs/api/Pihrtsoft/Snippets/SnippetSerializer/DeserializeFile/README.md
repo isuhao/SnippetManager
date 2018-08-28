@@ -18,7 +18,7 @@ public static SnippetFile DeserializeFile(string filePath)
 
 ### Parameters
 
-#### filePath
+**filePath**
 
 The absolute or relative path to the file\.
 

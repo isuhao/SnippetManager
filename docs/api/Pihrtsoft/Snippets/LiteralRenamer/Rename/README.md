@@ -18,15 +18,15 @@ public static void Rename(Snippet snippet, string oldIdentifier, string newIdent
 
 ### Parameters
 
-#### snippet
+**snippet**
 
 [Snippet](../../Snippet/README.md#_top) that contains the literal to rename\.
 
-#### oldIdentifier
+**oldIdentifier**
 
 Old identifier\.
 
-#### newIdentifier
+**newIdentifier**
 
 New identifier\.
 

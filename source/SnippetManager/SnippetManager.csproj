@@ -146,8 +146,8 @@
   </Target>
   <Target Name="PreRoslynatorDocumention" BeforeTargets="RoslynatorDocumentation" Condition=" '$(Configuration)' == 'Release'">
     <PropertyGroup>
-      <RoslynatorDocumentationParameters> -a "$(TargetPath)" -o "$(SolutionDir)..\docs\api" -h "Snippet Manager API Reference" -m github --ignored-namespaces &quot;Pihrtsoft.Snippets.Xml.Serialization&quot;</RoslynatorDocumentationParameters>
-      <RoslynatorDocumentationDeclarationListParameters> -a &quot;$(TargetPath)&quot; -o &quot;$(SolutionDir)..\docs\api.cs&quot; --ignored-namespaces &quot;Pihrtsoft.Snippets.Xml.Serialization&quot;</RoslynatorDocumentationDeclarationListParameters>
+      <RoslynatorDocumentationDocParameters> -a &quot;$(TargetPath)&quot; -o &quot;$(SolutionDir)..\docs\api&quot; -h &quot;Snippet Manager API Reference&quot; --ignored-names &quot;Pihrtsoft.Snippets.Xml&quot;</RoslynatorDocumentationDocParameters>
+      <RoslynatorDocumentationDeclarationsParameters> -a &quot;$(TargetPath)&quot; -o &quot;$(SolutionDir)..\docs\api.cs&quot; --ignored-names &quot;Pihrtsoft.Snippets.Xml&quot;</RoslynatorDocumentationDeclarationsParameters>
     </PropertyGroup>
   </Target>
   <Import Project="..\packages\Roslynator.Documentation.CommandLine.0.1.0-beta\build\net40\Roslynator.Documentation.CommandLine.targets" Condition="Exists('..\packages\Roslynator.Documentation.CommandLine.0.1.0-beta\build\net40\Roslynator.Documentation.CommandLine.targets')" />

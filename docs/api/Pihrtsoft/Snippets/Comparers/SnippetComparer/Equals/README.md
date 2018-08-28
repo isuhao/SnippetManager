@@ -27,11 +27,11 @@ public abstract bool Equals(object x, object y)
 
 ### Parameters
 
-#### x
+**x**
 
 An object to compare to **y**\.
 
-#### y
+**y**
 
 An object to compare to **x**\.
 
@@ -57,11 +57,11 @@ public abstract bool Equals(Snippet x, Snippet y)
 
 ### Parameters
 
-#### x
+**x**
 
 A [Snippet](../../../Snippet/README.md#_top) to compare to **y**\.
 
-#### y
+**y**
 
 A [Snippet](../../../Snippet/README.md#_top) to compare to **x**\.
 

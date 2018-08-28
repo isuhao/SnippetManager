@@ -18,11 +18,11 @@ public override bool Equals(Snippet x, Snippet y)
 
 ### Parameters
 
-#### x
+**x**
 
 A [Snippet](../../../Snippet/README.md#_top) to compare to **y**\.
 
-#### y
+**y**
 
 A [Snippet](../../../Snippet/README.md#_top) to compare to **x**\.
 

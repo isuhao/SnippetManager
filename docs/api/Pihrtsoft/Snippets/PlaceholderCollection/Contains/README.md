@@ -18,7 +18,7 @@ public bool Contains(string identifier)
 
 ### Parameters
 
-#### identifier
+**identifier**
 
 A [Placeholder.Identifier](../../Placeholder/Identifier/README.md#_top) to search for\.
 

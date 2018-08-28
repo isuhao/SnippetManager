@@ -18,7 +18,7 @@ protected abstract string GetValue(Literal literal)
 
 ### Parameters
 
-#### literal
+**literal**
 
 A literal\.
 

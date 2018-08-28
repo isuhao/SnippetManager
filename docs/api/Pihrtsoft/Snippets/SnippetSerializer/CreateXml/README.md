@@ -29,7 +29,7 @@ public static string CreateXml(IEnumerable<Snippet> snippets)
 
 ### Parameters
 
-#### snippets
+**snippets**
 
 Enumerable collection of [Snippet](../../Snippet/README.md#_top) to be serialized\.
 
@@ -51,11 +51,11 @@ public static string CreateXml(IEnumerable<Snippet> snippets, SaveSettings setti
 
 ### Parameters
 
-#### snippets
+**snippets**
 
 Enumerable collection of [Snippet](../../Snippet/README.md#_top) to be serialized\.
 
-#### settings
+**settings**
 
 A [SaveSettings](../../SaveSettings/README.md#_top) that modify serialization process\.
 
@@ -83,7 +83,7 @@ public static string CreateXml(Snippet snippet)
 
 ### Parameters
 
-#### snippet
+**snippet**
 
 A [Snippet](../../Snippet/README.md#_top) to be serialized\.
 
@@ -105,11 +105,11 @@ public static string CreateXml(Snippet snippet, SaveSettings settings)
 
 ### Parameters
 
-#### snippet
+**snippet**
 
 A [Snippet](../../Snippet/README.md#_top) to be serialized\.
 
-#### settings
+**settings**
 
 A [SaveSettings](../../SaveSettings/README.md#_top) that modify serialization process\.
 

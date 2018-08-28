@@ -18,11 +18,11 @@ public string RenamePlaceholder(string oldIdentifier, string newIdentifier)
 
 ### Parameters
 
-#### oldIdentifier
+**oldIdentifier**
 
 The identifier to be replaced\.
 
-#### newIdentifier
+**newIdentifier**
 
 The idenfier to replace all occurrences of **oldIdentifier**\.
 

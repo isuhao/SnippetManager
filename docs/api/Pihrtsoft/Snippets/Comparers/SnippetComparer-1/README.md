@@ -18,7 +18,7 @@ public abstract class SnippetComparer<T> : SnippetComparer
 
 ### Type Parameters
 
-#### T
+**T**
 
 ### Inheritance
 

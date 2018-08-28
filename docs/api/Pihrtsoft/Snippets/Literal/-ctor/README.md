@@ -16,15 +16,15 @@ public Literal(string identifier, string toolTip = null, string defaultValue = "
 
 ### Parameters
 
-#### identifier
+**identifier**
 
 The [Literal](../README.md#_top) identifier\.
 
-#### toolTip
+**toolTip**
 
 The [Literal](../README.md#_top) description\.
 
-#### defaultValue
+**defaultValue**
 
 The [Literal](../README.md#_top)default value\.
 

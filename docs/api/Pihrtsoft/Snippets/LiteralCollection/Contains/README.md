@@ -18,7 +18,7 @@ public bool Contains(string identifier)
 
 ### Parameters
 
-#### identifier
+**identifier**
 
 A literal identifier to search for\.
 

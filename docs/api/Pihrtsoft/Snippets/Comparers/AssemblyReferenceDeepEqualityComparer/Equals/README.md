@@ -18,11 +18,11 @@ public override bool Equals(AssemblyReference x, AssemblyReference y)
 
 ### Parameters
 
-#### x
+**x**
 
 A [AssemblyReference](../../../AssemblyReference/README.md#_top) to compare to **y**\.
 
-#### y
+**y**
 
 A [AssemblyReference](../../../AssemblyReference/README.md#_top) to compare to **x**\.
 

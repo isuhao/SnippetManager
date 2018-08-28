@@ -35,7 +35,7 @@ public static void Serialize(SnippetFile snippetFile)
 
 ### Parameters
 
-#### snippetFile
+**snippetFile**
 
 A snippet file to be serialized\.
 
@@ -57,11 +57,11 @@ public static void Serialize(SnippetFile snippetFile, SaveSettings settings)
 
 ### Parameters
 
-#### snippetFile
+**snippetFile**
 
 A snippet file to be serialized\.
 
-#### settings
+**settings**
 
 A [SaveSettings](../../SaveSettings/README.md#_top) that modify serialization process\.
 
@@ -87,11 +87,11 @@ public static void Serialize(Stream stream, IEnumerable<Snippet> snippets)
 
 ### Parameters
 
-#### stream
+**stream**
 
 The stream to output this [Snippet](../../Snippet/README.md#_top) to\.
 
-#### snippets
+**snippets**
 
 Enumerable collection of [Snippet](../../Snippet/README.md#_top) to be serialized\.
 
@@ -107,15 +107,15 @@ public static void Serialize(Stream stream, IEnumerable<Snippet> snippets, SaveS
 
 ### Parameters
 
-#### stream
+**stream**
 
 The stream to output this [Snippet](../../Snippet/README.md#_top) to\.
 
-#### snippets
+**snippets**
 
 Enumerable collection of [Snippet](../../Snippet/README.md#_top) to be serialized\.
 
-#### settings
+**settings**
 
 A [SaveSettings](../../SaveSettings/README.md#_top) that modify serialization process\.
 
@@ -137,11 +137,11 @@ public static void Serialize(Stream stream, Snippet snippet)
 
 ### Parameters
 
-#### stream
+**stream**
 
 The stream to output this [Snippet](../../Snippet/README.md#_top) to\.
 
-#### snippet
+**snippet**
 
 A [Snippet](../../Snippet/README.md#_top) to be serialized\.
 
@@ -157,15 +157,15 @@ public static void Serialize(Stream stream, Snippet snippet, SaveSettings settin
 
 ### Parameters
 
-#### stream
+**stream**
 
 The stream to output this [Snippet](../../Snippet/README.md#_top) to\.
 
-#### snippet
+**snippet**
 
 A [Snippet](../../Snippet/README.md#_top) to be serialized\.
 
-#### settings
+**settings**
 
 A [SaveSettings](../../SaveSettings/README.md#_top) that modify serialization process\.
 
@@ -187,11 +187,11 @@ public static void Serialize(string filePath, IEnumerable<Snippet> snippets)
 
 ### Parameters
 
-#### filePath
+**filePath**
 
 The absolute or relative path to the file\.
 
-#### snippets
+**snippets**
 
 Enumerable collection of [Snippet](../../Snippet/README.md#_top) to be serialized\.
 
@@ -207,15 +207,15 @@ public static void Serialize(string filePath, IEnumerable<Snippet> snippets, Sav
 
 ### Parameters
 
-#### filePath
+**filePath**
 
 The absolute or relative path to the file\.
 
-#### snippets
+**snippets**
 
 Enumerable collection of [Snippet](../../Snippet/README.md#_top) to be serialized\.
 
-#### settings
+**settings**
 
 A [SaveSettings](../../SaveSettings/README.md#_top) that modify serialization process\.
 
@@ -237,11 +237,11 @@ public static void Serialize(string filePath, Snippet snippet)
 
 ### Parameters
 
-#### filePath
+**filePath**
 
 The absolute or relative path to the file\.
 
-#### snippet
+**snippet**
 
 A [Snippet](../../Snippet/README.md#_top) to be serialized\.
 
@@ -257,15 +257,15 @@ public static void Serialize(string filePath, Snippet snippet, SaveSettings sett
 
 ### Parameters
 
-#### filePath
+**filePath**
 
 The absolute or relative path to the file\.
 
-#### snippet
+**snippet**
 
 A [Snippet](../../Snippet/README.md#_top) to be serialized\.
 
-#### settings
+**settings**
 
 A [SaveSettings](../../SaveSettings/README.md#_top) that modify serialization process\.
 
