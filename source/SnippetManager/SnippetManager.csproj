@@ -144,17 +144,35 @@
       <Output TaskParameter="ConsoleOutput" PropertyName="OutputOfExec" />
     </Exec>
   </Target>
-  <Target Name="PreRoslynatorDocumention" BeforeTargets="RoslynatorDocumentation" Condition=" '$(Configuration)' == 'Release'">
+  <Target Name="RoslynatorDocumentation" AfterTargets="RoslynatorDocumentationInitialize" Condition=" '$(Configuration)' == 'Release'">
     <PropertyGroup>
-      <RoslynatorDocumentationDocParameters> -a &quot;$(TargetPath)&quot; -o &quot;$(SolutionDir)..\docs\api&quot; -h &quot;Snippet Manager API Reference&quot; --ignored-names &quot;Pihrtsoft.Snippets.Xml&quot;</RoslynatorDocumentationDocParameters>
-      <RoslynatorDocumentationDeclarationsParameters> -a &quot;$(TargetPath)&quot; -o &quot;$(SolutionDir)..\docs\api.cs&quot; --ignored-names &quot;Pihrtsoft.Snippets.Xml&quot;</RoslynatorDocumentationDeclarationsParameters>
+      <RoslynatorDocumentationAssemblies>&quot;$(TargetPath)&quot;</RoslynatorDocumentationAssemblies>
     </PropertyGroup>
+    <Exec Command="$(RoslynatorDocumentationExe) doc ^
+      -a $(RoslynatorDocumentationAssemblies) ^
+      -r &quot;$(RoslynatorDocumentationAssemblyReferencesPath)&quot; ^
+      -o &quot;$(SolutionDir)..\docs\api&quot; ^
+      -h &quot;Snippet Manager API Reference&quot; ^
+      --ignored-names &quot;Pihrtsoft.Snippets.Xml&quot;"
+          LogStandardErrorAsError="true"
+          ConsoleToMSBuild="true">
+      <Output TaskParameter="ConsoleOutput" PropertyName="OutputOfExec" />
+    </Exec>
+    <Exec Command="$(RoslynatorDocumentationExe) declarations ^
+      -a $(RoslynatorDocumentationAssemblies) ^
+      -r &quot;$(RoslynatorDocumentationAssemblyReferencesPath)&quot; ^
+      -o &quot;$(SolutionDir)..\docs\api.cs&quot; ^
+      --ignored-names &quot;Pihrtsoft.Snippets.Xml&quot;"
+          LogStandardErrorAsError="true"
+          ConsoleToMSBuild="true">
+      <Output TaskParameter="ConsoleOutput" PropertyName="OutputOfExec" />
+    </Exec>
   </Target>
-  <Import Project="..\packages\Roslynator.Documentation.CommandLine.0.1.0-beta\build\net40\Roslynator.Documentation.CommandLine.targets" Condition="Exists('..\packages\Roslynator.Documentation.CommandLine.0.1.0-beta\build\net40\Roslynator.Documentation.CommandLine.targets')" />
+  <Import Project="..\packages\Roslynator.Documentation.Build.0.1.0-beta\build\net40\Roslynator.Documentation.Build.targets" Condition="Exists('..\packages\Roslynator.Documentation.Build.0.1.0-beta\build\net40\Roslynator.Documentation.Build.targets')" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
       <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
     </PropertyGroup>
-    <Error Condition="!Exists('..\packages\Roslynator.Documentation.CommandLine.0.1.0-beta\build\net40\Roslynator.Documentation.CommandLine.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Roslynator.Documentation.CommandLine.0.1.0-beta\build\net40\Roslynator.Documentation.CommandLine.targets'))" />
+    <Error Condition="!Exists('..\packages\Roslynator.Documentation.Build.0.1.0-beta\build\net40\Roslynator.Documentation.Build.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Roslynator.Documentation.Build.0.1.0-beta\build\net40\Roslynator.Documentation.Build.targets'))" />
   </Target>
 </Project>
